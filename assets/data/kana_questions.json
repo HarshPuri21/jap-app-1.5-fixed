@@ -1,0 +1,4037 @@
+[
+  {
+    "character": "あ",
+    "romaji": "a",
+    "sound": "a",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "pe",
+      "ya",
+      "a",
+      "hya"
+    ],
+    "answer": "a"
+  },
+  {
+    "character": "ア",
+    "romaji": "a",
+    "sound": "a",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ki",
+      "a",
+      "n",
+      "wo"
+    ],
+    "answer": "a"
+  },
+  {
+    "character": "い",
+    "romaji": "i",
+    "sound": "i",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "pyu",
+      "cha",
+      "ja",
+      "i"
+    ],
+    "answer": "i"
+  },
+  {
+    "character": "イ",
+    "romaji": "i",
+    "sound": "i",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "i",
+      "chi",
+      "u",
+      "wo"
+    ],
+    "answer": "i"
+  },
+  {
+    "character": "う",
+    "romaji": "u",
+    "sound": "u",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "fu",
+      "u",
+      "ri",
+      "no"
+    ],
+    "answer": "u"
+  },
+  {
+    "character": "ウ",
+    "romaji": "u",
+    "sound": "u",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "zu",
+      "bi",
+      "ju",
+      "u"
+    ],
+    "answer": "u"
+  },
+  {
+    "character": "え",
+    "romaji": "e",
+    "sound": "e",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "do",
+      "ji",
+      "wa",
+      "e"
+    ],
+    "answer": "e"
+  },
+  {
+    "character": "エ",
+    "romaji": "e",
+    "sound": "e",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "di",
+      "ze",
+      "ye",
+      "e"
+    ],
+    "answer": "e"
+  },
+  {
+    "character": "お",
+    "romaji": "o",
+    "sound": "o",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "kyo",
+      "ne",
+      "tsu",
+      "o"
+    ],
+    "answer": "o"
+  },
+  {
+    "character": "オ",
+    "romaji": "o",
+    "sound": "o",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "o",
+      "shi",
+      "fyo",
+      "zu"
+    ],
+    "answer": "o"
+  },
+  {
+    "character": "か",
+    "romaji": "ka",
+    "sound": "ka",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ka",
+      "bu",
+      "nu",
+      "rya"
+    ],
+    "answer": "ka"
+  },
+  {
+    "character": "カ",
+    "romaji": "ka",
+    "sound": "ka",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "do",
+      "mi",
+      "byo",
+      "ka"
+    ],
+    "answer": "ka"
+  },
+  {
+    "character": "き",
+    "romaji": "ki",
+    "sound": "ki",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "mo",
+      "ki",
+      "i",
+      "o"
+    ],
+    "answer": "ki"
+  },
+  {
+    "character": "キ",
+    "romaji": "ki",
+    "sound": "ki",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "so",
+      "zo",
+      "ki",
+      "bi"
+    ],
+    "answer": "ki"
+  },
+  {
+    "character": "く",
+    "romaji": "ku",
+    "sound": "ku",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ku",
+      "a",
+      "shu",
+      "do"
+    ],
+    "answer": "ku"
+  },
+  {
+    "character": "ク",
+    "romaji": "ku",
+    "sound": "ku",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "de",
+      "ku",
+      "je",
+      "vyu"
+    ],
+    "answer": "ku"
+  },
+  {
+    "character": "け",
+    "romaji": "ke",
+    "sound": "ke",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "so",
+      "ja",
+      "kya",
+      "ke"
+    ],
+    "answer": "ke"
+  },
+  {
+    "character": "ケ",
+    "romaji": "ke",
+    "sound": "ke",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ji",
+      "po",
+      "ke",
+      "jo"
+    ],
+    "answer": "ke"
+  },
+  {
+    "character": "こ",
+    "romaji": "ko",
+    "sound": "ko",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "bu",
+      "pya",
+      "gu",
+      "ko"
+    ],
+    "answer": "ko"
+  },
+  {
+    "character": "コ",
+    "romaji": "ko",
+    "sound": "ko",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "byu",
+      "bi",
+      "ko",
+      "gyo"
+    ],
+    "answer": "ko"
+  },
+  {
+    "character": "さ",
+    "romaji": "sa",
+    "sound": "sa",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "i",
+      "u",
+      "sa",
+      "ja"
+    ],
+    "answer": "sa"
+  },
+  {
+    "character": "サ",
+    "romaji": "sa",
+    "sound": "sa",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "sa",
+      "gi",
+      "no",
+      "di"
+    ],
+    "answer": "sa"
+  },
+  {
+    "character": "し",
+    "romaji": "shi",
+    "sound": "shi",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "gu",
+      "yo",
+      "kyo",
+      "shi"
+    ],
+    "answer": "shi"
+  },
+  {
+    "character": "シ",
+    "romaji": "shi",
+    "sound": "shi",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "go",
+      "yo",
+      "shi",
+      "fyu"
+    ],
+    "answer": "shi"
+  },
+  {
+    "character": "す",
+    "romaji": "su",
+    "sound": "su",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "bi",
+      "su",
+      "gi",
+      "ji"
+    ],
+    "answer": "su"
+  },
+  {
+    "character": "ス",
+    "romaji": "su",
+    "sound": "su",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ji",
+      "gi",
+      "su",
+      "ra"
+    ],
+    "answer": "su"
+  },
+  {
+    "character": "せ",
+    "romaji": "se",
+    "sound": "se",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "kyu",
+      "yu",
+      "se",
+      "zu"
+    ],
+    "answer": "se"
+  },
+  {
+    "character": "セ",
+    "romaji": "se",
+    "sound": "se",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ji",
+      "se",
+      "bu",
+      "kwo"
+    ],
+    "answer": "se"
+  },
+  {
+    "character": "そ",
+    "romaji": "so",
+    "sound": "so",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "sho",
+      "cha",
+      "yo",
+      "so"
+    ],
+    "answer": "so"
+  },
+  {
+    "character": "ソ",
+    "romaji": "so",
+    "sound": "so",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "zu",
+      "so",
+      "ri",
+      "cho"
+    ],
+    "answer": "so"
+  },
+  {
+    "character": "た",
+    "romaji": "ta",
+    "sound": "ta",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ta",
+      "pe",
+      "gu",
+      "bu"
+    ],
+    "answer": "ta"
+  },
+  {
+    "character": "タ",
+    "romaji": "ta",
+    "sound": "ta",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "myu",
+      "chi",
+      "hya",
+      "ta"
+    ],
+    "answer": "ta"
+  },
+  {
+    "character": "ち",
+    "romaji": "chi",
+    "sound": "chi",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "bi",
+      "ga",
+      "chi",
+      "be"
+    ],
+    "answer": "chi"
+  },
+  {
+    "character": "チ",
+    "romaji": "chi",
+    "sound": "chi",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "hyu",
+      "ki",
+      "ge",
+      "chi"
+    ],
+    "answer": "chi"
+  },
+  {
+    "character": "つ",
+    "romaji": "tsu",
+    "sound": "tsu",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ri",
+      "tsu",
+      "go",
+      "ya"
+    ],
+    "answer": "tsu"
+  },
+  {
+    "character": "ツ",
+    "romaji": "tsu",
+    "sound": "tsu",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "fyo",
+      "mo",
+      "tsu",
+      "she"
+    ],
+    "answer": "tsu"
+  },
+  {
+    "character": "て",
+    "romaji": "te",
+    "sound": "te",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "cha",
+      "cho",
+      "sa",
+      "te"
+    ],
+    "answer": "te"
+  },
+  {
+    "character": "テ",
+    "romaji": "te",
+    "sound": "te",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "te",
+      "cha",
+      "gi",
+      "pu"
+    ],
+    "answer": "te"
+  },
+  {
+    "character": "と",
+    "romaji": "to",
+    "sound": "to",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "to",
+      "tsu",
+      "yu",
+      "ji"
+    ],
+    "answer": "to"
+  },
+  {
+    "character": "ト",
+    "romaji": "to",
+    "sound": "to",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "gu",
+      "to",
+      "bya",
+      "rya"
+    ],
+    "answer": "to"
+  },
+  {
+    "character": "な",
+    "romaji": "na",
+    "sound": "na",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "za",
+      "o",
+      "na",
+      "ba"
+    ],
+    "answer": "na"
+  },
+  {
+    "character": "ナ",
+    "romaji": "na",
+    "sound": "na",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ya",
+      "bu",
+      "ri",
+      "na"
+    ],
+    "answer": "na"
+  },
+  {
+    "character": "に",
+    "romaji": "ni",
+    "sound": "ni",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ru",
+      "sho",
+      "u",
+      "ni"
+    ],
+    "answer": "ni"
+  },
+  {
+    "character": "ニ",
+    "romaji": "ni",
+    "sound": "ni",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "be",
+      "re",
+      "ni",
+      "fi"
+    ],
+    "answer": "ni"
+  },
+  {
+    "character": "ぬ",
+    "romaji": "nu",
+    "sound": "nu",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "nu",
+      "shu",
+      "ki",
+      "so"
+    ],
+    "answer": "nu"
+  },
+  {
+    "character": "ヌ",
+    "romaji": "nu",
+    "sound": "nu",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "hyu",
+      "vyo",
+      "nu",
+      "rya"
+    ],
+    "answer": "nu"
+  },
+  {
+    "character": "ね",
+    "romaji": "ne",
+    "sound": "ne",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "mi",
+      "ta",
+      "ke",
+      "ne"
+    ],
+    "answer": "ne"
+  },
+  {
+    "character": "ネ",
+    "romaji": "ne",
+    "sound": "ne",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "fyo",
+      "fa",
+      "ne",
+      "pya"
+    ],
+    "answer": "ne"
+  },
+  {
+    "character": "の",
+    "romaji": "no",
+    "sound": "no",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "byu",
+      "ya",
+      "no",
+      "mo"
+    ],
+    "answer": "no"
+  },
+  {
+    "character": "ノ",
+    "romaji": "no",
+    "sound": "no",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "no",
+      "she",
+      "ke",
+      "gyu"
+    ],
+    "answer": "no"
+  },
+  {
+    "character": "は",
+    "romaji": "ha",
+    "sound": "ha",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ha",
+      "gu",
+      "kya",
+      "ro"
+    ],
+    "answer": "ha"
+  },
+  {
+    "character": "ハ",
+    "romaji": "ha",
+    "sound": "ha",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "nya",
+      "ha",
+      "ja",
+      "kwa"
+    ],
+    "answer": "ha"
+  },
+  {
+    "character": "ひ",
+    "romaji": "hi",
+    "sound": "hi",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "bya",
+      "ku",
+      "hi",
+      "pyu"
+    ],
+    "answer": "hi"
+  },
+  {
+    "character": "ヒ",
+    "romaji": "hi",
+    "sound": "hi",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "pe",
+      "cho",
+      "ta",
+      "hi"
+    ],
+    "answer": "hi"
+  },
+  {
+    "character": "ふ",
+    "romaji": "fu",
+    "sound": "fu",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "fu",
+      "ji",
+      "ro",
+      "nyu"
+    ],
+    "answer": "fu"
+  },
+  {
+    "character": "フ",
+    "romaji": "fu",
+    "sound": "fu",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "gwe",
+      "ki",
+      "ya",
+      "fu"
+    ],
+    "answer": "fu"
+  },
+  {
+    "character": "へ",
+    "romaji": "he",
+    "sound": "he",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "gyu",
+      "pe",
+      "da",
+      "he"
+    ],
+    "answer": "he"
+  },
+  {
+    "character": "ヘ",
+    "romaji": "he",
+    "sound": "he",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "yu",
+      "mo",
+      "pu",
+      "he"
+    ],
+    "answer": "he"
+  },
+  {
+    "character": "ほ",
+    "romaji": "ho",
+    "sound": "ho",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "a",
+      "ho",
+      "do",
+      "ze"
+    ],
+    "answer": "ho"
+  },
+  {
+    "character": "ホ",
+    "romaji": "ho",
+    "sound": "ho",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "go",
+      "i",
+      "mo",
+      "ho"
+    ],
+    "answer": "ho"
+  },
+  {
+    "character": "ま",
+    "romaji": "ma",
+    "sound": "ma",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "fu",
+      "ma",
+      "wa",
+      "gyo"
+    ],
+    "answer": "ma"
+  },
+  {
+    "character": "マ",
+    "romaji": "ma",
+    "sound": "ma",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ji",
+      "ko",
+      "sha",
+      "ma"
+    ],
+    "answer": "ma"
+  },
+  {
+    "character": "み",
+    "romaji": "mi",
+    "sound": "mi",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "mi",
+      "ze",
+      "bya",
+      "i"
+    ],
+    "answer": "mi"
+  },
+  {
+    "character": "ミ",
+    "romaji": "mi",
+    "sound": "mi",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "mi",
+      "do",
+      "sa",
+      "cha"
+    ],
+    "answer": "mi"
+  },
+  {
+    "character": "む",
+    "romaji": "mu",
+    "sound": "mu",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "mo",
+      "kyo",
+      "mu",
+      "tsu"
+    ],
+    "answer": "mu"
+  },
+  {
+    "character": "ム",
+    "romaji": "mu",
+    "sound": "mu",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "bu",
+      "mi",
+      "n",
+      "mu"
+    ],
+    "answer": "mu"
+  },
+  {
+    "character": "め",
+    "romaji": "me",
+    "sound": "me",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "su",
+      "ma",
+      "sho",
+      "me"
+    ],
+    "answer": "me"
+  },
+  {
+    "character": "メ",
+    "romaji": "me",
+    "sound": "me",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "che",
+      "o",
+      "me",
+      "bu"
+    ],
+    "answer": "me"
+  },
+  {
+    "character": "も",
+    "romaji": "mo",
+    "sound": "mo",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "tsu",
+      "mo",
+      "pe",
+      "pya"
+    ],
+    "answer": "mo"
+  },
+  {
+    "character": "モ",
+    "romaji": "mo",
+    "sound": "mo",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "she",
+      "so",
+      "pyo",
+      "mo"
+    ],
+    "answer": "mo"
+  },
+  {
+    "character": "や",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "za",
+      "ya",
+      "u",
+      "ze"
+    ],
+    "answer": "ya"
+  },
+  {
+    "character": "ヤ",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ma",
+      "fe",
+      "ya",
+      "vya"
+    ],
+    "answer": "ya"
+  },
+  {
+    "character": "ゆ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "o",
+      "ba",
+      "yu",
+      "ki"
+    ],
+    "answer": "yu"
+  },
+  {
+    "character": "ユ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "na",
+      "mo",
+      "tsu",
+      "yu"
+    ],
+    "answer": "yu"
+  },
+  {
+    "character": "よ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "yu",
+      "yo",
+      "zu",
+      "hya"
+    ],
+    "answer": "yo"
+  },
+  {
+    "character": "ヨ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "fo",
+      "du",
+      "yo",
+      "myo"
+    ],
+    "answer": "yo"
+  },
+  {
+    "character": "ら",
+    "romaji": "ra",
+    "sound": "ra",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "tsu",
+      "pu",
+      "ra",
+      "chi"
+    ],
+    "answer": "ra"
+  },
+  {
+    "character": "ラ",
+    "romaji": "ra",
+    "sound": "ra",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "kwi",
+      "ra",
+      "e",
+      "ryo"
+    ],
+    "answer": "ra"
+  },
+  {
+    "character": "り",
+    "romaji": "ri",
+    "sound": "ri",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ra",
+      "ju",
+      "n",
+      "ri"
+    ],
+    "answer": "ri"
+  },
+  {
+    "character": "リ",
+    "romaji": "ri",
+    "sound": "ri",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "u",
+      "ku",
+      "e",
+      "ri"
+    ],
+    "answer": "ri"
+  },
+  {
+    "character": "る",
+    "romaji": "ru",
+    "sound": "ru",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ta",
+      "mo",
+      "ru",
+      "byo"
+    ],
+    "answer": "ru"
+  },
+  {
+    "character": "ル",
+    "romaji": "ru",
+    "sound": "ru",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "vi",
+      "ru",
+      "hyu",
+      "vu"
+    ],
+    "answer": "ru"
+  },
+  {
+    "character": "れ",
+    "romaji": "re",
+    "sound": "re",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "hyu",
+      "re",
+      "tsu",
+      "vu"
+    ],
+    "answer": "re"
+  },
+  {
+    "character": "レ",
+    "romaji": "re",
+    "sound": "re",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "kwi",
+      "re",
+      "cho",
+      "e"
+    ],
+    "answer": "re"
+  },
+  {
+    "character": "ろ",
+    "romaji": "ro",
+    "sound": "ro",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "pyu",
+      "ro",
+      "gyu",
+      "bo"
+    ],
+    "answer": "ro"
+  },
+  {
+    "character": "ロ",
+    "romaji": "ro",
+    "sound": "ro",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "na",
+      "ro",
+      "ho",
+      "mya"
+    ],
+    "answer": "ro"
+  },
+  {
+    "character": "わ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "e",
+      "wa",
+      "be",
+      "ya"
+    ],
+    "answer": "wa"
+  },
+  {
+    "character": "ワ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "ho",
+      "wa",
+      "mi",
+      "ze"
+    ],
+    "answer": "wa"
+  },
+  {
+    "character": "を",
+    "romaji": "wo",
+    "sound": "wo",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "pyo",
+      "wo",
+      "cha",
+      "pe"
+    ],
+    "answer": "wo"
+  },
+  {
+    "character": "ヲ",
+    "romaji": "wo",
+    "sound": "wo",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "pa",
+      "pi",
+      "wo",
+      "ya"
+    ],
+    "answer": "wo"
+  },
+  {
+    "character": "ん",
+    "romaji": "n",
+    "sound": "n",
+    "type": "hiragana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "n",
+      "myo",
+      "wo",
+      "zu"
+    ],
+    "answer": "n"
+  },
+  {
+    "character": "ン",
+    "romaji": "n",
+    "sound": "n",
+    "type": "katakana",
+    "group": "basic",
+    "difficulty": "easy",
+    "options": [
+      "n",
+      "za",
+      "byo",
+      "bya"
+    ],
+    "answer": "n"
+  },
+  {
+    "character": "が",
+    "romaji": "ga",
+    "sound": "ga",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "kyo",
+      "sho",
+      "ki",
+      "ga"
+    ],
+    "answer": "ga"
+  },
+  {
+    "character": "ガ",
+    "romaji": "ga",
+    "sound": "ga",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ga",
+      "gwi",
+      "o",
+      "jo"
+    ],
+    "answer": "ga"
+  },
+  {
+    "character": "ぎ",
+    "romaji": "gi",
+    "sound": "gi",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "gi",
+      "yu",
+      "ro",
+      "nyu"
+    ],
+    "answer": "gi"
+  },
+  {
+    "character": "ギ",
+    "romaji": "gi",
+    "sound": "gi",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "bo",
+      "ha",
+      "gi",
+      "wo"
+    ],
+    "answer": "gi"
+  },
+  {
+    "character": "ぐ",
+    "romaji": "gu",
+    "sound": "gu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "pya",
+      "gu",
+      "wa",
+      "ze"
+    ],
+    "answer": "gu"
+  },
+  {
+    "character": "グ",
+    "romaji": "gu",
+    "sound": "gu",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "gu",
+      "ji",
+      "yo",
+      "nyu"
+    ],
+    "answer": "gu"
+  },
+  {
+    "character": "げ",
+    "romaji": "ge",
+    "sound": "ge",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ni",
+      "ge",
+      "ya",
+      "zu"
+    ],
+    "answer": "ge"
+  },
+  {
+    "character": "ゲ",
+    "romaji": "ge",
+    "sound": "ge",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "myu",
+      "pu",
+      "ge",
+      "gu"
+    ],
+    "answer": "ge"
+  },
+  {
+    "character": "ご",
+    "romaji": "go",
+    "sound": "go",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "bya",
+      "ryo",
+      "go",
+      "ze"
+    ],
+    "answer": "go"
+  },
+  {
+    "character": "ゴ",
+    "romaji": "go",
+    "sound": "go",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ga",
+      "vyu",
+      "go",
+      "bu"
+    ],
+    "answer": "go"
+  },
+  {
+    "character": "ざ",
+    "romaji": "za",
+    "sound": "za",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ta",
+      "za",
+      "bu",
+      "hya"
+    ],
+    "answer": "za"
+  },
+  {
+    "character": "ザ",
+    "romaji": "za",
+    "sound": "za",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "me",
+      "vu",
+      "za",
+      "bi"
+    ],
+    "answer": "za"
+  },
+  {
+    "character": "じ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ri",
+      "he",
+      "pu",
+      "ji"
+    ],
+    "answer": "ji"
+  },
+  {
+    "character": "ジ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "wa",
+      "ji",
+      "mu",
+      "hyu"
+    ],
+    "answer": "ji"
+  },
+  {
+    "character": "ず",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "da",
+      "ji",
+      "ze",
+      "zu"
+    ],
+    "answer": "zu"
+  },
+  {
+    "character": "ズ",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "he",
+      "cha",
+      "wa",
+      "zu"
+    ],
+    "answer": "zu"
+  },
+  {
+    "character": "ぜ",
+    "romaji": "ze",
+    "sound": "ze",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "i",
+      "wa",
+      "ze",
+      "cha"
+    ],
+    "answer": "ze"
+  },
+  {
+    "character": "ゼ",
+    "romaji": "ze",
+    "sound": "ze",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "byo",
+      "ra",
+      "ze",
+      "zu"
+    ],
+    "answer": "ze"
+  },
+  {
+    "character": "ぞ",
+    "romaji": "zo",
+    "sound": "zo",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ka",
+      "po",
+      "ke",
+      "zo"
+    ],
+    "answer": "zo"
+  },
+  {
+    "character": "ゾ",
+    "romaji": "zo",
+    "sound": "zo",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "zo",
+      "n",
+      "gwi",
+      "kya"
+    ],
+    "answer": "zo"
+  },
+  {
+    "character": "だ",
+    "romaji": "da",
+    "sound": "da",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ga",
+      "da",
+      "ge",
+      "ja"
+    ],
+    "answer": "da"
+  },
+  {
+    "character": "ダ",
+    "romaji": "da",
+    "sound": "da",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "hya",
+      "mo",
+      "myu",
+      "da"
+    ],
+    "answer": "da"
+  },
+  {
+    "character": "ぢ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "mo",
+      "bo",
+      "sho",
+      "ji"
+    ],
+    "answer": "ji"
+  },
+  {
+    "character": "ヂ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ko",
+      "wa",
+      "ji",
+      "pi"
+    ],
+    "answer": "ji"
+  },
+  {
+    "character": "づ",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "n",
+      "o",
+      "zu",
+      "wo"
+    ],
+    "answer": "zu"
+  },
+  {
+    "character": "ヅ",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ka",
+      "zu",
+      "vu",
+      "wo"
+    ],
+    "answer": "zu"
+  },
+  {
+    "character": "で",
+    "romaji": "de",
+    "sound": "de",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ro",
+      "chi",
+      "ji",
+      "de"
+    ],
+    "answer": "de"
+  },
+  {
+    "character": "デ",
+    "romaji": "de",
+    "sound": "de",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "no",
+      "de",
+      "zu",
+      "bya"
+    ],
+    "answer": "de"
+  },
+  {
+    "character": "ど",
+    "romaji": "do",
+    "sound": "do",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "do",
+      "zo",
+      "zu",
+      "ka"
+    ],
+    "answer": "do"
+  },
+  {
+    "character": "ド",
+    "romaji": "do",
+    "sound": "do",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "nyo",
+      "do",
+      "a",
+      "fyu"
+    ],
+    "answer": "do"
+  },
+  {
+    "character": "ば",
+    "romaji": "ba",
+    "sound": "ba",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "myu",
+      "do",
+      "ki",
+      "ba"
+    ],
+    "answer": "ba"
+  },
+  {
+    "character": "バ",
+    "romaji": "ba",
+    "sound": "ba",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "pi",
+      "ba",
+      "bya",
+      "bi"
+    ],
+    "answer": "ba"
+  },
+  {
+    "character": "び",
+    "romaji": "bi",
+    "sound": "bi",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "bi",
+      "yu",
+      "ja",
+      "pya"
+    ],
+    "answer": "bi"
+  },
+  {
+    "character": "ビ",
+    "romaji": "bi",
+    "sound": "bi",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "bi",
+      "o",
+      "du",
+      "ma"
+    ],
+    "answer": "bi"
+  },
+  {
+    "character": "ぶ",
+    "romaji": "bu",
+    "sound": "bu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ro",
+      "e",
+      "re",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "character": "ブ",
+    "romaji": "bu",
+    "sound": "bu",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "e",
+      "ti",
+      "bu",
+      "pa"
+    ],
+    "answer": "bu"
+  },
+  {
+    "character": "べ",
+    "romaji": "be",
+    "sound": "be",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "ba",
+      "gyo",
+      "be",
+      "u"
+    ],
+    "answer": "be"
+  },
+  {
+    "character": "ベ",
+    "romaji": "be",
+    "sound": "be",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "kyu",
+      "be",
+      "ti",
+      "mya"
+    ],
+    "answer": "be"
+  },
+  {
+    "character": "ぼ",
+    "romaji": "bo",
+    "sound": "bo",
+    "type": "hiragana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "bo",
+      "ra",
+      "ya",
+      "shi"
+    ],
+    "answer": "bo"
+  },
+  {
+    "character": "ボ",
+    "romaji": "bo",
+    "sound": "bo",
+    "type": "katakana",
+    "group": "dakuten",
+    "difficulty": "normal",
+    "options": [
+      "bo",
+      "mi",
+      "nyo",
+      "ro"
+    ],
+    "answer": "bo"
+  },
+  {
+    "character": "ぱ",
+    "romaji": "pa",
+    "sound": "pa",
+    "type": "hiragana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "ju",
+      "byu",
+      "sho",
+      "pa"
+    ],
+    "answer": "pa"
+  },
+  {
+    "character": "パ",
+    "romaji": "pa",
+    "sound": "pa",
+    "type": "katakana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "chi",
+      "fa",
+      "ya",
+      "pa"
+    ],
+    "answer": "pa"
+  },
+  {
+    "character": "ぴ",
+    "romaji": "pi",
+    "sound": "pi",
+    "type": "hiragana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "ga",
+      "gi",
+      "pi",
+      "hyu"
+    ],
+    "answer": "pi"
+  },
+  {
+    "character": "ピ",
+    "romaji": "pi",
+    "sound": "pi",
+    "type": "katakana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "yo",
+      "o",
+      "pi",
+      "kwi"
+    ],
+    "answer": "pi"
+  },
+  {
+    "character": "ぷ",
+    "romaji": "pu",
+    "sound": "pu",
+    "type": "hiragana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "pu",
+      "i",
+      "se",
+      "hyu"
+    ],
+    "answer": "pu"
+  },
+  {
+    "character": "プ",
+    "romaji": "pu",
+    "sound": "pu",
+    "type": "katakana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "pu",
+      "de",
+      "zu",
+      "me"
+    ],
+    "answer": "pu"
+  },
+  {
+    "character": "ぺ",
+    "romaji": "pe",
+    "sound": "pe",
+    "type": "hiragana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "pe",
+      "kyo",
+      "kyu",
+      "mu"
+    ],
+    "answer": "pe"
+  },
+  {
+    "character": "ペ",
+    "romaji": "pe",
+    "sound": "pe",
+    "type": "katakana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "pu",
+      "pe",
+      "o",
+      "ma"
+    ],
+    "answer": "pe"
+  },
+  {
+    "character": "ぽ",
+    "romaji": "po",
+    "sound": "po",
+    "type": "hiragana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "po",
+      "pyo",
+      "ze",
+      "chi"
+    ],
+    "answer": "po"
+  },
+  {
+    "character": "ポ",
+    "romaji": "po",
+    "sound": "po",
+    "type": "katakana",
+    "group": "handakuten",
+    "difficulty": "normal",
+    "options": [
+      "she",
+      "he",
+      "che",
+      "po"
+    ],
+    "answer": "po"
+  },
+  {
+    "character": "きゃ",
+    "romaji": "kya",
+    "sound": "kya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "yu",
+      "ha",
+      "wo",
+      "kya"
+    ],
+    "answer": "kya"
+  },
+  {
+    "character": "キャ",
+    "romaji": "kya",
+    "sound": "kya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "kya",
+      "he",
+      "kyo",
+      "kwi"
+    ],
+    "answer": "kya"
+  },
+  {
+    "character": "きゅ",
+    "romaji": "kyu",
+    "sound": "kyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "nu",
+      "kyu",
+      "myu",
+      "ru"
+    ],
+    "answer": "kyu"
+  },
+  {
+    "character": "キュ",
+    "romaji": "kyu",
+    "sound": "kyu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "kyu",
+      "cha",
+      "she",
+      "u"
+    ],
+    "answer": "kyu"
+  },
+  {
+    "character": "きょ",
+    "romaji": "kyo",
+    "sound": "kyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ja",
+      "kyo",
+      "ju",
+      "jo"
+    ],
+    "answer": "kyo"
+  },
+  {
+    "character": "キョ",
+    "romaji": "kyo",
+    "sound": "kyo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "gwe",
+      "ja",
+      "kyo",
+      "pyu"
+    ],
+    "answer": "kyo"
+  },
+  {
+    "character": "しゃ",
+    "romaji": "sha",
+    "sound": "sha",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "fu",
+      "sha",
+      "yu",
+      "de"
+    ],
+    "answer": "sha"
+  },
+  {
+    "character": "シャ",
+    "romaji": "sha",
+    "sound": "sha",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "mi",
+      "pu",
+      "ye",
+      "sha"
+    ],
+    "answer": "sha"
+  },
+  {
+    "character": "しゅ",
+    "romaji": "shu",
+    "sound": "shu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "bi",
+      "pya",
+      "shu",
+      "ta"
+    ],
+    "answer": "shu"
+  },
+  {
+    "character": "シュ",
+    "romaji": "shu",
+    "sound": "shu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "hyu",
+      "rya",
+      "shu",
+      "myo"
+    ],
+    "answer": "shu"
+  },
+  {
+    "character": "しょ",
+    "romaji": "sho",
+    "sound": "sho",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "sho",
+      "hyo",
+      "mu",
+      "ni"
+    ],
+    "answer": "sho"
+  },
+  {
+    "character": "ショ",
+    "romaji": "sho",
+    "sound": "sho",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "sho",
+      "yo",
+      "gyo",
+      "po"
+    ],
+    "answer": "sho"
+  },
+  {
+    "character": "ちゃ",
+    "romaji": "cha",
+    "sound": "cha",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "tsu",
+      "cha",
+      "to",
+      "wa"
+    ],
+    "answer": "cha"
+  },
+  {
+    "character": "チャ",
+    "romaji": "cha",
+    "sound": "cha",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "gyo",
+      "yo",
+      "ru",
+      "cha"
+    ],
+    "answer": "cha"
+  },
+  {
+    "character": "ちゅ",
+    "romaji": "chu",
+    "sound": "chu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "chu",
+      "kyo",
+      "ne",
+      "nya"
+    ],
+    "answer": "chu"
+  },
+  {
+    "character": "チュ",
+    "romaji": "chu",
+    "sound": "chu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "chi",
+      "kwo",
+      "zo",
+      "chu"
+    ],
+    "answer": "chu"
+  },
+  {
+    "character": "ちょ",
+    "romaji": "cho",
+    "sound": "cho",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "cho",
+      "shu",
+      "zo",
+      "ke"
+    ],
+    "answer": "cho"
+  },
+  {
+    "character": "チョ",
+    "romaji": "cho",
+    "sound": "cho",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "mu",
+      "wi",
+      "cho",
+      "ki"
+    ],
+    "answer": "cho"
+  },
+  {
+    "character": "にゃ",
+    "romaji": "nya",
+    "sound": "nya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "nya",
+      "ma",
+      "cha",
+      "jo"
+    ],
+    "answer": "nya"
+  },
+  {
+    "character": "ニャ",
+    "romaji": "nya",
+    "sound": "nya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "nya",
+      "re",
+      "ga",
+      "di"
+    ],
+    "answer": "nya"
+  },
+  {
+    "character": "にゅ",
+    "romaji": "nyu",
+    "sound": "nyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ke",
+      "cho",
+      "he",
+      "nyu"
+    ],
+    "answer": "nyu"
+  },
+  {
+    "character": "ニュ",
+    "romaji": "nyu",
+    "sound": "nyu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ji",
+      "a",
+      "yo",
+      "nyu"
+    ],
+    "answer": "nyu"
+  },
+  {
+    "character": "にょ",
+    "romaji": "nyo",
+    "sound": "nyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "o",
+      "jo",
+      "nyo",
+      "nu"
+    ],
+    "answer": "nyo"
+  },
+  {
+    "character": "ニョ",
+    "romaji": "nyo",
+    "sound": "nyo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "gwa",
+      "pya",
+      "nyo",
+      "za"
+    ],
+    "answer": "nyo"
+  },
+  {
+    "character": "ひゃ",
+    "romaji": "hya",
+    "sound": "hya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "hya",
+      "pa",
+      "gi",
+      "wa"
+    ],
+    "answer": "hya"
+  },
+  {
+    "character": "ヒャ",
+    "romaji": "hya",
+    "sound": "hya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "to",
+      "da",
+      "ve",
+      "hya"
+    ],
+    "answer": "hya"
+  },
+  {
+    "character": "ひゅ",
+    "romaji": "hyu",
+    "sound": "hyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "yu",
+      "he",
+      "be",
+      "hyu"
+    ],
+    "answer": "hyu"
+  },
+  {
+    "character": "ヒュ",
+    "romaji": "hyu",
+    "sound": "hyu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "hyu",
+      "myu",
+      "he",
+      "u"
+    ],
+    "answer": "hyu"
+  },
+  {
+    "character": "ひょ",
+    "romaji": "hyo",
+    "sound": "hyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "wa",
+      "hyo",
+      "bu",
+      "zu"
+    ],
+    "answer": "hyo"
+  },
+  {
+    "character": "ヒョ",
+    "romaji": "hyo",
+    "sound": "hyo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "hyo",
+      "zo",
+      "nya",
+      "ni"
+    ],
+    "answer": "hyo"
+  },
+  {
+    "character": "みゃ",
+    "romaji": "mya",
+    "sound": "mya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ryu",
+      "cha",
+      "mya",
+      "pyu"
+    ],
+    "answer": "mya"
+  },
+  {
+    "character": "ミャ",
+    "romaji": "mya",
+    "sound": "mya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "kwe",
+      "mya",
+      "di",
+      "yu"
+    ],
+    "answer": "mya"
+  },
+  {
+    "character": "みゅ",
+    "romaji": "myu",
+    "sound": "myu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "me",
+      "ze",
+      "myu",
+      "sho"
+    ],
+    "answer": "myu"
+  },
+  {
+    "character": "ミュ",
+    "romaji": "myu",
+    "sound": "myu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "o",
+      "ze",
+      "myu",
+      "chu"
+    ],
+    "answer": "myu"
+  },
+  {
+    "character": "みょ",
+    "romaji": "myo",
+    "sound": "myo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "myo",
+      "kyu",
+      "be",
+      "vu"
+    ],
+    "answer": "myo"
+  },
+  {
+    "character": "ミョ",
+    "romaji": "myo",
+    "sound": "myo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "myo",
+      "myu",
+      "yo",
+      "be"
+    ],
+    "answer": "myo"
+  },
+  {
+    "character": "りゃ",
+    "romaji": "rya",
+    "sound": "rya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "pi",
+      "gya",
+      "zu",
+      "rya"
+    ],
+    "answer": "rya"
+  },
+  {
+    "character": "リャ",
+    "romaji": "rya",
+    "sound": "rya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "rya",
+      "yu",
+      "ti",
+      "gwe"
+    ],
+    "answer": "rya"
+  },
+  {
+    "character": "りゅ",
+    "romaji": "ryu",
+    "sound": "ryu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "u",
+      "shi",
+      "ryu",
+      "ya"
+    ],
+    "answer": "ryu"
+  },
+  {
+    "character": "リュ",
+    "romaji": "ryu",
+    "sound": "ryu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "fa",
+      "ryu",
+      "vo",
+      "ye"
+    ],
+    "answer": "ryu"
+  },
+  {
+    "character": "りょ",
+    "romaji": "ryo",
+    "sound": "ryo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ryo",
+      "gu",
+      "pya",
+      "i"
+    ],
+    "answer": "ryo"
+  },
+  {
+    "character": "リョ",
+    "romaji": "ryo",
+    "sound": "ryo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "mya",
+      "ge",
+      "ryo",
+      "ri"
+    ],
+    "answer": "ryo"
+  },
+  {
+    "character": "ぎゃ",
+    "romaji": "gya",
+    "sound": "gya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "he",
+      "i",
+      "gyo",
+      "gya"
+    ],
+    "answer": "gya"
+  },
+  {
+    "character": "ギャ",
+    "romaji": "gya",
+    "sound": "gya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "gya",
+      "me",
+      "gu",
+      "wi"
+    ],
+    "answer": "gya"
+  },
+  {
+    "character": "ぎゅ",
+    "romaji": "gyu",
+    "sound": "gyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "gyu",
+      "wo",
+      "o",
+      "hyo"
+    ],
+    "answer": "gyu"
+  },
+  {
+    "character": "ギュ",
+    "romaji": "gyu",
+    "sound": "gyu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "kyu",
+      "gyu",
+      "pu",
+      "to"
+    ],
+    "answer": "gyu"
+  },
+  {
+    "character": "ぎょ",
+    "romaji": "gyo",
+    "sound": "gyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "he",
+      "chi",
+      "gyo",
+      "ge"
+    ],
+    "answer": "gyo"
+  },
+  {
+    "character": "ギョ",
+    "romaji": "gyo",
+    "sound": "gyo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "bya",
+      "gyo",
+      "nyo",
+      "u"
+    ],
+    "answer": "gyo"
+  },
+  {
+    "character": "じゃ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "myo",
+      "pya",
+      "u",
+      "ja"
+    ],
+    "answer": "ja"
+  },
+  {
+    "character": "ジャ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ya",
+      "be",
+      "ja",
+      "yo"
+    ],
+    "answer": "ja"
+  },
+  {
+    "character": "じゅ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ryu",
+      "ra",
+      "ju",
+      "rya"
+    ],
+    "answer": "ju"
+  },
+  {
+    "character": "ジュ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "myu",
+      "rya",
+      "ju",
+      "su"
+    ],
+    "answer": "ju"
+  },
+  {
+    "character": "じょ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "sho",
+      "jo",
+      "po",
+      "vu"
+    ],
+    "answer": "jo"
+  },
+  {
+    "character": "ジョ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "fya",
+      "ve",
+      "ho",
+      "jo"
+    ],
+    "answer": "jo"
+  },
+  {
+    "character": "ぢゃ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "nyo",
+      "o",
+      "ja",
+      "gu"
+    ],
+    "answer": "ja"
+  },
+  {
+    "character": "ヂャ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ra",
+      "no",
+      "bo",
+      "ja"
+    ],
+    "answer": "ja"
+  },
+  {
+    "character": "ぢゅ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "pyu",
+      "ju",
+      "byu",
+      "ha"
+    ],
+    "answer": "ju"
+  },
+  {
+    "character": "ヂュ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "hyo",
+      "zo",
+      "ki",
+      "ju"
+    ],
+    "answer": "ju"
+  },
+  {
+    "character": "ぢょ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "mi",
+      "mya",
+      "pa",
+      "jo"
+    ],
+    "answer": "jo"
+  },
+  {
+    "character": "ヂョ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "pyo",
+      "jo",
+      "zo",
+      "wo"
+    ],
+    "answer": "jo"
+  },
+  {
+    "character": "びゃ",
+    "romaji": "bya",
+    "sound": "bya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "pa",
+      "bya",
+      "ji",
+      "pi"
+    ],
+    "answer": "bya"
+  },
+  {
+    "character": "ビャ",
+    "romaji": "bya",
+    "sound": "bya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ni",
+      "gya",
+      "bya",
+      "se"
+    ],
+    "answer": "bya"
+  },
+  {
+    "character": "びゅ",
+    "romaji": "byu",
+    "sound": "byu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ju",
+      "byu",
+      "ko",
+      "o"
+    ],
+    "answer": "byu"
+  },
+  {
+    "character": "ビュ",
+    "romaji": "byu",
+    "sound": "byu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "we",
+      "pya",
+      "mu",
+      "byu"
+    ],
+    "answer": "byu"
+  },
+  {
+    "character": "びょ",
+    "romaji": "byo",
+    "sound": "byo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "do",
+      "ju",
+      "ba",
+      "byo"
+    ],
+    "answer": "byo"
+  },
+  {
+    "character": "ビョ",
+    "romaji": "byo",
+    "sound": "byo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "e",
+      "byo",
+      "re",
+      "tu"
+    ],
+    "answer": "byo"
+  },
+  {
+    "character": "ぴゃ",
+    "romaji": "pya",
+    "sound": "pya",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ja",
+      "pya",
+      "sha",
+      "ya"
+    ],
+    "answer": "pya"
+  },
+  {
+    "character": "ピャ",
+    "romaji": "pya",
+    "sound": "pya",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "gyo",
+      "pya",
+      "ya",
+      "kyo"
+    ],
+    "answer": "pya"
+  },
+  {
+    "character": "ぴゅ",
+    "romaji": "pyu",
+    "sound": "pyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "pyu",
+      "pu",
+      "jo",
+      "da"
+    ],
+    "answer": "pyu"
+  },
+  {
+    "character": "ピュ",
+    "romaji": "pyu",
+    "sound": "pyu",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "bo",
+      "pyu",
+      "o",
+      "wa"
+    ],
+    "answer": "pyu"
+  },
+  {
+    "character": "ぴょ",
+    "romaji": "pyo",
+    "sound": "pyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "pyo",
+      "na",
+      "nyo",
+      "a"
+    ],
+    "answer": "pyo"
+  },
+  {
+    "character": "ピョ",
+    "romaji": "pyo",
+    "sound": "pyo",
+    "type": "katakana",
+    "group": "yoon",
+    "difficulty": "hard",
+    "options": [
+      "ho",
+      "pyo",
+      "pa",
+      "ka"
+    ],
+    "answer": "pyo"
+  },
+  {
+    "character": "ぁ",
+    "romaji": "a",
+    "sound": "a",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "a",
+      "hya",
+      "yu",
+      "mo"
+    ],
+    "answer": "a"
+  },
+  {
+    "character": "ァ",
+    "romaji": "a",
+    "sound": "a",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "byo",
+      "vya",
+      "a",
+      "ra"
+    ],
+    "answer": "a"
+  },
+  {
+    "character": "ぃ",
+    "romaji": "i",
+    "sound": "i",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "i",
+      "yu",
+      "ne",
+      "ba"
+    ],
+    "answer": "i"
+  },
+  {
+    "character": "ィ",
+    "romaji": "i",
+    "sound": "i",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "de",
+      "fya",
+      "shi",
+      "i"
+    ],
+    "answer": "i"
+  },
+  {
+    "character": "ぅ",
+    "romaji": "u",
+    "sound": "u",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "sha",
+      "yo",
+      "hyo",
+      "u"
+    ],
+    "answer": "u"
+  },
+  {
+    "character": "ゥ",
+    "romaji": "u",
+    "sound": "u",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "ka",
+      "pyo",
+      "bya",
+      "u"
+    ],
+    "answer": "u"
+  },
+  {
+    "character": "ぇ",
+    "romaji": "e",
+    "sound": "e",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "e",
+      "gu",
+      "jo",
+      "ru"
+    ],
+    "answer": "e"
+  },
+  {
+    "character": "ェ",
+    "romaji": "e",
+    "sound": "e",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "po",
+      "shi",
+      "te",
+      "e"
+    ],
+    "answer": "e"
+  },
+  {
+    "character": "ぉ",
+    "romaji": "o",
+    "sound": "o",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "i",
+      "o",
+      "ta",
+      "tsu"
+    ],
+    "answer": "o"
+  },
+  {
+    "character": "ォ",
+    "romaji": "o",
+    "sound": "o",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "o",
+      "kyu",
+      "che",
+      "ja"
+    ],
+    "answer": "o"
+  },
+  {
+    "character": "ゃ",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "ne",
+      "po",
+      "ya",
+      "yo"
+    ],
+    "answer": "ya"
+  },
+  {
+    "character": "ャ",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "kwa",
+      "se",
+      "i",
+      "ya"
+    ],
+    "answer": "ya"
+  },
+  {
+    "character": "ゅ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "ke",
+      "kyo",
+      "yu",
+      "ge"
+    ],
+    "answer": "yu"
+  },
+  {
+    "character": "ュ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "yu",
+      "re",
+      "ha",
+      "pi"
+    ],
+    "answer": "yu"
+  },
+  {
+    "character": "ょ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "he",
+      "yo",
+      "ju",
+      "nyo"
+    ],
+    "answer": "yo"
+  },
+  {
+    "character": "ョ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "yo",
+      "ki",
+      "vyo",
+      "ju"
+    ],
+    "answer": "yo"
+  },
+  {
+    "character": "ゎ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "pe",
+      "o",
+      "ja",
+      "wa"
+    ],
+    "answer": "wa"
+  },
+  {
+    "character": "ヮ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "do",
+      "zu",
+      "wa",
+      "ho"
+    ],
+    "answer": "wa"
+  },
+  {
+    "character": "っ",
+    "romaji": "tsu",
+    "sound": "tsu",
+    "type": "hiragana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "tsu",
+      "i",
+      "yo",
+      "ryo"
+    ],
+    "answer": "tsu"
+  },
+  {
+    "character": "ッ",
+    "romaji": "tsu",
+    "sound": "tsu",
+    "type": "katakana",
+    "group": "small",
+    "difficulty": "hard",
+    "options": [
+      "pyo",
+      "fya",
+      "tsu",
+      "gi"
+    ],
+    "answer": "tsu"
+  },
+  {
+    "character": "ゔ",
+    "romaji": "vu",
+    "sound": "vu",
+    "type": "hiragana",
+    "group": "special",
+    "difficulty": "hard",
+    "options": [
+      "i",
+      "kya",
+      "vu",
+      "shi"
+    ],
+    "answer": "vu"
+  },
+  {
+    "character": "ヴ",
+    "romaji": "vu",
+    "sound": "vu",
+    "type": "katakana",
+    "group": "special",
+    "difficulty": "hard",
+    "options": [
+      "gwa",
+      "ja",
+      "vu",
+      "ra"
+    ],
+    "answer": "vu"
+  },
+  {
+    "character": "ウィ",
+    "romaji": "wi",
+    "sound": "wi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "no",
+      "zu",
+      "byu",
+      "wi"
+    ],
+    "answer": "wi"
+  },
+  {
+    "character": "ウェ",
+    "romaji": "we",
+    "sound": "we",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "che",
+      "we",
+      "he",
+      "ji"
+    ],
+    "answer": "we"
+  },
+  {
+    "character": "ウォ",
+    "romaji": "wo",
+    "sound": "wo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "pa",
+      "gi",
+      "hi",
+      "wo"
+    ],
+    "answer": "wo"
+  },
+  {
+    "character": "シェ",
+    "romaji": "she",
+    "sound": "she",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "she",
+      "ze",
+      "te",
+      "zu"
+    ],
+    "answer": "she"
+  },
+  {
+    "character": "ジェ",
+    "romaji": "je",
+    "sound": "je",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "de",
+      "wa",
+      "so",
+      "je"
+    ],
+    "answer": "je"
+  },
+  {
+    "character": "チェ",
+    "romaji": "che",
+    "sound": "che",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "o",
+      "che",
+      "wi",
+      "kwa"
+    ],
+    "answer": "che"
+  },
+  {
+    "character": "ティ",
+    "romaji": "ti",
+    "sound": "ti",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "su",
+      "nyo",
+      "yu",
+      "ti"
+    ],
+    "answer": "ti"
+  },
+  {
+    "character": "ディ",
+    "romaji": "di",
+    "sound": "di",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "di",
+      "rya",
+      "gyo",
+      "mu"
+    ],
+    "answer": "di"
+  },
+  {
+    "character": "トゥ",
+    "romaji": "tu",
+    "sound": "tu",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "tu",
+      "ryu",
+      "pu",
+      "i"
+    ],
+    "answer": "tu"
+  },
+  {
+    "character": "ドゥ",
+    "romaji": "du",
+    "sound": "du",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "ryo",
+      "du",
+      "vya",
+      "a"
+    ],
+    "answer": "du"
+  },
+  {
+    "character": "ファ",
+    "romaji": "fa",
+    "sound": "fa",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "ye",
+      "fa",
+      "na",
+      "pu"
+    ],
+    "answer": "fa"
+  },
+  {
+    "character": "フィ",
+    "romaji": "fi",
+    "sound": "fi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "fi",
+      "he",
+      "n",
+      "zu"
+    ],
+    "answer": "fi"
+  },
+  {
+    "character": "フェ",
+    "romaji": "fe",
+    "sound": "fe",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "ja",
+      "fe",
+      "gya",
+      "he"
+    ],
+    "answer": "fe"
+  },
+  {
+    "character": "フォ",
+    "romaji": "fo",
+    "sound": "fo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "fo",
+      "i",
+      "je",
+      "kwa"
+    ],
+    "answer": "fo"
+  },
+  {
+    "character": "フャ",
+    "romaji": "fya",
+    "sound": "fya",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "fya",
+      "vo",
+      "da",
+      "pya"
+    ],
+    "answer": "fya"
+  },
+  {
+    "character": "フュ",
+    "romaji": "fyu",
+    "sound": "fyu",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "fyu",
+      "gu",
+      "mu",
+      "hyo"
+    ],
+    "answer": "fyu"
+  },
+  {
+    "character": "フョ",
+    "romaji": "fyo",
+    "sound": "fyo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "ya",
+      "fu",
+      "fyo",
+      "kyu"
+    ],
+    "answer": "fyo"
+  },
+  {
+    "character": "ヴァ",
+    "romaji": "va",
+    "sound": "va",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "gwe",
+      "re",
+      "fu",
+      "va"
+    ],
+    "answer": "va"
+  },
+  {
+    "character": "ヴィ",
+    "romaji": "vi",
+    "sound": "vi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "pa",
+      "wa",
+      "a",
+      "vi"
+    ],
+    "answer": "vi"
+  },
+  {
+    "character": "ヴェ",
+    "romaji": "ve",
+    "sound": "ve",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "ge",
+      "mya",
+      "gyu",
+      "ve"
+    ],
+    "answer": "ve"
+  },
+  {
+    "character": "ヴォ",
+    "romaji": "vo",
+    "sound": "vo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "myu",
+      "jo",
+      "vo",
+      "hyo"
+    ],
+    "answer": "vo"
+  },
+  {
+    "character": "ヴャ",
+    "romaji": "vya",
+    "sound": "vya",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "vya",
+      "fa",
+      "vo",
+      "ke"
+    ],
+    "answer": "vya"
+  },
+  {
+    "character": "ヴュ",
+    "romaji": "vyu",
+    "sound": "vyu",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "cho",
+      "shi",
+      "ji",
+      "vyu"
+    ],
+    "answer": "vyu"
+  },
+  {
+    "character": "ヴョ",
+    "romaji": "vyo",
+    "sound": "vyo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "pyo",
+      "vyo",
+      "ri",
+      "zo"
+    ],
+    "answer": "vyo"
+  },
+  {
+    "character": "イェ",
+    "romaji": "ye",
+    "sound": "ye",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "mi",
+      "gi",
+      "ye",
+      "byu"
+    ],
+    "answer": "ye"
+  },
+  {
+    "character": "クァ",
+    "romaji": "kwa",
+    "sound": "kwa",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "kwa",
+      "ru",
+      "yo",
+      "jo"
+    ],
+    "answer": "kwa"
+  },
+  {
+    "character": "クィ",
+    "romaji": "kwi",
+    "sound": "kwi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "ya",
+      "kya",
+      "kwi",
+      "nu"
+    ],
+    "answer": "kwi"
+  },
+  {
+    "character": "クェ",
+    "romaji": "kwe",
+    "sound": "kwe",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "ti",
+      "bo",
+      "ne",
+      "kwe"
+    ],
+    "answer": "kwe"
+  },
+  {
+    "character": "クォ",
+    "romaji": "kwo",
+    "sound": "kwo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "u",
+      "kwo",
+      "wo",
+      "gwa"
+    ],
+    "answer": "kwo"
+  },
+  {
+    "character": "グァ",
+    "romaji": "gwa",
+    "sound": "gwa",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "fi",
+      "u",
+      "gwa",
+      "ka"
+    ],
+    "answer": "gwa"
+  },
+  {
+    "character": "グィ",
+    "romaji": "gwi",
+    "sound": "gwi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "hyu",
+      "ro",
+      "ke",
+      "gwi"
+    ],
+    "answer": "gwi"
+  },
+  {
+    "character": "グェ",
+    "romaji": "gwe",
+    "sound": "gwe",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "wo",
+      "fya",
+      "gwe",
+      "yo"
+    ],
+    "answer": "gwe"
+  },
+  {
+    "character": "グォ",
+    "romaji": "gwo",
+    "sound": "gwo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "difficulty": "hard",
+    "options": [
+      "i",
+      "nu",
+      "hyu",
+      "gwo"
+    ],
+    "answer": "gwo"
+  }
+]

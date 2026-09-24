@@ -1,0 +1,11472 @@
+[
+ {
+  "kanji": "一",
+  "onyomi": [
+   "イチ",
+   "イツ"
+  ],
+  "kunyomi": [
+   "ひと(つ)"
+  ],
+  "meaning": "one",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "一つ",
+    "meaning": "one thing",
+    "reading": "ひとつ (hitotsu)"
+   },
+   {
+    "word": "一緒に",
+    "meaning": "together",
+    "reading": "いっしょに (issho ni)"
+   },
+   {
+    "word": "もう一度",
+    "meaning": "one more time",
+    "reading": "もういちど (mou ichido)"
+   },
+   {
+    "word": "一番",
+    "meaning": "most/best",
+    "reading": "いちばん (ichiban)"
+   }
+  ]
+ },
+ {
+  "kanji": "七",
+  "onyomi": [
+   "シチ"
+  ],
+  "kunyomi": [
+   "なな",
+   "なの"
+  ],
+  "meaning": "seven",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "万",
+  "onyomi": [
+   "マン",
+   "バン"
+  ],
+  "kunyomi": [],
+  "meaning": "ten thousand",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "三",
+  "onyomi": [
+   "サン"
+  ],
+  "kunyomi": [
+   "み",
+   "みっ(つ)"
+  ],
+  "meaning": "three",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "上",
+  "onyomi": [
+   "ジョウ"
+  ],
+  "kunyomi": [
+   "うえ",
+   "あ(げる)",
+   "のぼ(る)"
+  ],
+  "meaning": "up, above",
+  "breakdown": "上 = above",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "地上",
+    "meaning": "above ground",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "下",
+  "onyomi": [
+   "カ",
+   "ゲ"
+  ],
+  "kunyomi": [
+   "した",
+   "さ(げる)",
+   "くだ(る)"
+  ],
+  "meaning": "down, below",
+  "breakdown": "下 = below",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "地下",
+    "meaning": "underground",
+    "reading": ""
+   },
+   {
+    "word": "地下鉄",
+    "meaning": "subway",
+    "reading": "ちかてつ (chikatetsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "中",
+  "onyomi": [
+   "チュウ"
+  ],
+  "kunyomi": [
+   "なか"
+  ],
+  "meaning": "middle, inside",
+  "breakdown": "中 = middle",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "中国",
+    "meaning": "China",
+    "reading": ""
+   },
+   {
+    "word": "背中",
+    "meaning": "back",
+    "reading": "せなか (senaka)"
+   }
+  ]
+ },
+ {
+  "kanji": "九",
+  "onyomi": [
+   "キュウ",
+   "ク"
+  ],
+  "kunyomi": [
+   "ここの(つ)"
+  ],
+  "meaning": "nine",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "二",
+  "onyomi": [
+   "ニ"
+  ],
+  "kunyomi": [
+   "ふた(つ)"
+  ],
+  "meaning": "two",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "二つ",
+    "meaning": "two things",
+    "reading": "ふたつ (futatsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "五",
+  "onyomi": [
+   "ゴ"
+  ],
+  "kunyomi": [
+   "いつ(つ)"
+  ],
+  "meaning": "five",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "人",
+  "onyomi": [
+   "ジン",
+   "ニン"
+  ],
+  "kunyomi": [
+   "ひと"
+  ],
+  "meaning": "person",
+  "breakdown": "人 = person",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "日本人",
+    "meaning": "Japanese person",
+    "reading": ""
+   },
+   {
+    "word": "外国人",
+    "meaning": "foreigner",
+    "reading": ""
+   },
+   {
+    "word": "人間",
+    "meaning": "human / human being",
+    "reading": ""
+   },
+   {
+    "word": "大人",
+    "meaning": "adult",
+    "reading": ""
+   },
+   {
+    "word": "人気",
+    "meaning": "popularity",
+    "reading": ""
+   },
+   {
+    "word": "人生",
+    "meaning": "life",
+    "reading": "じんせい (jinsei)"
+   }
+  ]
+ },
+ {
+  "kanji": "今",
+  "onyomi": [
+   "コン",
+   "キン"
+  ],
+  "kunyomi": [
+   "いま"
+  ],
+  "meaning": "now",
+  "breakdown": "今 = now",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "今日",
+    "meaning": "today",
+    "reading": ""
+   },
+   {
+    "word": "今月",
+    "meaning": "this month",
+    "reading": ""
+   },
+   {
+    "word": "今年",
+    "meaning": "this year",
+    "reading": ""
+   },
+   {
+    "word": "今週",
+    "meaning": "this week",
+    "reading": "こんしゅう (konshuu)"
+   },
+   {
+    "word": "今度",
+    "meaning": "next time/this time",
+    "reading": "こんど (kondo)"
+   }
+  ]
+ },
+ {
+  "kanji": "他",
+  "onyomi": [
+   "タ"
+  ],
+  "kunyomi": [
+   "ほか"
+  ],
+  "meaning": "other",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "体",
+  "onyomi": [
+   "タイ"
+  ],
+  "kunyomi": [
+   "からだ"
+  ],
+  "meaning": "body",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "何",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "なに",
+   "なん"
+  ],
+  "meaning": "what",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "作",
+  "onyomi": [
+   "サク",
+   "サ"
+  ],
+  "kunyomi": [
+   "つく(る)"
+  ],
+  "meaning": "make",
+  "breakdown": "亻 (person) + 乍 (make/do)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "作る",
+    "meaning": "make",
+    "reading": "つくる (tsukuru)"
+   }
+  ]
+ },
+ {
+  "kanji": "使",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "つか(う)"
+  ],
+  "meaning": "use",
+  "breakdown": "亻 (person) + 吏 (official/do)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "使う",
+    "meaning": "use",
+    "reading": "つかう (tsukau)"
+   }
+  ]
+ },
+ {
+  "kanji": "俺",
+  "onyomi": [],
+  "kunyomi": [
+   "おれ"
+  ],
+  "meaning": "I, me",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "傘",
+  "onyomi": [
+   "サン"
+  ],
+  "kunyomi": [
+   "かさ"
+  ],
+  "meaning": "umbrella",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "僕",
+  "onyomi": [
+   "ボク"
+  ],
+  "kunyomi": [],
+  "meaning": "I, me",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "兄",
+  "onyomi": [
+   "ケイ",
+   "キョウ"
+  ],
+  "kunyomi": [
+   "あに"
+  ],
+  "meaning": "older brother",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "兄弟",
+    "meaning": "siblings / brothers",
+    "reading": ""
+   },
+   {
+    "word": "お兄さん",
+    "meaning": "older brother",
+    "reading": "おにいさん (oniisan)"
+   }
+  ]
+ },
+ {
+  "kanji": "先",
+  "onyomi": [
+   "セン"
+  ],
+  "kunyomi": [
+   "さき"
+  ],
+  "meaning": "ahead, previous",
+  "breakdown": "⺧ + 儿 → something/person ahead",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "先生",
+    "meaning": "teacher",
+    "reading": ""
+   },
+   {
+    "word": "先月",
+    "meaning": "last month",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "入",
+  "onyomi": [
+   "ニュウ"
+  ],
+  "kunyomi": [
+   "い(る)",
+   "はい(る)"
+  ],
+  "meaning": "enter",
+  "breakdown": "入 = enter",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "入る",
+    "meaning": "enter",
+    "reading": "はいる (hairu)"
+   },
+   {
+    "word": "入れる",
+    "meaning": "put in",
+    "reading": "いれる (ireru)"
+   }
+  ]
+ },
+ {
+  "kanji": "全",
+  "onyomi": [
+   "ゼン"
+  ],
+  "kunyomi": [
+   "すべ(て)"
+  ],
+  "meaning": "all, whole",
+  "breakdown": "入 + 王",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "安全",
+    "meaning": "safety/safe",
+    "reading": ""
+   },
+   {
+    "word": "全部",
+    "meaning": "all",
+    "reading": "ぜんぶ (zenbu)"
+   },
+   {
+    "word": "全然",
+    "meaning": "not at all",
+    "reading": "ぜんぜん (zenzen)"
+   }
+  ]
+ },
+ {
+  "kanji": "八",
+  "onyomi": [
+   "ハチ"
+  ],
+  "kunyomi": [
+   "や(つ)"
+  ],
+  "meaning": "eight",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "六",
+  "onyomi": [
+   "ロク"
+  ],
+  "kunyomi": [
+   "む(つ)"
+  ],
+  "meaning": "six",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "円",
+  "onyomi": [
+   "エン"
+  ],
+  "kunyomi": [
+   "まる(い)"
+  ],
+  "meaning": "yen",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "冬",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [
+   "ふゆ"
+  ],
+  "meaning": "winter",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "出",
+  "onyomi": [
+   "シュツ",
+   "スイ"
+  ],
+  "kunyomi": [
+   "で(る)",
+   "だ(す)"
+  ],
+  "meaning": "exit, go out",
+  "breakdown": "山-like form + 出 → emerge",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "出る",
+    "meaning": "leave/go out",
+    "reading": "でる (deru)"
+   },
+   {
+    "word": "出す",
+    "meaning": "take out",
+    "reading": "だす (dasu)"
+   }
+  ]
+ },
+ {
+  "kanji": "分",
+  "onyomi": [
+   "ブン",
+   "フン",
+   "ブ"
+  ],
+  "kunyomi": [
+   "わ(ける)",
+   "わ(かる)"
+  ],
+  "meaning": "divide, minute",
+  "breakdown": "八 + 刀 → divide with a knife",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "自分",
+    "meaning": "oneself",
+    "reading": ""
+   },
+   {
+    "word": "分かる",
+    "meaning": "understand",
+    "reading": "わかる (wakaru)"
+   },
+   {
+    "word": "半分",
+    "meaning": "half",
+    "reading": "はんぶん (hanbun)"
+   },
+   {
+    "word": "分かった",
+    "meaning": "understood/got it",
+    "reading": "わかった (wakatta)"
+   },
+   {
+    "word": "分かりません",
+    "meaning": "I don't understand/know",
+    "reading": "わかりません (wakarimasen)"
+   },
+   {
+    "word": "多分",
+    "meaning": "probably",
+    "reading": "たぶん (tabun)"
+   }
+  ]
+ },
+ {
+  "kanji": "前",
+  "onyomi": [
+   "ゼン"
+  ],
+  "kunyomi": [
+   "まえ"
+  ],
+  "meaning": "before, front",
+  "breakdown": "⺧ + 刂 → originally related to cutting; memorize as a unit",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "駅前",
+    "meaning": "in front of the station",
+    "reading": ""
+   },
+   {
+    "word": "午前",
+    "meaning": "morning / a.m.",
+    "reading": ""
+   },
+   {
+    "word": "名前",
+    "meaning": "name",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "力",
+  "onyomi": [
+   "リョク",
+   "リキ"
+  ],
+  "kunyomi": [
+   "ちから"
+  ],
+  "meaning": "power",
+  "breakdown": "力 = strength",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "北",
+  "onyomi": [
+   "ホク"
+  ],
+  "kunyomi": [
+   "きた"
+  ],
+  "meaning": "north",
+  "breakdown": "北 = originally two people back-to-back",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "北海道",
+    "meaning": "Hokkaido",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "十",
+  "onyomi": [
+   "ジュウ"
+  ],
+  "kunyomi": [
+   "とお",
+   "と"
+  ],
+  "meaning": "ten",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "千",
+  "onyomi": [
+   "セン"
+  ],
+  "kunyomi": [
+   "ち"
+  ],
+  "meaning": "thousand",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "午",
+  "onyomi": [
+   "ゴ"
+  ],
+  "kunyomi": [],
+  "meaning": "noon",
+  "breakdown": "午 = noon",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "午前",
+    "meaning": "morning / a.m.",
+    "reading": ""
+   },
+   {
+    "word": "午後",
+    "meaning": "afternoon / p.m.",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "半",
+  "onyomi": [
+   "ハン"
+  ],
+  "kunyomi": [
+   "なか(ば)"
+  ],
+  "meaning": "half",
+  "breakdown": "半 = half",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "半分",
+    "meaning": "half",
+    "reading": "はんぶん (hanbun)"
+   }
+  ]
+ },
+ {
+  "kanji": "南",
+  "onyomi": [
+   "ナン"
+  ],
+  "kunyomi": [
+   "みなみ"
+  ],
+  "meaning": "south",
+  "breakdown": "南 = south",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "卵",
+  "onyomi": [
+   "ラン"
+  ],
+  "kunyomi": [
+   "たまご"
+  ],
+  "meaning": "egg",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "友",
+  "onyomi": [
+   "ユウ"
+  ],
+  "kunyomi": [
+   "とも"
+  ],
+  "meaning": "friend",
+  "breakdown": "又 (again/hand) + ⺧",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "友達",
+    "meaning": "friend",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "口",
+  "onyomi": [
+   "コウ",
+   "ク"
+  ],
+  "kunyomi": [
+   "くち"
+  ],
+  "meaning": "mouth",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "古",
+  "onyomi": [
+   "コ"
+  ],
+  "kunyomi": [
+   "ふる(い)"
+  ],
+  "meaning": "old",
+  "breakdown": "十 + 口",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "古い",
+    "meaning": "old",
+    "reading": "ふるい (furui)"
+   }
+  ]
+ },
+ {
+  "kanji": "右",
+  "onyomi": [
+   "ウ",
+   "ユウ"
+  ],
+  "kunyomi": [
+   "みぎ"
+  ],
+  "meaning": "right",
+  "breakdown": "ナ + 口",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "同",
+  "onyomi": [
+   "ドウ"
+  ],
+  "kunyomi": [
+   "おな(じ)"
+  ],
+  "meaning": "same",
+  "breakdown": "冂 + 一 + 口",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "四",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "よん",
+   "よ(つ)"
+  ],
+  "meaning": "four",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "国",
+  "onyomi": [
+   "コク"
+  ],
+  "kunyomi": [
+   "くに"
+  ],
+  "meaning": "country",
+  "breakdown": "囗 (enclosure) + 玉 (jewel)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "中国",
+    "meaning": "China",
+    "reading": ""
+   },
+   {
+    "word": "外国",
+    "meaning": "foreign country",
+    "reading": ""
+   },
+   {
+    "word": "外国人",
+    "meaning": "foreigner",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "土",
+  "onyomi": [
+   "ド",
+   "ト"
+  ],
+  "kunyomi": [
+   "つち"
+  ],
+  "meaning": "earth, soil",
+  "breakdown": "土 = earth",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "塩",
+  "onyomi": [
+   "エン"
+  ],
+  "kunyomi": [
+   "しお"
+  ],
+  "meaning": "salt",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "売",
+  "onyomi": [
+   "バイ"
+  ],
+  "kunyomi": [
+   "う(る)"
+  ],
+  "meaning": "sell",
+  "breakdown": "士 + 冖 + 儿",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "売る",
+    "meaning": "sell",
+    "reading": "うる (uru)"
+   }
+  ]
+ },
+ {
+  "kanji": "夏",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "なつ"
+  ],
+  "meaning": "summer",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "外",
+  "onyomi": [
+   "ガイ",
+   "ゲ"
+  ],
+  "kunyomi": [
+   "そと",
+   "ほか"
+  ],
+  "meaning": "outside",
+  "breakdown": "夕 + 卜",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "外国",
+    "meaning": "foreign country",
+    "reading": ""
+   },
+   {
+    "word": "外国人",
+    "meaning": "foreigner",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "多",
+  "onyomi": [
+   "タ"
+  ],
+  "kunyomi": [
+   "おお(い)"
+  ],
+  "meaning": "many",
+  "breakdown": "夕 + 夕 → many",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "多い",
+    "meaning": "many",
+    "reading": "おおい (ooi)"
+   },
+   {
+    "word": "多分",
+    "meaning": "probably",
+    "reading": "たぶん (tabun)"
+   }
+  ]
+ },
+ {
+  "kanji": "夜",
+  "onyomi": [
+   "ヤ"
+  ],
+  "kunyomi": [
+   "よる",
+   "よ"
+  ],
+  "meaning": "night",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "夢",
+  "onyomi": [
+   "ム"
+  ],
+  "kunyomi": [
+   "ゆめ"
+  ],
+  "meaning": "dream",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "大",
+  "onyomi": [
+   "ダイ",
+   "タイ"
+  ],
+  "kunyomi": [
+   "おお(きい)"
+  ],
+  "meaning": "big",
+  "breakdown": "大 = person with arms extended",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "大学",
+    "meaning": "university",
+    "reading": ""
+   },
+   {
+    "word": "大人",
+    "meaning": "adult",
+    "reading": ""
+   },
+   {
+    "word": "大阪",
+    "meaning": "Osaka",
+    "reading": ""
+   },
+   {
+    "word": "大切",
+    "meaning": "important/precious",
+    "reading": ""
+   },
+   {
+    "word": "大きい",
+    "meaning": "big",
+    "reading": "おおきい (ookii)"
+   },
+   {
+    "word": "大丈夫",
+    "meaning": "okay/all right",
+    "reading": "だいじょうぶ (daijoubu)"
+   }
+  ]
+ },
+ {
+  "kanji": "天",
+  "onyomi": [
+   "テン"
+  ],
+  "kunyomi": [
+   "あめ",
+   "あま"
+  ],
+  "meaning": "heaven, sky",
+  "breakdown": "一 + 大 → something above",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "天気",
+    "meaning": "weather",
+    "reading": "てんき (tenki)"
+   }
+  ]
+ },
+ {
+  "kanji": "夫",
+  "onyomi": [
+   "フ"
+  ],
+  "kunyomi": [
+   "おっと"
+  ],
+  "meaning": "husband",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "大丈夫",
+    "meaning": "okay/all right",
+    "reading": "だいじょうぶ (daijoubu)"
+   }
+  ]
+ },
+ {
+  "kanji": "女",
+  "onyomi": [
+   "ジョ",
+   "ニョ"
+  ],
+  "kunyomi": [
+   "おんな"
+  ],
+  "meaning": "woman",
+  "breakdown": "女 = woman",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "彼女",
+    "meaning": "she, girlfriend",
+    "reading": "かのじょ (kanojo)"
+   },
+   {
+    "word": "女の子",
+    "meaning": "girl",
+    "reading": "おんなのこ (onnanoko)"
+   },
+   {
+    "word": "女性",
+    "meaning": "female/woman",
+    "reading": "じょせい (josei)"
+   }
+  ]
+ },
+ {
+  "kanji": "好",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "す(き)",
+   "この(む)"
+  ],
+  "meaning": "like",
+  "breakdown": "女 (woman) + 子 (child)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "好き",
+    "meaning": "like",
+    "reading": "すき (suki)"
+   },
+   {
+    "word": "格好いい",
+    "meaning": "cool/good-looking",
+    "reading": "かっこいい (kakkoii)"
+   }
+  ]
+ },
+ {
+  "kanji": "妹",
+  "onyomi": [
+   "マイ"
+  ],
+  "kunyomi": [
+   "いもうと"
+  ],
+  "meaning": "younger sister",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "姉妹",
+    "meaning": "sisters",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "妻",
+  "onyomi": [
+   "サイ"
+  ],
+  "kunyomi": [
+   "つま"
+  ],
+  "meaning": "wife",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "姉",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "あね"
+  ],
+  "meaning": "older sister",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "姉妹",
+    "meaning": "sisters",
+    "reading": ""
+   },
+   {
+    "word": "お姉さん",
+    "meaning": "older sister",
+    "reading": "おねえさん (oneesan)"
+   }
+  ]
+ },
+ {
+  "kanji": "娘",
+  "onyomi": [],
+  "kunyomi": [
+   "むすめ"
+  ],
+  "meaning": "daughter",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "子",
+  "onyomi": [
+   "シ",
+   "ス"
+  ],
+  "kunyomi": [
+   "こ"
+  ],
+  "meaning": "child",
+  "breakdown": "子 = child",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "子供",
+    "meaning": "child",
+    "reading": ""
+   },
+   {
+    "word": "男の子",
+    "meaning": "boy",
+    "reading": "おとこのこ (otokonoko)"
+   },
+   {
+    "word": "女の子",
+    "meaning": "girl",
+    "reading": "おんなのこ (onnanoko)"
+   },
+   {
+    "word": "息子",
+    "meaning": "son",
+    "reading": "むすこ (musuko)"
+   },
+   {
+    "word": "お菓子",
+    "meaning": "sweets/snacks",
+    "reading": "おかし (okashi)"
+   },
+   {
+    "word": "椅子",
+    "meaning": "chair",
+    "reading": "いす (isu)"
+   }
+  ]
+ },
+ {
+  "kanji": "学",
+  "onyomi": [
+   "ガク"
+  ],
+  "kunyomi": [
+   "まな(ぶ)"
+  ],
+  "meaning": "study",
+  "breakdown": "⺍ + 冖 + 子 → child under a roof learning",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "学校",
+    "meaning": "school",
+    "reading": ""
+   },
+   {
+    "word": "大学",
+    "meaning": "university",
+    "reading": ""
+   },
+   {
+    "word": "学生",
+    "meaning": "student",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "客",
+  "onyomi": [
+   "キャク",
+   "カク"
+  ],
+  "kunyomi": [],
+  "meaning": "customer/guest",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "家",
+  "onyomi": [
+   "カ",
+   "ケ"
+  ],
+  "kunyomi": [
+   "いえ",
+   "や"
+  ],
+  "meaning": "house/home",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "家族",
+    "meaning": "family",
+    "reading": ""
+   },
+   {
+    "word": "家庭",
+    "meaning": "household",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "小",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [
+   "ちい(さい)",
+   "こ"
+  ],
+  "meaning": "small",
+  "breakdown": "小 = small",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "小さい",
+    "meaning": "small",
+    "reading": "ちいさい (chiisai)"
+   }
+  ]
+ },
+ {
+  "kanji": "少",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [
+   "すく(ない)",
+   "すこ(し)"
+  ],
+  "meaning": "few",
+  "breakdown": "小 + 丿",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "少ない",
+    "meaning": "few",
+    "reading": "すくない (sukunai)"
+   },
+   {
+    "word": "少し",
+    "meaning": "a little",
+    "reading": "すこし (sukoshi)"
+   }
+  ]
+ },
+ {
+  "kanji": "山",
+  "onyomi": [
+   "サン"
+  ],
+  "kunyomi": [
+   "やま"
+  ],
+  "meaning": "mountain",
+  "breakdown": "山 = mountain",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "川",
+  "onyomi": [
+   "セン"
+  ],
+  "kunyomi": [
+   "かわ"
+  ],
+  "meaning": "river",
+  "breakdown": "川 = river",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "左",
+  "onyomi": [
+   "サ"
+  ],
+  "kunyomi": [
+   "ひだり"
+  ],
+  "meaning": "left",
+  "breakdown": "ナ + 工",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "年",
+  "onyomi": [
+   "ネン"
+  ],
+  "kunyomi": [
+   "とし"
+  ],
+  "meaning": "year",
+  "breakdown": "年 = year",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "今年",
+    "meaning": "this year",
+    "reading": ""
+   },
+   {
+    "word": "来年",
+    "meaning": "next year",
+    "reading": ""
+   },
+   {
+    "word": "去年",
+    "meaning": "last year",
+    "reading": ""
+   },
+   {
+    "word": "毎年",
+    "meaning": "every year",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "店",
+  "onyomi": [
+   "テン"
+  ],
+  "kunyomi": [
+   "みせ"
+  ],
+  "meaning": "shop/store",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "店員",
+    "meaning": "shop clerk",
+    "reading": "てんいん (ten'in)"
+   },
+   {
+    "word": "店内",
+    "meaning": "inside the store",
+    "reading": "てんない (tennai)"
+   }
+  ]
+ },
+ {
+  "kanji": "弟",
+  "onyomi": [
+   "テイ",
+   "ダイ"
+  ],
+  "kunyomi": [
+   "おとうと"
+  ],
+  "meaning": "younger brother",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "兄弟",
+    "meaning": "siblings / brothers",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "彼",
+  "onyomi": [
+   "ヒ"
+  ],
+  "kunyomi": [
+   "かれ"
+  ],
+  "meaning": "he, boyfriend",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "彼女",
+    "meaning": "she, girlfriend",
+    "reading": "かのじょ (kanojo)"
+   },
+   {
+    "word": "彼氏",
+    "meaning": "boyfriend",
+    "reading": "かれし (kareshi)"
+   }
+  ]
+ },
+ {
+  "kanji": "後",
+  "onyomi": [
+   "ゴ",
+   "コウ"
+  ],
+  "kunyomi": [
+   "あと",
+   "うし(ろ)",
+   "のち"
+  ],
+  "meaning": "after, behind",
+  "breakdown": "彳 (step) + 幺 + 夂 (walking)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "午後",
+    "meaning": "afternoon / p.m.",
+    "reading": ""
+   },
+   {
+    "word": "最後",
+    "meaning": "last/final",
+    "reading": ""
+   },
+   {
+    "word": "後ろ",
+    "meaning": "behind",
+    "reading": "うしろ (ushiro)"
+   }
+  ]
+ },
+ {
+  "kanji": "心",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "こころ"
+  ],
+  "meaning": "heart, mind",
+  "breakdown": "心 = heart",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "心配",
+    "meaning": "worry",
+    "reading": "しんぱい (shinpai)"
+   },
+   {
+    "word": "安心",
+    "meaning": "relief/peace of mind",
+    "reading": "あんしん (anshin)"
+   }
+  ]
+ },
+ {
+  "kanji": "思",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "おも(う)"
+  ],
+  "meaning": "think",
+  "breakdown": "田 + 心 → thought in the heart",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "思う",
+    "meaning": "think",
+    "reading": "おもう (omou)"
+   }
+  ]
+ },
+ {
+  "kanji": "意",
+  "onyomi": [
+   "イ"
+  ],
+  "kunyomi": [],
+  "meaning": "meaning, intention",
+  "breakdown": "音 + 心",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "意味",
+    "meaning": "meaning",
+    "reading": ""
+   },
+   {
+    "word": "意見",
+    "meaning": "opinion",
+    "reading": "いけん (iken)"
+   }
+  ]
+ },
+ {
+  "kanji": "愛",
+  "onyomi": [
+   "アイ"
+  ],
+  "kunyomi": [],
+  "meaning": "love",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "愛する",
+    "meaning": "love",
+    "reading": "あいする (aisuru)"
+   },
+   {
+    "word": "可愛い",
+    "meaning": "cute",
+    "reading": "かわいい (kawaii)"
+   }
+  ]
+ },
+ {
+  "kanji": "手",
+  "onyomi": [
+   "シュ"
+  ],
+  "kunyomi": [
+   "て"
+  ],
+  "meaning": "hand",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "手伝う",
+    "meaning": "help",
+    "reading": "てつだう (tetsudau)"
+   },
+   {
+    "word": "手紙",
+    "meaning": "letter",
+    "reading": "てがみ (tegami)"
+   }
+  ]
+ },
+ {
+  "kanji": "指",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "ゆび",
+   "さ(す)"
+  ],
+  "meaning": "finger",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "新",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "あたら(しい)"
+  ],
+  "meaning": "new",
+  "breakdown": "亲 + 斤 → associated with cutting wood",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "新しい",
+    "meaning": "new",
+    "reading": "あたらしい (atarashii)"
+   }
+  ]
+ },
+ {
+  "kanji": "方",
+  "onyomi": [
+   "ホウ"
+  ],
+  "kunyomi": [
+   "かた"
+  ],
+  "meaning": "direction/way",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "方法",
+    "meaning": "method/way",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "日",
+  "onyomi": [
+   "ニチ",
+   "ジツ"
+  ],
+  "kunyomi": [
+   "ひ",
+   "か"
+  ],
+  "meaning": "sun, day",
+  "breakdown": "日 = sun",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "日本",
+    "meaning": "Japan",
+    "reading": ""
+   },
+   {
+    "word": "日本人",
+    "meaning": "Japanese person",
+    "reading": ""
+   },
+   {
+    "word": "日本語",
+    "meaning": "Japanese language",
+    "reading": ""
+   },
+   {
+    "word": "今日",
+    "meaning": "today",
+    "reading": ""
+   },
+   {
+    "word": "明日",
+    "meaning": "tomorrow",
+    "reading": ""
+   },
+   {
+    "word": "昨日",
+    "meaning": "yesterday",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "星",
+  "onyomi": [
+   "セイ",
+   "ショウ"
+  ],
+  "kunyomi": [
+   "ほし"
+  ],
+  "meaning": "star",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "春",
+  "onyomi": [
+   "シュン"
+  ],
+  "kunyomi": [
+   "はる"
+  ],
+  "meaning": "spring",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "昼",
+  "onyomi": [
+   "チュウ"
+  ],
+  "kunyomi": [
+   "ひる"
+  ],
+  "meaning": "noon/daytime",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "昼食",
+    "meaning": "lunch",
+    "reading": ""
+   },
+   {
+    "word": "昼ご飯",
+    "meaning": "lunch",
+    "reading": "ひるごはん (hirugohan)"
+   }
+  ]
+ },
+ {
+  "kanji": "時",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "とき"
+  ],
+  "meaning": "time, hour",
+  "breakdown": "日 (day) + 寺 (temple)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "時間",
+    "meaning": "time",
+    "reading": ""
+   },
+   {
+    "word": "時計",
+    "meaning": "clock/watch",
+    "reading": "とけい (tokei)"
+   },
+   {
+    "word": "時々",
+    "meaning": "sometimes",
+    "reading": "ときどき (tokidoki)"
+   }
+  ]
+ },
+ {
+  "kanji": "晩",
+  "onyomi": [
+   "バン"
+  ],
+  "kunyomi": [],
+  "meaning": "evening/night",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "晩ご飯",
+    "meaning": "dinner",
+    "reading": "ばんごはん (bangohan)"
+   }
+  ]
+ },
+ {
+  "kanji": "暇",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "ひま"
+  ],
+  "meaning": "free/not busy",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "書",
+  "onyomi": [
+   "ショ"
+  ],
+  "kunyomi": [
+   "か(く)"
+  ],
+  "meaning": "write",
+  "breakdown": "聿 (writing brush) + 日",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "書く",
+    "meaning": "write",
+    "reading": "かく (kaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "月",
+  "onyomi": [
+   "ゲツ",
+   "ガツ"
+  ],
+  "kunyomi": [
+   "つき"
+  ],
+  "meaning": "moon, month",
+  "breakdown": "月 = moon",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "今月",
+    "meaning": "this month",
+    "reading": ""
+   },
+   {
+    "word": "来月",
+    "meaning": "next month",
+    "reading": ""
+   },
+   {
+    "word": "先月",
+    "meaning": "last month",
+    "reading": ""
+   },
+   {
+    "word": "毎月",
+    "meaning": "every month",
+    "reading": "まいつき (maitsuki)"
+   }
+  ]
+ },
+ {
+  "kanji": "服",
+  "onyomi": [
+   "フク"
+  ],
+  "kunyomi": [],
+  "meaning": "clothes",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "朝",
+  "onyomi": [
+   "チョウ"
+  ],
+  "kunyomi": [
+   "あさ"
+  ],
+  "meaning": "morning",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "朝食",
+    "meaning": "breakfast",
+    "reading": ""
+   },
+   {
+    "word": "朝ご飯",
+    "meaning": "breakfast",
+    "reading": "あさごはん (asagohan)"
+   }
+  ]
+ },
+ {
+  "kanji": "木",
+  "onyomi": [
+   "ボク",
+   "モク"
+  ],
+  "kunyomi": [
+   "き"
+  ],
+  "meaning": "tree",
+  "breakdown": "木 = tree",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "本",
+  "onyomi": [
+   "ホン"
+  ],
+  "kunyomi": [
+   "もと"
+  ],
+  "meaning": "book",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "日本",
+    "meaning": "Japan",
+    "reading": ""
+   },
+   {
+    "word": "日本人",
+    "meaning": "Japanese person",
+    "reading": ""
+   },
+   {
+    "word": "日本語",
+    "meaning": "Japanese language",
+    "reading": ""
+   },
+   {
+    "word": "本当",
+    "meaning": "true/really",
+    "reading": ""
+   },
+   {
+    "word": "本当に",
+    "meaning": "really",
+    "reading": "ほんとうに (hontou ni)"
+   },
+   {
+    "word": "本当？",
+    "meaning": "Really?",
+    "reading": "ほんとう？ (hontou?)"
+   }
+  ]
+ },
+ {
+  "kanji": "机",
+  "onyomi": [
+   "キ"
+  ],
+  "kunyomi": [
+   "つくえ"
+  ],
+  "meaning": "desk",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "来",
+  "onyomi": [
+   "ライ"
+  ],
+  "kunyomi": [
+   "く(る)",
+   "こ(ない)",
+   "き(た)"
+  ],
+  "meaning": "come",
+  "breakdown": "来 = come",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "来月",
+    "meaning": "next month",
+    "reading": ""
+   },
+   {
+    "word": "来年",
+    "meaning": "next year",
+    "reading": ""
+   },
+   {
+    "word": "来る",
+    "meaning": "come",
+    "reading": "くる (kuru)"
+   },
+   {
+    "word": "未来",
+    "meaning": "future",
+    "reading": "みらい (mirai)"
+   }
+  ]
+ },
+ {
+  "kanji": "東",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [
+   "ひがし"
+  ],
+  "meaning": "east",
+  "breakdown": "木 + 日 → sun rising behind a tree",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "東京",
+    "meaning": "Tokyo",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "林",
+  "onyomi": [
+   "リン"
+  ],
+  "kunyomi": [
+   "はやし"
+  ],
+  "meaning": "woods",
+  "breakdown": "木 + 木",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "森",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "もり"
+  ],
+  "meaning": "forest",
+  "breakdown": "木 + 木 + 木",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "次",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "つぎ"
+  ],
+  "meaning": "next",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "歯",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "は"
+  ],
+  "meaning": "tooth",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "母",
+  "onyomi": [
+   "ボ"
+  ],
+  "kunyomi": [
+   "はは"
+  ],
+  "meaning": "mother",
+  "breakdown": "母 = mother",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "母親",
+    "meaning": "mother",
+    "reading": ""
+   },
+   {
+    "word": "お母さん",
+    "meaning": "mother",
+    "reading": "おかあさん (okaasan)"
+   }
+  ]
+ },
+ {
+  "kanji": "毎",
+  "onyomi": [
+   "マイ"
+  ],
+  "kunyomi": [],
+  "meaning": "every",
+  "breakdown": "毎 = every",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "毎日",
+    "meaning": "every day",
+    "reading": ""
+   },
+   {
+    "word": "毎年",
+    "meaning": "every year",
+    "reading": ""
+   },
+   {
+    "word": "毎週",
+    "meaning": "every week",
+    "reading": "まいしゅう (maishuu)"
+   },
+   {
+    "word": "毎月",
+    "meaning": "every month",
+    "reading": "まいつき (maitsuki)"
+   }
+  ]
+ },
+ {
+  "kanji": "水",
+  "onyomi": [
+   "スイ"
+  ],
+  "kunyomi": [
+   "みず"
+  ],
+  "meaning": "water",
+  "breakdown": "水 = water",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "海",
+  "onyomi": [
+   "カイ"
+  ],
+  "kunyomi": [
+   "うみ"
+  ],
+  "meaning": "sea",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "北海道",
+    "meaning": "Hokkaido",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "火",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "ひ"
+  ],
+  "meaning": "fire",
+  "breakdown": "火 = fire",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "熱",
+  "onyomi": [
+   "ネツ"
+  ],
+  "kunyomi": [
+   "あつ(い)"
+  ],
+  "meaning": "fever/heat",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "熱い",
+    "meaning": "hot to touch",
+    "reading": "あつい (atsui)"
+   }
+  ]
+ },
+ {
+  "kanji": "父",
+  "onyomi": [
+   "フ"
+  ],
+  "kunyomi": [
+   "ちち"
+  ],
+  "meaning": "father",
+  "breakdown": "父 = father",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "父親",
+    "meaning": "father",
+    "reading": ""
+   },
+   {
+    "word": "お父さん",
+    "meaning": "father",
+    "reading": "おとうさん (otousan)"
+   }
+  ]
+ },
+ {
+  "kanji": "物",
+  "onyomi": [
+   "ブツ",
+   "モツ"
+  ],
+  "kunyomi": [
+   "もの"
+  ],
+  "meaning": "thing",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "建物",
+    "meaning": "building",
+    "reading": ""
+   },
+   {
+    "word": "買物",
+    "meaning": "shopping",
+    "reading": ""
+   },
+   {
+    "word": "食べ物",
+    "meaning": "food",
+    "reading": "たべもの (tabemono)"
+   },
+   {
+    "word": "飲み物",
+    "meaning": "drink",
+    "reading": "のみもの (nomimono)"
+   },
+   {
+    "word": "果物",
+    "meaning": "fruit",
+    "reading": "くだもの (kudamono)"
+   },
+   {
+    "word": "荷物",
+    "meaning": "luggage",
+    "reading": "にもつ (nimotsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "犬",
+  "onyomi": [
+   "ケン"
+  ],
+  "kunyomi": [
+   "いぬ"
+  ],
+  "meaning": "dog",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "猫",
+  "onyomi": [
+   "ビョウ"
+  ],
+  "kunyomi": [
+   "ねこ"
+  ],
+  "meaning": "cat",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "生",
+  "onyomi": [
+   "セイ",
+   "ショウ"
+  ],
+  "kunyomi": [
+   "い(きる)",
+   "う(まれる)",
+   "なま"
+  ],
+  "meaning": "life, birth",
+  "breakdown": "生 = grow/live",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "学生",
+    "meaning": "student",
+    "reading": ""
+   },
+   {
+    "word": "先生",
+    "meaning": "teacher",
+    "reading": ""
+   },
+   {
+    "word": "生活",
+    "meaning": "life / living",
+    "reading": ""
+   },
+   {
+    "word": "生きる",
+    "meaning": "live",
+    "reading": "いきる (ikiru)"
+   },
+   {
+    "word": "人生",
+    "meaning": "life",
+    "reading": "じんせい (jinsei)"
+   }
+  ]
+ },
+ {
+  "kanji": "男",
+  "onyomi": [
+   "ダン",
+   "ナン"
+  ],
+  "kunyomi": [
+   "おとこ"
+  ],
+  "meaning": "man",
+  "breakdown": "田 (field) + 力 (power)",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "男の子",
+    "meaning": "boy",
+    "reading": "おとこのこ (otokonoko)"
+   },
+   {
+    "word": "男性",
+    "meaning": "male/man",
+    "reading": "だんせい (dansei)"
+   }
+  ]
+ },
+ {
+  "kanji": "百",
+  "onyomi": [
+   "ヒャク"
+  ],
+  "kunyomi": [],
+  "meaning": "hundred",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "皆",
+  "onyomi": [
+   "カイ"
+  ],
+  "kunyomi": [
+   "みな"
+  ],
+  "meaning": "everyone",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "皿",
+  "onyomi": [],
+  "kunyomi": [
+   "さら"
+  ],
+  "meaning": "plate",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "目",
+  "onyomi": [
+   "モク"
+  ],
+  "kunyomi": [
+   "め"
+  ],
+  "meaning": "eye",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "知",
+  "onyomi": [
+   "チ"
+  ],
+  "kunyomi": [
+   "し(る)"
+  ],
+  "meaning": "know",
+  "breakdown": "矢 (arrow) + 口 (mouth)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "知る",
+    "meaning": "know",
+    "reading": "しる (shiru)"
+   },
+   {
+    "word": "知りません",
+    "meaning": "I don't know",
+    "reading": "しりません (shirimasen)"
+   }
+  ]
+ },
+ {
+  "kanji": "私",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "わたし",
+   "わたくし"
+  ],
+  "meaning": "I, me",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "私たち",
+    "meaning": "we",
+    "reading": "わたしたち (watashitachi)"
+   }
+  ]
+ },
+ {
+  "kanji": "秋",
+  "onyomi": [
+   "シュウ"
+  ],
+  "kunyomi": [
+   "あき"
+  ],
+  "meaning": "autumn",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "秒",
+  "onyomi": [
+   "ビョウ"
+  ],
+  "kunyomi": [],
+  "meaning": "second",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "空",
+  "onyomi": [
+   "クウ"
+  ],
+  "kunyomi": [
+   "そら",
+   "あ(く)",
+   "から"
+  ],
+  "meaning": "sky",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "空港",
+    "meaning": "airport",
+    "reading": "くうこう (kuukou)"
+   }
+  ]
+ },
+ {
+  "kanji": "窓",
+  "onyomi": [
+   "ソウ"
+  ],
+  "kunyomi": [
+   "まど"
+  ],
+  "meaning": "window",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "箸",
+  "onyomi": [],
+  "kunyomi": [
+   "はし"
+  ],
+  "meaning": "chopsticks",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "米",
+  "onyomi": [
+   "ベイ",
+   "マイ"
+  ],
+  "kunyomi": [
+   "こめ"
+  ],
+  "meaning": "rice",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "紙",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "かみ"
+  ],
+  "meaning": "paper",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "手紙",
+    "meaning": "letter",
+    "reading": "てがみ (tegami)"
+   }
+  ]
+ },
+ {
+  "kanji": "耳",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "みみ"
+  ],
+  "meaning": "ear",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "聞",
+  "onyomi": [
+   "ブン",
+   "モン"
+  ],
+  "kunyomi": [
+   "き(く)"
+  ],
+  "meaning": "hear, ask",
+  "breakdown": "門 (gate) + 耳 (ear)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "聞く",
+    "meaning": "hear/ask",
+    "reading": "きく (kiku)"
+   }
+  ]
+ },
+ {
+  "kanji": "肉",
+  "onyomi": [
+   "ニク"
+  ],
+  "kunyomi": [],
+  "meaning": "meat",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "鶏肉",
+    "meaning": "chicken",
+    "reading": "とりにく (toriniku)"
+   },
+   {
+    "word": "牛肉",
+    "meaning": "beef",
+    "reading": "ぎゅうにく (gyuuniku)"
+   },
+   {
+    "word": "豚肉",
+    "meaning": "pork",
+    "reading": "ぶたにく (butaniku)"
+   }
+  ]
+ },
+ {
+  "kanji": "肩",
+  "onyomi": [
+   "ケン"
+  ],
+  "kunyomi": [
+   "かた"
+  ],
+  "meaning": "shoulder",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "胸",
+  "onyomi": [
+   "キョウ"
+  ],
+  "kunyomi": [
+   "むね"
+  ],
+  "meaning": "chest",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "腕",
+  "onyomi": [
+   "ワン"
+  ],
+  "kunyomi": [
+   "うで"
+  ],
+  "meaning": "arm",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "花",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "はな"
+  ],
+  "meaning": "flower",
+  "breakdown": "艹 (grass) + 化 (change)",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "草",
+  "onyomi": [
+   "ソウ"
+  ],
+  "kunyomi": [
+   "くさ"
+  ],
+  "meaning": "grass",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "薬",
+  "onyomi": [
+   "ヤク"
+  ],
+  "kunyomi": [
+   "くすり"
+  ],
+  "meaning": "medicine",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "虫",
+  "onyomi": [
+   "チュウ"
+  ],
+  "kunyomi": [
+   "むし"
+  ],
+  "meaning": "insect",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "行",
+  "onyomi": [
+   "コウ",
+   "ギョウ"
+  ],
+  "kunyomi": [
+   "い(く)",
+   "おこな(う)"
+  ],
+  "meaning": "go",
+  "breakdown": "行 = go",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "銀行",
+    "meaning": "bank",
+    "reading": ""
+   },
+   {
+    "word": "旅行",
+    "meaning": "travel",
+    "reading": ""
+   },
+   {
+    "word": "行く",
+    "meaning": "go",
+    "reading": "いく (iku)"
+   },
+   {
+    "word": "飛行機",
+    "meaning": "airplane",
+    "reading": "ひこうき (hikouki)"
+   }
+  ]
+ },
+ {
+  "kanji": "街",
+  "onyomi": [
+   "ガイ",
+   "カイ"
+  ],
+  "kunyomi": [
+   "まち"
+  ],
+  "meaning": "town/city",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "西",
+  "onyomi": [
+   "セイ",
+   "サイ"
+  ],
+  "kunyomi": [
+   "にし"
+  ],
+  "meaning": "west",
+  "breakdown": "西 = west",
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "見",
+  "onyomi": [
+   "ケン"
+  ],
+  "kunyomi": [
+   "み(る)"
+  ],
+  "meaning": "see",
+  "breakdown": "目 (eye) + 儿 (person)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "見る",
+    "meaning": "see/watch",
+    "reading": "みる (miru)"
+   },
+   {
+    "word": "意見",
+    "meaning": "opinion",
+    "reading": "いけん (iken)"
+   }
+  ]
+ },
+ {
+  "kanji": "話",
+  "onyomi": [
+   "ワ"
+  ],
+  "kunyomi": [
+   "はな(す)"
+  ],
+  "meaning": "talk",
+  "breakdown": "言 (words) + 舌 (tongue)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "電話",
+    "meaning": "telephone",
+    "reading": ""
+   },
+   {
+    "word": "話す",
+    "meaning": "speak",
+    "reading": "はなす (hanasu)"
+   }
+  ]
+ },
+ {
+  "kanji": "読",
+  "onyomi": [
+   "ドク",
+   "トク"
+  ],
+  "kunyomi": [
+   "よ(む)"
+  ],
+  "meaning": "read",
+  "breakdown": "言 (words) + 売 (sell)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "読む",
+    "meaning": "read",
+    "reading": "よむ (yomu)"
+   }
+  ]
+ },
+ {
+  "kanji": "誰",
+  "onyomi": [
+   "スイ"
+  ],
+  "kunyomi": [
+   "だれ"
+  ],
+  "meaning": "who",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "買",
+  "onyomi": [
+   "バイ"
+  ],
+  "kunyomi": [
+   "か(う)"
+  ],
+  "meaning": "buy",
+  "breakdown": "网 + 貝 (shell/money)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "買物",
+    "meaning": "shopping",
+    "reading": ""
+   },
+   {
+    "word": "買う",
+    "meaning": "buy",
+    "reading": "かう (kau)"
+   }
+  ]
+ },
+ {
+  "kanji": "足",
+  "onyomi": [
+   "ソク"
+  ],
+  "kunyomi": [
+   "あし",
+   "た(りる)"
+  ],
+  "meaning": "leg/foot",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "車",
+  "onyomi": [
+   "シャ"
+  ],
+  "kunyomi": [
+   "くるま"
+  ],
+  "meaning": "car",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "電車",
+    "meaning": "train",
+    "reading": ""
+   },
+   {
+    "word": "自動車",
+    "meaning": "automobile",
+    "reading": ""
+   },
+   {
+    "word": "自転車",
+    "meaning": "bicycle",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "週",
+  "onyomi": [
+   "シュウ"
+  ],
+  "kunyomi": [],
+  "meaning": "week",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "毎週",
+    "meaning": "every week",
+    "reading": "まいしゅう (maishuu)"
+   },
+   {
+    "word": "今週",
+    "meaning": "this week",
+    "reading": "こんしゅう (konshuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "道",
+  "onyomi": [
+   "ドウ"
+  ],
+  "kunyomi": [
+   "みち"
+  ],
+  "meaning": "road, way",
+  "breakdown": "辶 (movement) + 首 (head)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "北海道",
+    "meaning": "Hokkaido",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "酒",
+  "onyomi": [
+   "シュ"
+  ],
+  "kunyomi": [
+   "さけ"
+  ],
+  "meaning": "alcohol/sake",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "金",
+  "onyomi": [
+   "キン",
+   "コン"
+  ],
+  "kunyomi": [
+   "かね"
+  ],
+  "meaning": "gold, money",
+  "breakdown": "金 = metal/gold",
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "お金",
+    "meaning": "money",
+    "reading": "おかね (okane)"
+   }
+  ]
+ },
+ {
+  "kanji": "鍵",
+  "onyomi": [
+   "ケン"
+  ],
+  "kunyomi": [
+   "かぎ"
+  ],
+  "meaning": "key",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "長",
+  "onyomi": [
+   "チョウ"
+  ],
+  "kunyomi": [
+   "なが(い)"
+  ],
+  "meaning": "long",
+  "breakdown": "長 = long",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "長い",
+    "meaning": "long",
+    "reading": "ながい (nagai)"
+   },
+   {
+    "word": "社長",
+    "meaning": "company president",
+    "reading": "しゃちょう (shachou)"
+   }
+  ]
+ },
+ {
+  "kanji": "間",
+  "onyomi": [
+   "カン",
+   "ケン"
+  ],
+  "kunyomi": [
+   "あいだ",
+   "ま"
+  ],
+  "meaning": "interval, between",
+  "breakdown": "門 (gate) + 日 (sun) → light between gates",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "人間",
+    "meaning": "human / human being",
+    "reading": ""
+   },
+   {
+    "word": "時間",
+    "meaning": "time",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "雨",
+  "onyomi": [
+   "ウ"
+  ],
+  "kunyomi": [
+   "あめ"
+  ],
+  "meaning": "rain",
+  "breakdown": "雨 = rain",
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "雪",
+  "onyomi": [
+   "セツ"
+  ],
+  "kunyomi": [
+   "ゆき"
+  ],
+  "meaning": "snow",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "雲",
+  "onyomi": [
+   "ウン"
+  ],
+  "kunyomi": [
+   "くも"
+  ],
+  "meaning": "cloud",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "靴",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "くつ"
+  ],
+  "meaning": "shoes",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "鞄",
+  "onyomi": [
+   "ホウ"
+  ],
+  "kunyomi": [
+   "かばん"
+  ],
+  "meaning": "bag",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "頭",
+  "onyomi": [
+   "トウ",
+   "ズ"
+  ],
+  "kunyomi": [
+   "あたま"
+  ],
+  "meaning": "head",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "顔",
+  "onyomi": [
+   "ガン"
+  ],
+  "kunyomi": [
+   "かお"
+  ],
+  "meaning": "face",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "風",
+  "onyomi": [
+   "フウ",
+   "フ"
+  ],
+  "kunyomi": [
+   "かぜ"
+  ],
+  "meaning": "wind",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "風邪",
+    "meaning": "cold/flu",
+    "reading": "かぜ (kaze)"
+   }
+  ]
+ },
+ {
+  "kanji": "食",
+  "onyomi": [
+   "ショク"
+  ],
+  "kunyomi": [
+   "た(べる)",
+   "く(う)"
+  ],
+  "meaning": "eat, food",
+  "breakdown": "食 = eat",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "食事",
+    "meaning": "meal",
+    "reading": ""
+   },
+   {
+    "word": "朝食",
+    "meaning": "breakfast",
+    "reading": ""
+   },
+   {
+    "word": "昼食",
+    "meaning": "lunch",
+    "reading": ""
+   },
+   {
+    "word": "夕食",
+    "meaning": "dinner",
+    "reading": ""
+   },
+   {
+    "word": "飲食",
+    "meaning": "eating and drinking",
+    "reading": ""
+   },
+   {
+    "word": "食べる",
+    "meaning": "eat",
+    "reading": "たべる (taberu)"
+   }
+  ]
+ },
+ {
+  "kanji": "飲",
+  "onyomi": [
+   "イン"
+  ],
+  "kunyomi": [
+   "の(む)"
+  ],
+  "meaning": "drink",
+  "breakdown": "飠 (food) + 欠 (yawn/open mouth)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "飲食",
+    "meaning": "eating and drinking",
+    "reading": ""
+   },
+   {
+    "word": "飲む",
+    "meaning": "drink",
+    "reading": "のむ (nomu)"
+   },
+   {
+    "word": "飲み物",
+    "meaning": "drink",
+    "reading": "のみもの (nomimono)"
+   }
+  ]
+ },
+ {
+  "kanji": "首",
+  "onyomi": [
+   "シュ"
+  ],
+  "kunyomi": [
+   "くび"
+  ],
+  "meaning": "neck",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "駅",
+  "onyomi": [
+   "エキ"
+  ],
+  "kunyomi": [],
+  "meaning": "station",
+  "breakdown": "馬 (horse) + 尺 (measure)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "駅前",
+    "meaning": "in front of the station",
+    "reading": ""
+   },
+   {
+    "word": "駅員",
+    "meaning": "station employee",
+    "reading": ""
+   }
+  ]
+ },
+ {
+  "kanji": "高",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "たか(い)"
+  ],
+  "meaning": "high, expensive",
+  "breakdown": "高 = tall/high building",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "高い",
+    "meaning": "high/expensive",
+    "reading": "たかい (takai)"
+   }
+  ]
+ },
+ {
+  "kanji": "魚",
+  "onyomi": [
+   "ギョ"
+  ],
+  "kunyomi": [
+   "さかな",
+   "うお"
+  ],
+  "meaning": "fish",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "鳥",
+  "onyomi": [
+   "チョウ"
+  ],
+  "kunyomi": [
+   "とり"
+  ],
+  "meaning": "bird",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": []
+ },
+ {
+  "kanji": "鼻",
+  "onyomi": [
+   "ビ"
+  ],
+  "kunyomi": [
+   "はな"
+  ],
+  "meaning": "nose",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": []
+ },
+ {
+  "kanji": "走",
+  "onyomi": [
+   "ソウ"
+  ],
+  "kunyomi": [
+   "はし(る)"
+  ],
+  "meaning": "run",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "走る",
+    "meaning": "to run",
+    "reading": "はしる (hashiru)"
+   }
+  ]
+ },
+ {
+  "kanji": "歩",
+  "onyomi": [
+   "ホ"
+  ],
+  "kunyomi": [
+   "ある(く)",
+   "あゆ(む)"
+  ],
+  "meaning": "walk",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "歩く",
+    "meaning": "to walk",
+    "reading": "あるく (aruku)"
+   },
+   {
+    "word": "散歩",
+    "meaning": "a walk/stroll",
+    "reading": "さんぽ (sanpo)"
+   }
+  ]
+ },
+ {
+  "kanji": "帰",
+  "onyomi": [
+   "キ"
+  ],
+  "kunyomi": [
+   "かえ(る)"
+  ],
+  "meaning": "return, go home",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "帰る",
+    "meaning": "to go home/return",
+    "reading": "かえる (kaeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "着",
+  "onyomi": [
+   "チャク"
+  ],
+  "kunyomi": [
+   "き(る)",
+   "つ(く)"
+  ],
+  "meaning": "wear, arrive",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "着る",
+    "meaning": "to wear",
+    "reading": "きる (kiru)"
+   },
+   {
+    "word": "着く",
+    "meaning": "to arrive",
+    "reading": "つく (tsuku)"
+   }
+  ]
+ },
+ {
+  "kanji": "乗",
+  "onyomi": [
+   "ジョウ"
+  ],
+  "kunyomi": [
+   "の(る)"
+  ],
+  "meaning": "ride, board",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "乗る",
+    "meaning": "to ride/board",
+    "reading": "のる (noru)"
+   }
+  ]
+ },
+ {
+  "kanji": "医",
+  "onyomi": [
+   "イ"
+  ],
+  "kunyomi": [],
+  "meaning": "medicine, healing",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "医者",
+    "meaning": "doctor",
+    "reading": "いしゃ (isha)"
+   },
+   {
+    "word": "医学",
+    "meaning": "medicine (study of)",
+    "reading": "いがく (igaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "者",
+  "onyomi": [
+   "シャ"
+  ],
+  "kunyomi": [
+   "もの"
+  ],
+  "meaning": "person",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "医者",
+    "meaning": "doctor",
+    "reading": "いしゃ (isha)"
+   },
+   {
+    "word": "若者",
+    "meaning": "young person",
+    "reading": "わかもの (wakamono)"
+   }
+  ]
+ },
+ {
+  "kanji": "会",
+  "onyomi": [
+   "カイ"
+  ],
+  "kunyomi": [
+   "あ(う)"
+  ],
+  "meaning": "meet, meeting, association",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "会社",
+    "meaning": "company",
+    "reading": "かいしゃ (kaisha)"
+   },
+   {
+    "word": "会う",
+    "meaning": "to meet",
+    "reading": "あう (au)"
+   }
+  ]
+ },
+ {
+  "kanji": "強",
+  "onyomi": [
+   "キョウ"
+  ],
+  "kunyomi": [
+   "つよ(い)",
+   "し(いる)"
+  ],
+  "meaning": "strong",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "強い",
+    "meaning": "strong",
+    "reading": "つよい (tsuyoi)"
+   },
+   {
+    "word": "勉強",
+    "meaning": "study",
+    "reading": "べんきょう (benkyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "弱",
+  "onyomi": [
+   "ジャク"
+  ],
+  "kunyomi": [
+   "よわ(い)"
+  ],
+  "meaning": "weak",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "弱い",
+    "meaning": "weak",
+    "reading": "よわい (yowai)"
+   }
+  ]
+ },
+ {
+  "kanji": "気",
+  "onyomi": [
+   "キ"
+  ],
+  "kunyomi": [],
+  "meaning": "spirit, energy, air",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "天気",
+    "meaning": "weather",
+    "reading": "てんき (tenki)"
+   },
+   {
+    "word": "元気",
+    "meaning": "healthy/energetic",
+    "reading": "げんき (genki)"
+   }
+  ]
+ },
+ {
+  "kanji": "広",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "ひろ(い)"
+  ],
+  "meaning": "wide, spacious",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "広い",
+    "meaning": "wide/spacious",
+    "reading": "ひろい (hiroi)"
+   }
+  ]
+ },
+ {
+  "kanji": "考",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "かんが(える)"
+  ],
+  "meaning": "think, consider",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "考える",
+    "meaning": "to think/consider",
+    "reading": "かんがえる (kangaeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "病",
+  "onyomi": [
+   "ビョウ"
+  ],
+  "kunyomi": [
+   "やまい"
+  ],
+  "meaning": "illness, sick",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "病気",
+    "meaning": "illness",
+    "reading": "びょうき (byouki)"
+   },
+   {
+    "word": "病院",
+    "meaning": "hospital",
+    "reading": "びょういん (byouin)"
+   }
+  ]
+ },
+ {
+  "kanji": "院",
+  "onyomi": [
+   "イン"
+  ],
+  "kunyomi": [],
+  "meaning": "institution, hall",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "病院",
+    "meaning": "hospital",
+    "reading": "びょういん (byouin)"
+   },
+   {
+    "word": "大学院",
+    "meaning": "graduate school",
+    "reading": "だいがくいん (daigakuin)"
+   }
+  ]
+ },
+ {
+  "kanji": "社",
+  "onyomi": [
+   "シャ"
+  ],
+  "kunyomi": [
+   "やしろ"
+  ],
+  "meaning": "company, shrine",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "会社",
+    "meaning": "company",
+    "reading": "かいしゃ (kaisha)"
+   },
+   {
+    "word": "社員",
+    "meaning": "company employee",
+    "reading": "しゃいん (shain)"
+   }
+  ]
+ },
+ {
+  "kanji": "員",
+  "onyomi": [
+   "イン"
+  ],
+  "kunyomi": [],
+  "meaning": "member, staff",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "社員",
+    "meaning": "company employee",
+    "reading": "しゃいん (shain)"
+   },
+   {
+    "word": "店員",
+    "meaning": "store clerk",
+    "reading": "てんいん (ten'in)"
+   }
+  ]
+ },
+ {
+  "kanji": "場",
+  "onyomi": [
+   "ジョウ"
+  ],
+  "kunyomi": [
+   "ば"
+  ],
+  "meaning": "place, location",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "場所",
+    "meaning": "place/location",
+    "reading": "ばしょ (basho)"
+   },
+   {
+    "word": "駐車場",
+    "meaning": "parking lot",
+    "reading": "ちゅうしゃじょう (chuushajou)"
+   }
+  ]
+ },
+ {
+  "kanji": "所",
+  "onyomi": [
+   "ショ"
+  ],
+  "kunyomi": [
+   "ところ"
+  ],
+  "meaning": "place",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "場所",
+    "meaning": "place/location",
+    "reading": "ばしょ (basho)"
+   },
+   {
+    "word": "住所",
+    "meaning": "address",
+    "reading": "じゅうしょ (juusho)"
+   }
+  ]
+ },
+ {
+  "kanji": "近",
+  "onyomi": [
+   "キン"
+  ],
+  "kunyomi": [
+   "ちか(い)"
+  ],
+  "meaning": "near, close",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "近い",
+    "meaning": "near/close",
+    "reading": "ちかい (chikai)"
+   },
+   {
+    "word": "近く",
+    "meaning": "nearby/vicinity",
+    "reading": "ちかく (chikaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "遠",
+  "onyomi": [
+   "エン"
+  ],
+  "kunyomi": [
+   "とお(い)"
+  ],
+  "meaning": "far",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "遠い",
+    "meaning": "far",
+    "reading": "とおい (tooi)"
+   }
+  ]
+ },
+ {
+  "kanji": "短",
+  "onyomi": [
+   "タン"
+  ],
+  "kunyomi": [
+   "みじか(い)"
+  ],
+  "meaning": "short",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "短い",
+    "meaning": "short",
+    "reading": "みじかい (mijikai)"
+   }
+  ]
+ },
+ {
+  "kanji": "明",
+  "onyomi": [
+   "メイ"
+  ],
+  "kunyomi": [
+   "あか(るい)",
+   "あ(ける)"
+  ],
+  "meaning": "bright, clear",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "明るい",
+    "meaning": "bright/cheerful",
+    "reading": "あかるい (akarui)"
+   },
+   {
+    "word": "説明",
+    "meaning": "explanation",
+    "reading": "せつめい (setsumei)"
+   }
+  ]
+ },
+ {
+  "kanji": "暗",
+  "onyomi": [
+   "アン"
+  ],
+  "kunyomi": [
+   "くら(い)"
+  ],
+  "meaning": "dark",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "暗い",
+    "meaning": "dark",
+    "reading": "くらい (kurai)"
+   }
+  ]
+ },
+ {
+  "kanji": "安",
+  "onyomi": [
+   "アン"
+  ],
+  "kunyomi": [
+   "やす(い)"
+  ],
+  "meaning": "cheap, peaceful",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "安い",
+    "meaning": "cheap",
+    "reading": "やすい (yasui)"
+   },
+   {
+    "word": "安全",
+    "meaning": "safety",
+    "reading": "あんぜん (anzen)"
+   }
+  ]
+ },
+ {
+  "kanji": "低",
+  "onyomi": [
+   "テイ"
+  ],
+  "kunyomi": [
+   "ひく(い)"
+  ],
+  "meaning": "low",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "低い",
+    "meaning": "low",
+    "reading": "ひくい (hikui)"
+   }
+  ]
+ },
+ {
+  "kanji": "料",
+  "onyomi": [
+   "リョウ"
+  ],
+  "kunyomi": [],
+  "meaning": "fee, material",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "料理",
+    "meaning": "cooking/cuisine",
+    "reading": "りょうり (ryouri)"
+   },
+   {
+    "word": "料金",
+    "meaning": "fee/charge",
+    "reading": "りょうきん (ryoukin)"
+   }
+  ]
+ },
+ {
+  "kanji": "理",
+  "onyomi": [
+   "リ"
+  ],
+  "kunyomi": [],
+  "meaning": "reason, logic",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "料理",
+    "meaning": "cooking/cuisine",
+    "reading": "りょうり (ryouri)"
+   },
+   {
+    "word": "理由",
+    "meaning": "reason",
+    "reading": "りゆう (riyuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "飯",
+  "onyomi": [
+   "ハン"
+  ],
+  "kunyomi": [
+   "めし"
+  ],
+  "meaning": "meal, cooked rice",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "ご飯",
+    "meaning": "rice/meal",
+    "reading": "ごはん (gohan)"
+   },
+   {
+    "word": "朝ご飯",
+    "meaning": "breakfast",
+    "reading": "あさごはん (asagohan)"
+   }
+  ]
+ },
+ {
+  "kanji": "電",
+  "onyomi": [
+   "デン"
+  ],
+  "kunyomi": [],
+  "meaning": "electricity",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "電車",
+    "meaning": "train",
+    "reading": "でんしゃ (densha)"
+   },
+   {
+    "word": "電話",
+    "meaning": "telephone",
+    "reading": "でんわ (denwa)"
+   }
+  ]
+ },
+ {
+  "kanji": "狭",
+  "onyomi": [
+   "キョウ"
+  ],
+  "kunyomi": [
+   "せま(い)"
+  ],
+  "meaning": "narrow, cramped",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "狭い",
+    "meaning": "narrow/cramped",
+    "reading": "せまい (semai)"
+   }
+  ]
+ },
+ {
+  "kanji": "重",
+  "onyomi": [
+   "ジュウ",
+   "チョウ"
+  ],
+  "kunyomi": [
+   "おも(い)",
+   "かさ(ねる)"
+  ],
+  "meaning": "heavy, important",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "重い",
+    "meaning": "heavy",
+    "reading": "おもい (omoi)"
+   },
+   {
+    "word": "重要",
+    "meaning": "important",
+    "reading": "じゅうよう (juuyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "住",
+  "onyomi": [
+   "ジュウ"
+  ],
+  "kunyomi": [
+   "す(む)",
+   "す(まい)"
+  ],
+  "meaning": "live, reside",
+  "breakdown": "人 (person) + 主 (main)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "住む",
+    "meaning": "to live/reside",
+    "reading": "すむ (sumu)"
+   },
+   {
+    "word": "住所",
+    "meaning": "address",
+    "reading": "じゅうしょ (juusho)"
+   }
+  ]
+ },
+ {
+  "kanji": "開",
+  "onyomi": [
+   "カイ"
+  ],
+  "kunyomi": [
+   "ひら(く)",
+   "あ(ける)",
+   "あ(く)"
+  ],
+  "meaning": "open",
+  "breakdown": "門 (gate) + 开",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "開ける",
+    "meaning": "to open (something)",
+    "reading": "あける (akeru)"
+   },
+   {
+    "word": "開く",
+    "meaning": "to open",
+    "reading": "ひらく (hiraku)"
+   }
+  ]
+ },
+ {
+  "kanji": "閉",
+  "onyomi": [
+   "ヘイ"
+  ],
+  "kunyomi": [
+   "と(じる)",
+   "し(める)",
+   "し(まる)"
+  ],
+  "meaning": "close, shut",
+  "breakdown": "門 (gate) + 才",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "閉める",
+    "meaning": "to close (something)",
+    "reading": "しめる (shimeru)"
+   },
+   {
+    "word": "閉じる",
+    "meaning": "to close",
+    "reading": "とじる (tojiru)"
+   }
+  ]
+ },
+ {
+  "kanji": "始",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "はじ(める)",
+   "はじ(まる)"
+  ],
+  "meaning": "begin, start",
+  "breakdown": "女 (woman) + 台 (platform)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "始める",
+    "meaning": "to begin (something)",
+    "reading": "はじめる (hajimeru)"
+   },
+   {
+    "word": "始まる",
+    "meaning": "to begin",
+    "reading": "はじまる (hajimaru)"
+   }
+  ]
+ },
+ {
+  "kanji": "終",
+  "onyomi": [
+   "シュウ"
+  ],
+  "kunyomi": [
+   "お(わる)",
+   "お(える)"
+  ],
+  "meaning": "end, finish",
+  "breakdown": "糸 (thread) + 冬 (winter)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "終わる",
+    "meaning": "to end",
+    "reading": "おわる (owaru)"
+   },
+   {
+    "word": "終電",
+    "meaning": "last train",
+    "reading": "しゅうでん (shuuden)"
+   }
+  ]
+ },
+ {
+  "kanji": "持",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "も(つ)"
+  ],
+  "meaning": "hold, have",
+  "breakdown": "扌 (hand) + 寺 (temple)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "持つ",
+    "meaning": "to hold/have",
+    "reading": "もつ (motsu)"
+   },
+   {
+    "word": "気持ち",
+    "meaning": "feeling",
+    "reading": "きもち (kimochi)"
+   }
+  ]
+ },
+ {
+  "kanji": "待",
+  "onyomi": [
+   "タイ"
+  ],
+  "kunyomi": [
+   "ま(つ)"
+  ],
+  "meaning": "wait",
+  "breakdown": "彳 (step) + 寺 (temple)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "待つ",
+    "meaning": "to wait",
+    "reading": "まつ (matsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "送",
+  "onyomi": [
+   "ソウ"
+  ],
+  "kunyomi": [
+   "おく(る)"
+  ],
+  "meaning": "send",
+  "breakdown": "辶 (movement) + 共",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "送る",
+    "meaning": "to send",
+    "reading": "おくる (okuru)"
+   }
+  ]
+ },
+ {
+  "kanji": "返",
+  "onyomi": [
+   "ヘン"
+  ],
+  "kunyomi": [
+   "かえ(す)",
+   "かえ(る)"
+  ],
+  "meaning": "return (something)",
+  "breakdown": "辶 (movement) + 反",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "返す",
+    "meaning": "to return (something)",
+    "reading": "かえす (kaesu)"
+   },
+   {
+    "word": "返事",
+    "meaning": "reply",
+    "reading": "へんじ (henji)"
+   }
+  ]
+ },
+ {
+  "kanji": "借",
+  "onyomi": [
+   "シャク"
+  ],
+  "kunyomi": [
+   "か(りる)"
+  ],
+  "meaning": "borrow",
+  "breakdown": "人 (person) + 昔 (long ago)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "借りる",
+    "meaning": "to borrow",
+    "reading": "かりる (kariru)"
+   }
+  ]
+ },
+ {
+  "kanji": "貸",
+  "onyomi": [
+   "タイ"
+  ],
+  "kunyomi": [
+   "か(す)"
+  ],
+  "meaning": "lend",
+  "breakdown": "代 (substitute) + 貝 (shell/money)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "貸す",
+    "meaning": "to lend",
+    "reading": "かす (kasu)"
+   }
+  ]
+ },
+ {
+  "kanji": "教",
+  "onyomi": [
+   "キョウ"
+  ],
+  "kunyomi": [
+   "おし(える)",
+   "おそ(わる)"
+  ],
+  "meaning": "teach",
+  "breakdown": "孝 (filial) + 攵",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "教える",
+    "meaning": "to teach",
+    "reading": "おしえる (oshieru)"
+   },
+   {
+    "word": "教室",
+    "meaning": "classroom",
+    "reading": "きょうしつ (kyoushitsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "習",
+  "onyomi": [
+   "シュウ"
+  ],
+  "kunyomi": [
+   "なら(う)"
+  ],
+  "meaning": "learn, practice",
+  "breakdown": "羽 (feathers) + 白 (white)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "習う",
+    "meaning": "to learn (from someone)",
+    "reading": "ならう (narau)"
+   },
+   {
+    "word": "練習",
+    "meaning": "practice",
+    "reading": "れんしゅう (renshuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "働",
+  "onyomi": [
+   "ドウ"
+  ],
+  "kunyomi": [
+   "はたら(く)"
+  ],
+  "meaning": "work",
+  "breakdown": "人 (person) + 動 (move)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "働く",
+    "meaning": "to work",
+    "reading": "はたらく (hataraku)"
+   }
+  ]
+ },
+ {
+  "kanji": "休",
+  "onyomi": [
+   "キュウ"
+  ],
+  "kunyomi": [
+   "やす(む)"
+  ],
+  "meaning": "rest",
+  "breakdown": "人 (person) + 木 (tree)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "休む",
+    "meaning": "to rest/take a break",
+    "reading": "やすむ (yasumu)"
+   },
+   {
+    "word": "休み",
+    "meaning": "holiday/break",
+    "reading": "やすみ (yasumi)"
+   }
+  ]
+ },
+ {
+  "kanji": "起",
+  "onyomi": [
+   "キ"
+  ],
+  "kunyomi": [
+   "お(きる)",
+   "お(こす)"
+  ],
+  "meaning": "wake up, get up",
+  "breakdown": "走 (run) + 己 (self)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "起きる",
+    "meaning": "to wake up/get up",
+    "reading": "おきる (okiru)"
+   }
+  ]
+ },
+ {
+  "kanji": "寝",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "ね(る)"
+  ],
+  "meaning": "sleep",
+  "breakdown": "宀 (roof) + 侵",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "寝る",
+    "meaning": "to sleep",
+    "reading": "ねる (neru)"
+   }
+  ]
+ },
+ {
+  "kanji": "降",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "お(りる)",
+   "ふ(る)"
+  ],
+  "meaning": "get off, fall (rain)",
+  "breakdown": "队 (hill) + 夅",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "降りる",
+    "meaning": "to get off",
+    "reading": "おりる (oriru)"
+   },
+   {
+    "word": "降る",
+    "meaning": "to fall (rain/snow)",
+    "reading": "ふる (furu)"
+   }
+  ]
+ },
+ {
+  "kanji": "曜",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [],
+  "meaning": "day of the week",
+  "breakdown": "日 (sun) + 翟",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "曜日",
+    "meaning": "day of the week",
+    "reading": "ようび (youbi)"
+   },
+   {
+    "word": "月曜日",
+    "meaning": "Monday",
+    "reading": "げつようび (getsuyoubi)"
+   }
+  ]
+ },
+ {
+  "kanji": "寺",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "てら"
+  ],
+  "meaning": "temple",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "お寺",
+    "meaning": "temple",
+    "reading": "おてら (otera)"
+   },
+   {
+    "word": "寺院",
+    "meaning": "temple",
+    "reading": "じいん (jiin)"
+   }
+  ]
+ },
+ {
+  "kanji": "刀",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [
+   "かたな"
+  ],
+  "meaning": "sword",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "刀",
+    "meaning": "sword",
+    "reading": "かたな (katana)"
+   },
+   {
+    "word": "日本刀",
+    "meaning": "Japanese sword",
+    "reading": "にほんとう (nihontou)"
+   }
+  ]
+ },
+ {
+  "kanji": "工",
+  "onyomi": [
+   "コウ",
+   "ク"
+  ],
+  "kunyomi": [],
+  "meaning": "craft, construction",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "大工",
+    "meaning": "carpenter",
+    "reading": "だいく (daiku)"
+   },
+   {
+    "word": "工場",
+    "meaning": "factory",
+    "reading": "こうじょう (koujou)"
+   }
+  ]
+ },
+ {
+  "kanji": "門",
+  "onyomi": [
+   "モン"
+  ],
+  "kunyomi": [
+   "かど"
+  ],
+  "meaning": "gate",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "門",
+    "meaning": "gate",
+    "reading": "もん (mon)"
+   },
+   {
+    "word": "専門",
+    "meaning": "specialty",
+    "reading": "せんもん (senmon)"
+   }
+  ]
+ },
+ {
+  "kanji": "田",
+  "onyomi": [
+   "デン"
+  ],
+  "kunyomi": [
+   "た"
+  ],
+  "meaning": "rice field",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "田んぼ",
+    "meaning": "rice paddy",
+    "reading": "たんぼ (tanbo)"
+   },
+   {
+    "word": "水田",
+    "meaning": "paddy field",
+    "reading": "すいでん (suiden)"
+   }
+  ]
+ },
+ {
+  "kanji": "去",
+  "onyomi": [
+   "キョ",
+   "コ"
+  ],
+  "kunyomi": [
+   "さ(る)"
+  ],
+  "meaning": "leave, the past",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "去年",
+    "meaning": "last year",
+    "reading": "きょねん (kyonen)"
+   },
+   {
+    "word": "過去",
+    "meaning": "the past",
+    "reading": "かこ (kako)"
+   }
+  ]
+ },
+ {
+  "kanji": "王",
+  "onyomi": [
+   "オウ"
+  ],
+  "kunyomi": [],
+  "meaning": "king",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "王様",
+    "meaning": "king",
+    "reading": "おうさま (ousama)"
+   },
+   {
+    "word": "国王",
+    "meaning": "king, monarch",
+    "reading": "こくおう (kokuou)"
+   }
+  ]
+ },
+ {
+  "kanji": "良",
+  "onyomi": [
+   "リョウ"
+  ],
+  "kunyomi": [
+   "よ(い)"
+  ],
+  "meaning": "good",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "良い",
+    "meaning": "good",
+    "reading": "よい (yoi)"
+   },
+   {
+    "word": "良心",
+    "meaning": "conscience",
+    "reading": "りょうしん (ryoushin)"
+   }
+  ]
+ },
+ {
+  "kanji": "言",
+  "onyomi": [
+   "ゲン",
+   "ゴン"
+  ],
+  "kunyomi": [
+   "い(う)",
+   "こと"
+  ],
+  "meaning": "say, word",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "言う",
+    "meaning": "to say",
+    "reading": "いう (iu)"
+   },
+   {
+    "word": "言葉",
+    "meaning": "word, language",
+    "reading": "ことば (kotoba)"
+   }
+  ]
+ },
+ {
+  "kanji": "立",
+  "onyomi": [
+   "リツ"
+  ],
+  "kunyomi": [
+   "た(つ)"
+  ],
+  "meaning": "stand",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "立つ",
+    "meaning": "to stand",
+    "reading": "たつ (tatsu)"
+   },
+   {
+    "word": "立派",
+    "meaning": "splendid",
+    "reading": "りっぱ (rippa)"
+   }
+  ]
+ },
+ {
+  "kanji": "周",
+  "onyomi": [
+   "シュウ"
+  ],
+  "kunyomi": [
+   "まわ(り)"
+  ],
+  "meaning": "circumference, around",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "周り",
+    "meaning": "surroundings",
+    "reading": "まわり (mawari)"
+   },
+   {
+    "word": "一周",
+    "meaning": "one lap/circuit",
+    "reading": "いっしゅう (isshuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "元",
+  "onyomi": [
+   "ゲン",
+   "ガン"
+  ],
+  "kunyomi": [
+   "もと"
+  ],
+  "meaning": "origin",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "元気",
+    "meaning": "healthy, energetic",
+    "reading": "げんき (genki)"
+   },
+   {
+    "word": "元",
+    "meaning": "origin",
+    "reading": "もと (moto)"
+   }
+  ]
+ },
+ {
+  "kanji": "早",
+  "onyomi": [
+   "ソウ"
+  ],
+  "kunyomi": [
+   "はや(い)"
+  ],
+  "meaning": "early",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "早い",
+    "meaning": "early",
+    "reading": "はやい (hayai)"
+   },
+   {
+    "word": "早朝",
+    "meaning": "early morning",
+    "reading": "そうちょう (souchou)"
+   }
+  ]
+ },
+ {
+  "kanji": "市",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "いち"
+  ],
+  "meaning": "city, market",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "市",
+    "meaning": "city",
+    "reading": "し (shi)"
+   },
+   {
+    "word": "市場",
+    "meaning": "market",
+    "reading": "いちば (ichiba)"
+   }
+  ]
+ },
+ {
+  "kanji": "町",
+  "onyomi": [
+   "チョウ"
+  ],
+  "kunyomi": [
+   "まち"
+  ],
+  "meaning": "town",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "町",
+    "meaning": "town",
+    "reading": "まち (machi)"
+   },
+   {
+    "word": "町長",
+    "meaning": "town mayor",
+    "reading": "ちょうちょう (chouchou)"
+   }
+  ]
+ },
+ {
+  "kanji": "村",
+  "onyomi": [
+   "ソン"
+  ],
+  "kunyomi": [
+   "むら"
+  ],
+  "meaning": "village",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "村",
+    "meaning": "village",
+    "reading": "むら (mura)"
+   },
+   {
+    "word": "農村",
+    "meaning": "farm village",
+    "reading": "のうそん (nouson)"
+   }
+  ]
+ },
+ {
+  "kanji": "馬",
+  "onyomi": [
+   "バ"
+  ],
+  "kunyomi": [
+   "うま"
+  ],
+  "meaning": "horse",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "馬",
+    "meaning": "horse",
+    "reading": "うま (uma)"
+   },
+   {
+    "word": "馬車",
+    "meaning": "carriage",
+    "reading": "ばしゃ (basha)"
+   }
+  ]
+ },
+ {
+  "kanji": "校",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [],
+  "meaning": "school",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "学校",
+    "meaning": "school",
+    "reading": "がっこう (gakkou)"
+   },
+   {
+    "word": "校長",
+    "meaning": "principal",
+    "reading": "こうちょう (kouchou)"
+   }
+  ]
+ },
+ {
+  "kanji": "銀",
+  "onyomi": [
+   "ギン"
+  ],
+  "kunyomi": [],
+  "meaning": "silver",
+  "breakdown": "金 (metal/gold) + 艮",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "銀行",
+    "meaning": "bank",
+    "reading": "ぎんこう (ginkou)"
+   },
+   {
+    "word": "銀",
+    "meaning": "silver",
+    "reading": "ぎん (gin)"
+   }
+  ]
+ },
+ {
+  "kanji": "貝",
+  "onyomi": [],
+  "kunyomi": [
+   "かい"
+  ],
+  "meaning": "shellfish",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "貝",
+    "meaning": "shellfish",
+    "reading": "かい (kai)"
+   },
+   {
+    "word": "貝殻",
+    "meaning": "shell",
+    "reading": "かいがら (kaigara)"
+   }
+  ]
+ },
+ {
+  "kanji": "勉",
+  "onyomi": [
+   "ベン"
+  ],
+  "kunyomi": [],
+  "meaning": "diligence, exertion",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "勉強",
+    "meaning": "study",
+    "reading": "べんきょう (benkyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "弓",
+  "onyomi": [
+   "キュウ"
+  ],
+  "kunyomi": [
+   "ゆみ"
+  ],
+  "meaning": "bow (weapon)",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "弓",
+    "meaning": "bow",
+    "reading": "ゆみ (yumi)"
+   },
+   {
+    "word": "弓道",
+    "meaning": "Japanese archery",
+    "reading": "きゅうどう (kyuudou)"
+   }
+  ]
+ },
+ {
+  "kanji": "名",
+  "onyomi": [
+   "メイ",
+   "ミョウ"
+  ],
+  "kunyomi": [
+   "な"
+  ],
+  "meaning": "name",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "名前",
+    "meaning": "name",
+    "reading": "なまえ (namae)"
+   },
+   {
+    "word": "有名",
+    "meaning": "famous",
+    "reading": "ゆうめい (yuumei)"
+   }
+  ]
+ },
+ {
+  "kanji": "語",
+  "onyomi": [
+   "ゴ"
+  ],
+  "kunyomi": [
+   "かた(る)"
+  ],
+  "meaning": "language, word",
+  "breakdown": "言 (words) + 吾",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "日本語",
+    "meaning": "Japanese language",
+    "reading": "にほんご (nihongo)"
+   },
+   {
+    "word": "語る",
+    "meaning": "to narrate",
+    "reading": "かたる (kataru)"
+   }
+  ]
+ },
+ {
+  "kanji": "夕",
+  "onyomi": [
+   "セキ"
+  ],
+  "kunyomi": [
+   "ゆう"
+  ],
+  "meaning": "evening",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "夕方",
+    "meaning": "evening",
+    "reading": "ゆうがた (yuugata)"
+   },
+   {
+    "word": "七夕",
+    "meaning": "Star Festival",
+    "reading": "たなばた (tanabata)"
+   }
+  ]
+ },
+ {
+  "kanji": "化",
+  "onyomi": [
+   "カ",
+   "ケ"
+  ],
+  "kunyomi": [
+   "ば(ける)"
+  ],
+  "meaning": "change, transform",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "文化",
+    "meaning": "culture",
+    "reading": "ぶんか (bunka)"
+   },
+   {
+    "word": "化ける",
+    "meaning": "to transform",
+    "reading": "ばける (bakeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "赤",
+  "onyomi": [
+   "セキ"
+  ],
+  "kunyomi": [
+   "あか(い)"
+  ],
+  "meaning": "red",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "赤い",
+    "meaning": "red",
+    "reading": "あかい (akai)"
+   },
+   {
+    "word": "赤ちゃん",
+    "meaning": "baby",
+    "reading": "あかちゃん (akachan)"
+   }
+  ]
+ },
+ {
+  "kanji": "青",
+  "onyomi": [
+   "セイ"
+  ],
+  "kunyomi": [
+   "あお(い)"
+  ],
+  "meaning": "blue",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "青い",
+    "meaning": "blue",
+    "reading": "あおい (aoi)"
+   },
+   {
+    "word": "青年",
+    "meaning": "youth",
+    "reading": "せいねん (seinen)"
+   }
+  ]
+ },
+ {
+  "kanji": "白",
+  "onyomi": [
+   "ハク"
+  ],
+  "kunyomi": [
+   "しろ(い)"
+  ],
+  "meaning": "white",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "白い",
+    "meaning": "white",
+    "reading": "しろい (shiroi)"
+   },
+   {
+    "word": "白鳥",
+    "meaning": "swan",
+    "reading": "はくちょう (hakuchou)"
+   }
+  ]
+ },
+ {
+  "kanji": "黒",
+  "onyomi": [
+   "コク"
+  ],
+  "kunyomi": [
+   "くろ(い)"
+  ],
+  "meaning": "black",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "黒い",
+    "meaning": "black",
+    "reading": "くろい (kuroi)"
+   },
+   {
+    "word": "黒板",
+    "meaning": "blackboard",
+    "reading": "こくばん (kokuban)"
+   }
+  ]
+ },
+ {
+  "kanji": "色",
+  "onyomi": [
+   "ショク",
+   "シキ"
+  ],
+  "kunyomi": [
+   "いろ"
+  ],
+  "meaning": "color",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "色",
+    "meaning": "color",
+    "reading": "いろ (iro)"
+   },
+   {
+    "word": "景色",
+    "meaning": "scenery",
+    "reading": "けしき (keshiki)"
+   }
+  ]
+ },
+ {
+  "kanji": "反",
+  "onyomi": [
+   "ハン"
+  ],
+  "kunyomi": [
+   "そ(る)"
+  ],
+  "meaning": "opposite, anti-",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "反対",
+    "meaning": "opposition",
+    "reading": "はんたい (hantai)"
+   },
+   {
+    "word": "反省",
+    "meaning": "reflection",
+    "reading": "はんせい (hansei)"
+   }
+  ]
+ },
+ {
+  "kanji": "牛",
+  "onyomi": [
+   "ギュウ"
+  ],
+  "kunyomi": [
+   "うし"
+  ],
+  "meaning": "cow",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "牛",
+    "meaning": "cow",
+    "reading": "うし (ushi)"
+   },
+   {
+    "word": "牛肉",
+    "meaning": "beef",
+    "reading": "ぎゅうにく (gyuuniku)"
+   }
+  ]
+ },
+ {
+  "kanji": "豚",
+  "onyomi": [
+   "トン"
+  ],
+  "kunyomi": [
+   "ぶた"
+  ],
+  "meaning": "pig",
+  "breakdown": "月 (flesh) + 豕",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "豚",
+    "meaning": "pig",
+    "reading": "ぶた (buta)"
+   },
+   {
+    "word": "豚肉",
+    "meaning": "pork",
+    "reading": "ぶたにく (butaniku)"
+   }
+  ]
+ },
+ {
+  "kanji": "茶",
+  "onyomi": [
+   "チャ",
+   "サ"
+  ],
+  "kunyomi": [],
+  "meaning": "tea",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "お茶",
+    "meaning": "tea",
+    "reading": "おちゃ (ocha)"
+   },
+   {
+    "word": "茶色",
+    "meaning": "brown",
+    "reading": "ちゃいろ (chairo)"
+   }
+  ]
+ },
+ {
+  "kanji": "予",
+  "onyomi": [
+   "ヨ"
+  ],
+  "kunyomi": [],
+  "meaning": "in advance, beforehand",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "予約",
+    "meaning": "reservation",
+    "reading": "よやく (yoyaku)"
+   },
+   {
+    "word": "予定",
+    "meaning": "plan, schedule",
+    "reading": "よてい (yotei)"
+   }
+  ]
+ },
+ {
+  "kanji": "野",
+  "onyomi": [
+   "ヤ"
+  ],
+  "kunyomi": [
+   "の"
+  ],
+  "meaning": "field, plain",
+  "breakdown": "里 (village) + 予",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "野菜",
+    "meaning": "vegetable",
+    "reading": "やさい (yasai)"
+   },
+   {
+    "word": "野球",
+    "meaning": "baseball",
+    "reading": "やきゅう (yakyuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "菜",
+  "onyomi": [
+   "サイ"
+  ],
+  "kunyomi": [
+   "な"
+  ],
+  "meaning": "vegetable greens",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "野菜",
+    "meaning": "vegetable",
+    "reading": "やさい (yasai)"
+   },
+   {
+    "word": "菜食",
+    "meaning": "vegetarian diet",
+    "reading": "さいしょく (saishoku)"
+   }
+  ]
+ },
+ {
+  "kanji": "切",
+  "onyomi": [
+   "セツ"
+  ],
+  "kunyomi": [
+   "き(る)"
+  ],
+  "meaning": "cut",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "切る",
+    "meaning": "to cut",
+    "reading": "きる (kiru)"
+   },
+   {
+    "word": "大切",
+    "meaning": "important",
+    "reading": "たいせつ (taisetsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "未",
+  "onyomi": [
+   "ミ"
+  ],
+  "kunyomi": [],
+  "meaning": "not yet",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "未来",
+    "meaning": "the future",
+    "reading": "みらい (mirai)"
+   },
+   {
+    "word": "未定",
+    "meaning": "undecided",
+    "reading": "みてい (mitei)"
+   }
+  ]
+ },
+ {
+  "kanji": "味",
+  "onyomi": [
+   "ミ"
+  ],
+  "kunyomi": [
+   "あじ"
+  ],
+  "meaning": "taste",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "味",
+    "meaning": "taste",
+    "reading": "あじ (aji)"
+   },
+   {
+    "word": "味方",
+    "meaning": "ally",
+    "reading": "みかた (mikata)"
+   }
+  ]
+ },
+ {
+  "kanji": "音",
+  "onyomi": [
+   "オン",
+   "イン"
+  ],
+  "kunyomi": [
+   "おと"
+  ],
+  "meaning": "sound",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "音楽",
+    "meaning": "music",
+    "reading": "おんがく (ongaku)"
+   },
+   {
+    "word": "音",
+    "meaning": "sound",
+    "reading": "おと (oto)"
+   }
+  ]
+ },
+ {
+  "kanji": "楽",
+  "onyomi": [
+   "ガク",
+   "ラク"
+  ],
+  "kunyomi": [
+   "たの(しい)"
+  ],
+  "meaning": "fun, music",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "音楽",
+    "meaning": "music",
+    "reading": "おんがく (ongaku)"
+   },
+   {
+    "word": "楽しい",
+    "meaning": "fun, enjoyable",
+    "reading": "たのしい (tanoshii)"
+   }
+  ]
+ },
+ {
+  "kanji": "歌",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "うた"
+  ],
+  "meaning": "song",
+  "breakdown": "哥 + 欠",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "歌",
+    "meaning": "song",
+    "reading": "うた (uta)"
+   },
+   {
+    "word": "歌う",
+    "meaning": "to sing",
+    "reading": "うたう (utau)"
+   }
+  ]
+ },
+ {
+  "kanji": "自",
+  "onyomi": [
+   "ジ",
+   "シ"
+  ],
+  "kunyomi": [
+   "みずか(ら)"
+  ],
+  "meaning": "self",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "自分",
+    "meaning": "oneself",
+    "reading": "じぶん (jibun)"
+   },
+   {
+    "word": "自由",
+    "meaning": "freedom",
+    "reading": "じゆう (jiyuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "転",
+  "onyomi": [
+   "テン"
+  ],
+  "kunyomi": [
+   "ころ(ぶ)"
+  ],
+  "meaning": "roll, turn",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "自転車",
+    "meaning": "bicycle",
+    "reading": "じてんしゃ (jitensha)"
+   },
+   {
+    "word": "転ぶ",
+    "meaning": "to fall over",
+    "reading": "ころぶ (korobu)"
+   }
+  ]
+ },
+ {
+  "kanji": "写",
+  "onyomi": [
+   "シャ"
+  ],
+  "kunyomi": [
+   "うつ(す)"
+  ],
+  "meaning": "copy, photograph",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "写真",
+    "meaning": "photograph",
+    "reading": "しゃしん (shashin)"
+   },
+   {
+    "word": "写す",
+    "meaning": "to copy",
+    "reading": "うつす (utsusu)"
+   }
+  ]
+ },
+ {
+  "kanji": "真",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "ま"
+  ],
+  "meaning": "true",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "写真",
+    "meaning": "photograph",
+    "reading": "しゃしん (shashin)"
+   },
+   {
+    "word": "真面目",
+    "meaning": "serious, diligent",
+    "reading": "まじめ (majime)"
+   }
+  ]
+ },
+ {
+  "kanji": "台",
+  "onyomi": [
+   "ダイ",
+   "タイ"
+  ],
+  "kunyomi": [],
+  "meaning": "platform, stand",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "台",
+    "meaning": "platform, stand (counter)",
+    "reading": "だい (dai)"
+   },
+   {
+    "word": "台所",
+    "meaning": "kitchen",
+    "reading": "だいどころ (daidokoro)"
+   }
+  ]
+ },
+ {
+  "kanji": "央",
+  "onyomi": [
+   "オウ"
+  ],
+  "kunyomi": [],
+  "meaning": "center",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "中央",
+    "meaning": "center",
+    "reading": "ちゅうおう (chuuou)"
+   }
+  ]
+ },
+ {
+  "kanji": "映",
+  "onyomi": [
+   "エイ"
+  ],
+  "kunyomi": [
+   "うつ(る)"
+  ],
+  "meaning": "reflect, project",
+  "breakdown": "日 (sun) + 央",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "映画",
+    "meaning": "movie",
+    "reading": "えいが (eiga)"
+   },
+   {
+    "word": "映る",
+    "meaning": "to be reflected",
+    "reading": "うつる (utsuru)"
+   }
+  ]
+ },
+ {
+  "kanji": "画",
+  "onyomi": [
+   "ガ",
+   "カク"
+  ],
+  "kunyomi": [],
+  "meaning": "picture, stroke",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "映画",
+    "meaning": "movie",
+    "reading": "えいが (eiga)"
+   },
+   {
+    "word": "画面",
+    "meaning": "screen",
+    "reading": "がめん (gamen)"
+   }
+  ]
+ },
+ {
+  "kanji": "羊",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [
+   "ひつじ"
+  ],
+  "meaning": "sheep",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "羊",
+    "meaning": "sheep",
+    "reading": "ひつじ (hitsuji)"
+   }
+  ]
+ },
+ {
+  "kanji": "洋",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [],
+  "meaning": "ocean, Western",
+  "breakdown": "氵 (water) + 羊",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "洋服",
+    "meaning": "Western clothes",
+    "reading": "ようふく (youfuku)"
+   },
+   {
+    "word": "海洋",
+    "meaning": "ocean",
+    "reading": "かいよう (kaiyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "矢",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "や"
+  ],
+  "meaning": "arrow",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "矢",
+    "meaning": "arrow",
+    "reading": "や (ya)"
+   }
+  ]
+ },
+ {
+  "kanji": "族",
+  "onyomi": [
+   "ゾク"
+  ],
+  "kunyomi": [],
+  "meaning": "clan, family",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "家族",
+    "meaning": "family",
+    "reading": "かぞく (kazoku)"
+   },
+   {
+    "word": "民族",
+    "meaning": "ethnic group",
+    "reading": "みんぞく (minzoku)"
+   }
+  ]
+ },
+ {
+  "kanji": "親",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "おや"
+  ],
+  "meaning": "parent, intimate",
+  "breakdown": "立 + 木 + 見",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "親",
+    "meaning": "parent",
+    "reading": "おや (oya)"
+   },
+   {
+    "word": "親切",
+    "meaning": "kind",
+    "reading": "しんせつ (shinsetsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "主",
+  "onyomi": [
+   "シュ"
+  ],
+  "kunyomi": [
+   "おも",
+   "ぬし"
+  ],
+  "meaning": "main, lord",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "主人",
+    "meaning": "husband, master",
+    "reading": "しゅじん (shujin)"
+   },
+   {
+    "word": "主な",
+    "meaning": "main",
+    "reading": "おもな (omona)"
+   }
+  ]
+ },
+ {
+  "kanji": "糸",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "いと"
+  ],
+  "meaning": "thread",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "糸",
+    "meaning": "thread",
+    "reading": "いと (ito)"
+   }
+  ]
+ },
+ {
+  "kanji": "氏",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "うじ"
+  ],
+  "meaning": "surname, Mr.",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "氏名",
+    "meaning": "full name",
+    "reading": "しめい (shimei)"
+   },
+   {
+    "word": "山田氏",
+    "meaning": "Mr. Yamada",
+    "reading": "やまだし (yamadashi)"
+   }
+  ]
+ },
+ {
+  "kanji": "室",
+  "onyomi": [
+   "シツ"
+  ],
+  "kunyomi": [
+   "むろ"
+  ],
+  "meaning": "room",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "教室",
+    "meaning": "classroom",
+    "reading": "きょうしつ (kyoushitsu)"
+   },
+   {
+    "word": "室内",
+    "meaning": "indoors",
+    "reading": "しつない (shitsunai)"
+   }
+  ]
+ },
+ {
+  "kanji": "羽",
+  "onyomi": [
+   "ウ"
+  ],
+  "kunyomi": [
+   "は",
+   "はね"
+  ],
+  "meaning": "feather, wing",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "羽",
+    "meaning": "feather, wing",
+    "reading": "はね (hane)"
+   }
+  ]
+ },
+ {
+  "kanji": "漢",
+  "onyomi": [
+   "カン"
+  ],
+  "kunyomi": [],
+  "meaning": "China, Han",
+  "breakdown": "氵 (water) + 難(difficult)のつくり",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "漢字",
+    "meaning": "kanji character",
+    "reading": "かんじ (kanji)"
+   },
+   {
+    "word": "漢字",
+    "meaning": "Chinese character",
+    "reading": "かんじ (kanji)"
+   }
+  ]
+ },
+ {
+  "kanji": "字",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "あざ"
+  ],
+  "meaning": "character, letter",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "漢字",
+    "meaning": "kanji character",
+    "reading": "かんじ (kanji)"
+   },
+   {
+    "word": "字",
+    "meaning": "character",
+    "reading": "じ (ji)"
+   }
+  ]
+ },
+ {
+  "kanji": "式",
+  "onyomi": [
+   "シキ"
+  ],
+  "kunyomi": [],
+  "meaning": "ceremony, formula",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "式",
+    "meaning": "ceremony",
+    "reading": "しき (shiki)"
+   },
+   {
+    "word": "入学式",
+    "meaning": "entrance ceremony",
+    "reading": "にゅうがくしき (nyuugakushiki)"
+   }
+  ]
+ },
+ {
+  "kanji": "試",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "こころ(みる)",
+   "ため(す)"
+  ],
+  "meaning": "try, test",
+  "breakdown": "言 (words) + 式",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "試験",
+    "meaning": "exam, test",
+    "reading": "しけん (shiken)"
+   },
+   {
+    "word": "試す",
+    "meaning": "to try out",
+    "reading": "ためす (tamesu)"
+   }
+  ]
+ },
+ {
+  "kanji": "験",
+  "onyomi": [
+   "ケン",
+   "ゲン"
+  ],
+  "kunyomi": [],
+  "meaning": "test, effect",
+  "breakdown": "馬 (horse) + 僉",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "試験",
+    "meaning": "exam, test",
+    "reading": "しけん (shiken)"
+   },
+   {
+    "word": "経験",
+    "meaning": "experience",
+    "reading": "けいけん (keiken)"
+   }
+  ]
+ },
+ {
+  "kanji": "宿",
+  "onyomi": [
+   "シュク"
+  ],
+  "kunyomi": [
+   "やど"
+  ],
+  "meaning": "lodging, inn",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "宿題",
+    "meaning": "homework",
+    "reading": "しゅくだい (shukudai)"
+   },
+   {
+    "word": "宿",
+    "meaning": "inn",
+    "reading": "やど (yado)"
+   }
+  ]
+ },
+ {
+  "kanji": "題",
+  "onyomi": [
+   "ダイ"
+  ],
+  "kunyomi": [],
+  "meaning": "topic, subject",
+  "breakdown": "是 + 頁",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "宿題",
+    "meaning": "homework",
+    "reading": "しゅくだい (shukudai)"
+   },
+   {
+    "word": "問題",
+    "meaning": "problem",
+    "reading": "もんだい (mondai)"
+   }
+  ]
+ },
+ {
+  "kanji": "文",
+  "onyomi": [
+   "ブン",
+   "モン"
+  ],
+  "kunyomi": [
+   "ふみ"
+  ],
+  "meaning": "sentence, culture",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "文章",
+    "meaning": "sentence, writing",
+    "reading": "ぶんしょう (bunshou)"
+   },
+   {
+    "word": "文化",
+    "meaning": "culture",
+    "reading": "ぶんか (bunka)"
+   }
+  ]
+ },
+ {
+  "kanji": "英",
+  "onyomi": [
+   "エイ"
+  ],
+  "kunyomi": [],
+  "meaning": "England, excellent",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "英語",
+    "meaning": "English language",
+    "reading": "えいご (eigo)"
+   },
+   {
+    "word": "英国",
+    "meaning": "England",
+    "reading": "えいこく (eikoku)"
+   }
+  ]
+ },
+ {
+  "kanji": "質",
+  "onyomi": [
+   "シツ",
+   "シチ"
+  ],
+  "kunyomi": [],
+  "meaning": "quality",
+  "breakdown": "斦 + 貝 (money/shell)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "質問",
+    "meaning": "question",
+    "reading": "しつもん (shitsumon)"
+   },
+   {
+    "word": "質",
+    "meaning": "quality",
+    "reading": "しつ (shitsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "問",
+  "onyomi": [
+   "モン"
+  ],
+  "kunyomi": [
+   "と(う)"
+  ],
+  "meaning": "question",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "質問",
+    "meaning": "question",
+    "reading": "しつもん (shitsumon)"
+   },
+   {
+    "word": "問う",
+    "meaning": "to ask, question",
+    "reading": "とう (tou)"
+   }
+  ]
+ },
+ {
+  "kanji": "説",
+  "onyomi": [
+   "セツ"
+  ],
+  "kunyomi": [
+   "と(く)"
+  ],
+  "meaning": "explain, theory",
+  "breakdown": "言 (words) + 兌",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "説明",
+    "meaning": "explanation",
+    "reading": "せつめい (setsumei)"
+   },
+   {
+    "word": "小説",
+    "meaning": "novel",
+    "reading": "しょうせつ (shousetsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "暑",
+  "onyomi": [
+   "ショ"
+  ],
+  "kunyomi": [
+   "あつ(い)"
+  ],
+  "meaning": "hot (weather)",
+  "breakdown": "日 (sun) + 者",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "暑い",
+    "meaning": "hot (weather)",
+    "reading": "あつい (atsui)"
+   }
+  ]
+ },
+ {
+  "kanji": "寒",
+  "onyomi": [
+   "カン"
+  ],
+  "kunyomi": [
+   "さむ(い)"
+  ],
+  "meaning": "cold (weather)",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "寒い",
+    "meaning": "cold (weather)",
+    "reading": "さむい (samui)"
+   }
+  ]
+ },
+ {
+  "kanji": "軽",
+  "onyomi": [
+   "ケイ"
+  ],
+  "kunyomi": [
+   "かる(い)"
+  ],
+  "meaning": "light (weight)",
+  "breakdown": "車 (vehicle) + 圣",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "軽い",
+    "meaning": "light (weight)",
+    "reading": "かるい (karui)"
+   }
+  ]
+ },
+ {
+  "kanji": "悪",
+  "onyomi": [
+   "アク"
+  ],
+  "kunyomi": [
+   "わる(い)"
+  ],
+  "meaning": "bad",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "悪い",
+    "meaning": "bad",
+    "reading": "わるい (warui)"
+   },
+   {
+    "word": "悪魔",
+    "meaning": "devil",
+    "reading": "あくま (akuma)"
+   }
+  ]
+ },
+ {
+  "kanji": "太",
+  "onyomi": [
+   "タイ",
+   "タ"
+  ],
+  "kunyomi": [
+   "ふと(い)"
+  ],
+  "meaning": "thick, fat",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "太い",
+    "meaning": "thick",
+    "reading": "ふとい (futoi)"
+   },
+   {
+    "word": "太陽",
+    "meaning": "sun",
+    "reading": "たいよう (taiyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "豆",
+  "onyomi": [
+   "トウ",
+   "ズ"
+  ],
+  "kunyomi": [
+   "まめ"
+  ],
+  "meaning": "bean",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "豆",
+    "meaning": "bean",
+    "reading": "まめ (mame)"
+   },
+   {
+    "word": "大豆",
+    "meaning": "soybean",
+    "reading": "だいず (daizu)"
+   }
+  ]
+ },
+ {
+  "kanji": "光",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "ひかり"
+  ],
+  "meaning": "light",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "光",
+    "meaning": "light",
+    "reading": "ひかり (hikari)"
+   },
+   {
+    "word": "観光",
+    "meaning": "sightseeing",
+    "reading": "かんこう (kankou)"
+   }
+  ]
+ },
+ {
+  "kanji": "運",
+  "onyomi": [
+   "ウン"
+  ],
+  "kunyomi": [
+   "はこ(ぶ)"
+  ],
+  "meaning": "carry, luck",
+  "breakdown": "辶 (movement) + 軍",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "運動",
+    "meaning": "exercise",
+    "reading": "うんどう (undou)"
+   },
+   {
+    "word": "運ぶ",
+    "meaning": "to carry",
+    "reading": "はこぶ (hakobu)"
+   }
+  ]
+ },
+ {
+  "kanji": "動",
+  "onyomi": [
+   "ドウ"
+  ],
+  "kunyomi": [
+   "うご(く)"
+  ],
+  "meaning": "move",
+  "breakdown": "重 (heavy) + 力 (power)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "運動",
+    "meaning": "exercise",
+    "reading": "うんどう (undou)"
+   },
+   {
+    "word": "動く",
+    "meaning": "to move",
+    "reading": "うごく (ugoku)"
+   }
+  ]
+ },
+ {
+  "kanji": "止",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "と(まる)"
+  ],
+  "meaning": "stop",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "止まる",
+    "meaning": "to stop",
+    "reading": "とまる (tomaru)"
+   },
+   {
+    "word": "中止",
+    "meaning": "cancellation",
+    "reading": "ちゅうし (chuushi)"
+   }
+  ]
+ },
+ {
+  "kanji": "洗",
+  "onyomi": [
+   "セン"
+  ],
+  "kunyomi": [
+   "あら(う)"
+  ],
+  "meaning": "wash",
+  "breakdown": "氵 (water) + 先",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "洗う",
+    "meaning": "to wash",
+    "reading": "あらう (arau)"
+   },
+   {
+    "word": "洗濯",
+    "meaning": "laundry",
+    "reading": "せんたく (sentaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "急",
+  "onyomi": [
+   "キュウ"
+  ],
+  "kunyomi": [
+   "いそ(ぐ)"
+  ],
+  "meaning": "urgent, hurry",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "急ぐ",
+    "meaning": "to hurry",
+    "reading": "いそぐ (isogu)"
+   },
+   {
+    "word": "急に",
+    "meaning": "suddenly",
+    "reading": "きゅうに (kyuuni)"
+   }
+  ]
+ },
+ {
+  "kanji": "押",
+  "onyomi": [
+   "オウ"
+  ],
+  "kunyomi": [
+   "お(す)"
+  ],
+  "meaning": "push",
+  "breakdown": "扌 (hand) + 甲",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "押す",
+    "meaning": "to push",
+    "reading": "おす (osu)"
+   }
+  ]
+ },
+ {
+  "kanji": "引",
+  "onyomi": [
+   "イン"
+  ],
+  "kunyomi": [
+   "ひ(く)"
+  ],
+  "meaning": "pull",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "引く",
+    "meaning": "to pull",
+    "reading": "ひく (hiku)"
+   }
+  ]
+ },
+ {
+  "kanji": "死",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "し(ぬ)"
+  ],
+  "meaning": "death",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "死ぬ",
+    "meaning": "to die",
+    "reading": "しぬ (shinu)"
+   },
+   {
+    "word": "死",
+    "meaning": "death",
+    "reading": "し (shi)"
+   }
+  ]
+ },
+ {
+  "kanji": "石",
+  "onyomi": [
+   "セキ",
+   "シャク"
+  ],
+  "kunyomi": [
+   "いし"
+  ],
+  "meaning": "stone",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "石",
+    "meaning": "stone",
+    "reading": "いし (ishi)"
+   }
+  ]
+ },
+ {
+  "kanji": "研",
+  "onyomi": [
+   "ケン"
+  ],
+  "kunyomi": [
+   "と(ぐ)"
+  ],
+  "meaning": "polish, study",
+  "breakdown": "石 (stone) + 开",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "研究",
+    "meaning": "research",
+    "reading": "けんきゅう (kenkyuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "究",
+  "onyomi": [
+   "キュウ"
+  ],
+  "kunyomi": [
+   "きわ(める)"
+  ],
+  "meaning": "investigate, research",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "研究",
+    "meaning": "research",
+    "reading": "けんきゅう (kenkyuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "留",
+  "onyomi": [
+   "リュウ",
+   "ル"
+  ],
+  "kunyomi": [
+   "と(まる)"
+  ],
+  "meaning": "stay, detain",
+  "breakdown": "田 (field) + 卯",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "留学",
+    "meaning": "study abroad",
+    "reading": "りゅうがく (ryuugaku)"
+   },
+   {
+    "word": "留守",
+    "meaning": "absence from home",
+    "reading": "るす (rusu)"
+   }
+  ]
+ },
+ {
+  "kanji": "有",
+  "onyomi": [
+   "ユウ"
+  ],
+  "kunyomi": [
+   "あ(る)"
+  ],
+  "meaning": "have, exist",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "有名",
+    "meaning": "famous",
+    "reading": "ゆうめい (yuumei)"
+   },
+   {
+    "word": "有る",
+    "meaning": "to exist, have",
+    "reading": "ある (aru)"
+   }
+  ]
+ },
+ {
+  "kanji": "産",
+  "onyomi": [
+   "サン"
+  ],
+  "kunyomi": [
+   "う(む)"
+  ],
+  "meaning": "give birth, produce",
+  "breakdown": "生 (life) + 産のつくり",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "産業",
+    "meaning": "industry",
+    "reading": "さんぎょう (sangyou)"
+   },
+   {
+    "word": "お土産",
+    "meaning": "souvenir",
+    "reading": "おみやげ (omiyage)"
+   }
+  ]
+ },
+ {
+  "kanji": "業",
+  "onyomi": [
+   "ギョウ"
+  ],
+  "kunyomi": [
+   "わざ"
+  ],
+  "meaning": "business, work",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "産業",
+    "meaning": "industry",
+    "reading": "さんぎょう (sangyou)"
+   },
+   {
+    "word": "授業",
+    "meaning": "class lesson",
+    "reading": "じゅぎょう (jugyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "士",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [],
+  "meaning": "samurai, gentleman",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "弁護士",
+    "meaning": "lawyer",
+    "reading": "べんごし (bengoshi)"
+   },
+   {
+    "word": "兵士",
+    "meaning": "soldier",
+    "reading": "へいし (heishi)"
+   }
+  ]
+ },
+ {
+  "kanji": "仕",
+  "onyomi": [
+   "シ"
+  ],
+  "kunyomi": [
+   "つか(える)"
+  ],
+  "meaning": "serve",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "仕事",
+    "meaning": "job, work",
+    "reading": "しごと (shigoto)"
+   },
+   {
+    "word": "仕える",
+    "meaning": "to serve",
+    "reading": "つかえる (tsukaeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "事",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "こと"
+  ],
+  "meaning": "matter, thing",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "仕事",
+    "meaning": "job, work",
+    "reading": "しごと (shigoto)"
+   },
+   {
+    "word": "事",
+    "meaning": "matter, thing",
+    "reading": "こと (koto)"
+   }
+  ]
+ },
+ {
+  "kanji": "図",
+  "onyomi": [
+   "ズ",
+   "ト"
+  ],
+  "kunyomi": [
+   "はか(る)"
+  ],
+  "meaning": "diagram, map",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "図書館",
+    "meaning": "library",
+    "reading": "としょかん (toshokan)"
+   },
+   {
+    "word": "地図",
+    "meaning": "map",
+    "reading": "ちず (chizu)"
+   }
+  ]
+ },
+ {
+  "kanji": "官",
+  "onyomi": [
+   "カン"
+  ],
+  "kunyomi": [],
+  "meaning": "government official",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "警官",
+    "meaning": "police officer",
+    "reading": "けいかん (keikan)"
+   },
+   {
+    "word": "官庁",
+    "meaning": "government office",
+    "reading": "かんちょう (kanchou)"
+   }
+  ]
+ },
+ {
+  "kanji": "館",
+  "onyomi": [
+   "カン"
+  ],
+  "kunyomi": [
+   "やかた"
+  ],
+  "meaning": "building, hall",
+  "breakdown": "食 (eat) + 官",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "図書館",
+    "meaning": "library",
+    "reading": "としょかん (toshokan)"
+   },
+   {
+    "word": "旅館",
+    "meaning": "Japanese inn",
+    "reading": "りょかん (ryokan)"
+   }
+  ]
+ },
+ {
+  "kanji": "昔",
+  "onyomi": [
+   "セキ",
+   "シャク"
+  ],
+  "kunyomi": [
+   "むかし"
+  ],
+  "meaning": "long ago",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "昔",
+    "meaning": "long ago",
+    "reading": "むかし (mukashi)"
+   },
+   {
+    "word": "昔話",
+    "meaning": "old tale",
+    "reading": "むかしばなし (mukashibanashi)"
+   }
+  ]
+ },
+ {
+  "kanji": "代",
+  "onyomi": [
+   "ダイ",
+   "タイ"
+  ],
+  "kunyomi": [
+   "か(わる)"
+  ],
+  "meaning": "era, substitute",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "時代",
+    "meaning": "era",
+    "reading": "じだい (jidai)"
+   },
+   {
+    "word": "代わる",
+    "meaning": "to substitute",
+    "reading": "かわる (kawaru)"
+   }
+  ]
+ },
+ {
+  "kanji": "地",
+  "onyomi": [
+   "チ",
+   "ジ"
+  ],
+  "kunyomi": [],
+  "meaning": "ground, earth",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "地図",
+    "meaning": "map",
+    "reading": "ちず (chizu)"
+   },
+   {
+    "word": "地面",
+    "meaning": "ground",
+    "reading": "じめん (jimen)"
+   }
+  ]
+ },
+ {
+  "kanji": "世",
+  "onyomi": [
+   "セイ",
+   "セ"
+  ],
+  "kunyomi": [
+   "よ"
+  ],
+  "meaning": "world, generation",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "世界",
+    "meaning": "world",
+    "reading": "せかい (sekai)"
+   },
+   {
+    "word": "世の中",
+    "meaning": "society, the world",
+    "reading": "よのなか (yononaka)"
+   }
+  ]
+ },
+ {
+  "kanji": "界",
+  "onyomi": [
+   "カイ"
+  ],
+  "kunyomi": [],
+  "meaning": "boundary, world",
+  "breakdown": "田 (field) + 介",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "世界",
+    "meaning": "world",
+    "reading": "せかい (sekai)"
+   }
+  ]
+ },
+ {
+  "kanji": "度",
+  "onyomi": [
+   "ド",
+   "タク"
+  ],
+  "kunyomi": [
+   "たび"
+  ],
+  "meaning": "degree, times",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "今度",
+    "meaning": "this time, next time",
+    "reading": "こんど (kondo)"
+   },
+   {
+    "word": "度",
+    "meaning": "degrees (unit)",
+    "reading": "ど (do)"
+   }
+  ]
+ },
+ {
+  "kanji": "回",
+  "onyomi": [
+   "カイ"
+  ],
+  "kunyomi": [
+   "まわ(る)"
+  ],
+  "meaning": "times, turn around",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "回る",
+    "meaning": "to turn around",
+    "reading": "まわる (mawaru)"
+   },
+   {
+    "word": "今回",
+    "meaning": "this time",
+    "reading": "こんかい (konkai)"
+   }
+  ]
+ },
+ {
+  "kanji": "用",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [
+   "もち(いる)"
+  ],
+  "meaning": "use",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "用意",
+    "meaning": "preparation",
+    "reading": "ようい (youi)"
+   },
+   {
+    "word": "使用",
+    "meaning": "usage",
+    "reading": "しよう (shiyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "民",
+  "onyomi": [
+   "ミン"
+  ],
+  "kunyomi": [
+   "たみ"
+  ],
+  "meaning": "people, citizen",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "国民",
+    "meaning": "citizen, nation",
+    "reading": "こくみん (kokumin)"
+   },
+   {
+    "word": "民族",
+    "meaning": "ethnic group",
+    "reading": "みんぞく (minzoku)"
+   }
+  ]
+ },
+ {
+  "kanji": "注",
+  "onyomi": [
+   "チュウ"
+  ],
+  "kunyomi": [
+   "そそ(ぐ)"
+  ],
+  "meaning": "pour, pay attention",
+  "breakdown": "氵 (water) + 主",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "注意",
+    "meaning": "caution, attention",
+    "reading": "ちゅうい (chuui)"
+   },
+   {
+    "word": "注文",
+    "meaning": "order (request)",
+    "reading": "ちゅうもん (chuumon)"
+   }
+  ]
+ },
+ {
+  "kanji": "声",
+  "onyomi": [
+   "セイ",
+   "ショウ"
+  ],
+  "kunyomi": [
+   "こえ"
+  ],
+  "meaning": "voice",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "声",
+    "meaning": "voice",
+    "reading": "こえ (koe)"
+   },
+   {
+    "word": "大声",
+    "meaning": "loud voice",
+    "reading": "おおごえ (oogoe)"
+   }
+  ]
+ },
+ {
+  "kanji": "特",
+  "onyomi": [
+   "トク"
+  ],
+  "kunyomi": [],
+  "meaning": "special",
+  "breakdown": "牛 (cow) + 寺",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "特別",
+    "meaning": "special",
+    "reading": "とくべつ (tokubetsu)"
+   },
+   {
+    "word": "特に",
+    "meaning": "especially",
+    "reading": "とくに (tokuni)"
+   }
+  ]
+ },
+ {
+  "kanji": "別",
+  "onyomi": [
+   "ベツ"
+  ],
+  "kunyomi": [
+   "わか(れる)"
+  ],
+  "meaning": "separate, different",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "特別",
+    "meaning": "special",
+    "reading": "とくべつ (tokubetsu)"
+   },
+   {
+    "word": "別れる",
+    "meaning": "to part ways",
+    "reading": "わかれる (wakareru)"
+   }
+  ]
+ },
+ {
+  "kanji": "竹",
+  "onyomi": [
+   "チク"
+  ],
+  "kunyomi": [
+   "たけ"
+  ],
+  "meaning": "bamboo",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "竹",
+    "meaning": "bamboo",
+    "reading": "たけ (take)"
+   }
+  ]
+ },
+ {
+  "kanji": "合",
+  "onyomi": [
+   "ゴウ"
+  ],
+  "kunyomi": [
+   "あ(う)"
+  ],
+  "meaning": "fit, combine",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "合う",
+    "meaning": "to fit, match",
+    "reading": "あう (au)"
+   },
+   {
+    "word": "都合",
+    "meaning": "convenience, circumstances",
+    "reading": "つごう (tsugou)"
+   }
+  ]
+ },
+ {
+  "kanji": "答",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [
+   "こた(える)"
+  ],
+  "meaning": "answer",
+  "breakdown": "竹 (bamboo) + 合",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "答える",
+    "meaning": "to answer",
+    "reading": "こたえる (kotaeru)"
+   },
+   {
+    "word": "答え",
+    "meaning": "an answer",
+    "reading": "こたえ (kotae)"
+   }
+  ]
+ },
+ {
+  "kanji": "正",
+  "onyomi": [
+   "セイ",
+   "ショウ"
+  ],
+  "kunyomi": [
+   "ただ(しい)"
+  ],
+  "meaning": "correct",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "正しい",
+    "meaning": "correct",
+    "reading": "ただしい (tadashii)"
+   },
+   {
+    "word": "正直",
+    "meaning": "honest",
+    "reading": "しょうじき (shoujiki)"
+   }
+  ]
+ },
+ {
+  "kanji": "計",
+  "onyomi": [
+   "ケイ"
+  ],
+  "kunyomi": [
+   "はか(る)"
+  ],
+  "meaning": "measure, plan",
+  "breakdown": "言 (words) + 十",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "時計",
+    "meaning": "clock, watch",
+    "reading": "とけい (tokei)"
+   },
+   {
+    "word": "計画",
+    "meaning": "plan",
+    "reading": "けいかく (keikaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "京",
+  "onyomi": [
+   "キョウ",
+   "ケイ"
+  ],
+  "kunyomi": [],
+  "meaning": "capital",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "東京",
+    "meaning": "Tokyo",
+    "reading": "とうきょう (toukyou)"
+   },
+   {
+    "word": "京都",
+    "meaning": "Kyoto",
+    "reading": "きょうと (kyouto)"
+   }
+  ]
+ },
+ {
+  "kanji": "集",
+  "onyomi": [
+   "シュウ"
+  ],
+  "kunyomi": [
+   "あつ(まる)"
+  ],
+  "meaning": "gather",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "集まる",
+    "meaning": "to gather",
+    "reading": "あつまる (atsumaru)"
+   },
+   {
+    "word": "集める",
+    "meaning": "to collect",
+    "reading": "あつめる (atsumeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "不",
+  "onyomi": [
+   "フ",
+   "ブ"
+  ],
+  "kunyomi": [],
+  "meaning": "not, un-",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "不便",
+    "meaning": "inconvenient",
+    "reading": "ふべん (fuben)"
+   },
+   {
+    "word": "不安",
+    "meaning": "anxiety",
+    "reading": "ふあん (fuan)"
+   }
+  ]
+ },
+ {
+  "kanji": "便",
+  "onyomi": [
+   "ベン",
+   "ビン"
+  ],
+  "kunyomi": [
+   "たよ(り)"
+  ],
+  "meaning": "convenience",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "便利",
+    "meaning": "convenient",
+    "reading": "べんり (benri)"
+   },
+   {
+    "word": "郵便",
+    "meaning": "mail, postal service",
+    "reading": "ゆうびん (yuubin)"
+   }
+  ]
+ },
+ {
+  "kanji": "以",
+  "onyomi": [
+   "イ"
+  ],
+  "kunyomi": [],
+  "meaning": "from, by means of",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "以上",
+    "meaning": "and above",
+    "reading": "いじょう (ijou)"
+   },
+   {
+    "word": "以下",
+    "meaning": "and below",
+    "reading": "いか (ika)"
+   }
+  ]
+ },
+ {
+  "kanji": "戸",
+  "onyomi": [
+   "コ"
+  ],
+  "kunyomi": [
+   "と"
+  ],
+  "meaning": "door",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "戸",
+    "meaning": "door",
+    "reading": "と (to)"
+   },
+   {
+    "word": "戸口",
+    "meaning": "doorway",
+    "reading": "とぐち (toguchi)"
+   }
+  ]
+ },
+ {
+  "kanji": "屋",
+  "onyomi": [
+   "オク"
+  ],
+  "kunyomi": [
+   "や"
+  ],
+  "meaning": "shop, roof",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "本屋",
+    "meaning": "bookstore",
+    "reading": "ほんや (honya)"
+   },
+   {
+    "word": "屋根",
+    "meaning": "roof",
+    "reading": "やね (yane)"
+   }
+  ]
+ },
+ {
+  "kanji": "堂",
+  "onyomi": [
+   "ドウ"
+  ],
+  "kunyomi": [],
+  "meaning": "hall",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "食堂",
+    "meaning": "dining hall, cafeteria",
+    "reading": "しょくどう (shokudou)"
+   },
+   {
+    "word": "講堂",
+    "meaning": "auditorium",
+    "reading": "こうどう (koudou)"
+   }
+  ]
+ },
+ {
+  "kanji": "都",
+  "onyomi": [
+   "ト",
+   "ツ"
+  ],
+  "kunyomi": [
+   "みやこ"
+  ],
+  "meaning": "capital, metropolis",
+  "breakdown": "者 + 阝 (village/town)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "都市",
+    "meaning": "city",
+    "reading": "とし (toshi)"
+   },
+   {
+    "word": "京都",
+    "meaning": "Kyoto",
+    "reading": "きょうと (kyouto)"
+   }
+  ]
+ },
+ {
+  "kanji": "県",
+  "onyomi": [
+   "ケン"
+  ],
+  "kunyomi": [],
+  "meaning": "prefecture",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "県",
+    "meaning": "prefecture",
+    "reading": "けん (ken)"
+   }
+  ]
+ },
+ {
+  "kanji": "区",
+  "onyomi": [
+   "ク"
+  ],
+  "kunyomi": [],
+  "meaning": "ward, district",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "区",
+    "meaning": "ward, district",
+    "reading": "く (ku)"
+   }
+  ]
+ },
+ {
+  "kanji": "池",
+  "onyomi": [
+   "チ"
+  ],
+  "kunyomi": [
+   "いけ"
+  ],
+  "meaning": "pond",
+  "breakdown": "氵 (water) + 也",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "池",
+    "meaning": "pond",
+    "reading": "いけ (ike)"
+   }
+  ]
+ },
+ {
+  "kanji": "発",
+  "onyomi": [
+   "ハツ",
+   "ホツ"
+  ],
+  "kunyomi": [],
+  "meaning": "departure, emit",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "出発",
+    "meaning": "departure",
+    "reading": "しゅっぱつ (shuppatsu)"
+   },
+   {
+    "word": "発見",
+    "meaning": "discovery",
+    "reading": "はっけん (hakken)"
+   }
+  ]
+ },
+ {
+  "kanji": "建",
+  "onyomi": [
+   "ケン",
+   "コン"
+  ],
+  "kunyomi": [
+   "た(てる)"
+  ],
+  "meaning": "build",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "建てる",
+    "meaning": "to build",
+    "reading": "たてる (tateru)"
+   },
+   {
+    "word": "建物",
+    "meaning": "building",
+    "reading": "たてもの (tatemono)"
+   }
+  ]
+ },
+ {
+  "kanji": "品",
+  "onyomi": [
+   "ヒン"
+  ],
+  "kunyomi": [
+   "しな"
+  ],
+  "meaning": "goods, item",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "品物",
+    "meaning": "goods",
+    "reading": "しなもの (shinamono)"
+   },
+   {
+    "word": "商品",
+    "meaning": "merchandise",
+    "reading": "しょうひん (shouhin)"
+   }
+  ]
+ },
+ {
+  "kanji": "旅",
+  "onyomi": [
+   "リョ"
+  ],
+  "kunyomi": [
+   "たび"
+  ],
+  "meaning": "travel",
+  "breakdown": "方 (direction) + 旅のつくり",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "旅行",
+    "meaning": "trip, travel",
+    "reading": "りょこう (ryokou)"
+   },
+   {
+    "word": "旅館",
+    "meaning": "Japanese inn",
+    "reading": "りょかん (ryokan)"
+   }
+  ]
+ },
+ {
+  "kanji": "通",
+  "onyomi": [
+   "ツウ",
+   "ツ"
+  ],
+  "kunyomi": [
+   "とお(る)"
+  ],
+  "meaning": "pass through, traffic",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "通る",
+    "meaning": "to pass through",
+    "reading": "とおる (tooru)"
+   },
+   {
+    "word": "交通",
+    "meaning": "traffic",
+    "reading": "こうつう (koutsuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "進",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "すす(む)"
+  ],
+  "meaning": "advance",
+  "breakdown": "辶 (movement) + 隹",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "進む",
+    "meaning": "to advance",
+    "reading": "すすむ (susumu)"
+   }
+  ]
+ },
+ {
+  "kanji": "丸",
+  "onyomi": [
+   "ガン"
+  ],
+  "kunyomi": [
+   "まる(い)"
+  ],
+  "meaning": "round, circle",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "丸い",
+    "meaning": "round",
+    "reading": "まるい (marui)"
+   }
+  ]
+ },
+ {
+  "kanji": "冷",
+  "onyomi": [
+   "レイ"
+  ],
+  "kunyomi": [
+   "つめ(たい)"
+  ],
+  "meaning": "cold",
+  "breakdown": "冫 (ice) + 令",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "冷たい",
+    "meaning": "cold (to the touch)",
+    "reading": "つめたい (tsumetai)"
+   },
+   {
+    "word": "冷蔵庫",
+    "meaning": "refrigerator",
+    "reading": "れいぞうこ (reizouko)"
+   }
+  ]
+ },
+ {
+  "kanji": "甘",
+  "onyomi": [
+   "カン"
+  ],
+  "kunyomi": [
+   "あま(い)"
+  ],
+  "meaning": "sweet",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "甘い",
+    "meaning": "sweet",
+    "reading": "あまい (amai)"
+   }
+  ]
+ },
+ {
+  "kanji": "汚",
+  "onyomi": [
+   "オ"
+  ],
+  "kunyomi": [
+   "きたな(い)"
+  ],
+  "meaning": "dirty",
+  "breakdown": "氵 (water) + 于",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "汚い",
+    "meaning": "dirty",
+    "reading": "きたない (kitanai)"
+   }
+  ]
+ },
+ {
+  "kanji": "果",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "は(たす)"
+  ],
+  "meaning": "fruit, result",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "果物",
+    "meaning": "fruit",
+    "reading": "くだもの (kudamono)"
+   },
+   {
+    "word": "結果",
+    "meaning": "result",
+    "reading": "けっか (kekka)"
+   }
+  ]
+ },
+ {
+  "kanji": "付",
+  "onyomi": [
+   "フ"
+  ],
+  "kunyomi": [
+   "つ(ける)"
+  ],
+  "meaning": "attach",
+  "breakdown": "亻 (person) + 寸",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "付ける",
+    "meaning": "to attach",
+    "reading": "つける (tsukeru)"
+   },
+   {
+    "word": "気付く",
+    "meaning": "to notice",
+    "reading": "きづく (kizuku)"
+   }
+  ]
+ },
+ {
+  "kanji": "片",
+  "onyomi": [
+   "ヘン"
+  ],
+  "kunyomi": [
+   "かた"
+  ],
+  "meaning": "piece, one side",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "片方",
+    "meaning": "one side",
+    "reading": "かたほう (katahou)"
+   }
+  ]
+ },
+ {
+  "kanji": "焼",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [
+   "や(く)"
+  ],
+  "meaning": "burn, grill",
+  "breakdown": "火 (fire) + 焼のつくり",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "焼く",
+    "meaning": "to grill, bake",
+    "reading": "やく (yaku)"
+   },
+   {
+    "word": "焼肉",
+    "meaning": "grilled meat",
+    "reading": "やきにく (yakiniku)"
+   }
+  ]
+ },
+ {
+  "kanji": "消",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [
+   "き(える)"
+  ],
+  "meaning": "extinguish, vanish",
+  "breakdown": "氵 (water) + 肖",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "消える",
+    "meaning": "to disappear",
+    "reading": "きえる (kieru)"
+   },
+   {
+    "word": "消す",
+    "meaning": "to erase, turn off",
+    "reading": "けす (kesu)"
+   }
+  ]
+ },
+ {
+  "kanji": "固",
+  "onyomi": [
+   "コ"
+  ],
+  "kunyomi": [
+   "かた(い)"
+  ],
+  "meaning": "hard, solid",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "固い",
+    "meaning": "hard, solid",
+    "reading": "かたい (katai)"
+   }
+  ]
+ },
+ {
+  "kanji": "個",
+  "onyomi": [
+   "コ"
+  ],
+  "kunyomi": [],
+  "meaning": "individual (counter)",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "一個",
+    "meaning": "one (item)",
+    "reading": "いっこ (ikko)"
+   },
+   {
+    "word": "個人",
+    "meaning": "individual person",
+    "reading": "こじん (kojin)"
+   }
+  ]
+ },
+ {
+  "kanji": "笑",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [
+   "わら(う)"
+  ],
+  "meaning": "laugh",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "笑う",
+    "meaning": "to laugh",
+    "reading": "わらう (warau)"
+   }
+  ]
+ },
+ {
+  "kanji": "泣",
+  "onyomi": [
+   "キュウ"
+  ],
+  "kunyomi": [
+   "な(く)"
+  ],
+  "meaning": "cry",
+  "breakdown": "氵 (water) + 立",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "泣く",
+    "meaning": "to cry",
+    "reading": "なく (naku)"
+   }
+  ]
+ },
+ {
+  "kanji": "怒",
+  "onyomi": [
+   "ド"
+  ],
+  "kunyomi": [
+   "おこ(る)"
+  ],
+  "meaning": "anger",
+  "breakdown": "奴 + 心 (heart)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "怒る",
+    "meaning": "to get angry",
+    "reading": "おこる (okoru)"
+   }
+  ]
+ },
+ {
+  "kanji": "幸",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "しあわ(せ)"
+  ],
+  "meaning": "happiness",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "幸せ",
+    "meaning": "happiness",
+    "reading": "しあわせ (shiawase)"
+   }
+  ]
+ },
+ {
+  "kanji": "悲",
+  "onyomi": [
+   "ヒ"
+  ],
+  "kunyomi": [
+   "かな(しい)"
+  ],
+  "meaning": "sad",
+  "breakdown": "非 + 心 (heart)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "悲しい",
+    "meaning": "sad",
+    "reading": "かなしい (kanashii)"
+   }
+  ]
+ },
+ {
+  "kanji": "苦",
+  "onyomi": [
+   "ク"
+  ],
+  "kunyomi": [
+   "くる(しい)",
+   "にが(い)"
+  ],
+  "meaning": "suffering, bitter",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "苦しい",
+    "meaning": "painful, hard",
+    "reading": "くるしい (kurushii)"
+   },
+   {
+    "word": "苦い",
+    "meaning": "bitter",
+    "reading": "にがい (nigai)"
+   }
+  ]
+ },
+ {
+  "kanji": "痛",
+  "onyomi": [
+   "ツウ"
+  ],
+  "kunyomi": [
+   "いた(い)"
+  ],
+  "meaning": "pain",
+  "breakdown": "疒 (sickness) + 甬",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "痛い",
+    "meaning": "painful",
+    "reading": "いたい (itai)"
+   }
+  ]
+ },
+ {
+  "kanji": "恥",
+  "onyomi": [
+   "チ"
+  ],
+  "kunyomi": [
+   "はじ"
+  ],
+  "meaning": "shame",
+  "breakdown": "耳 (ear) + 心 (heart)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "恥ずかしい",
+    "meaning": "embarrassing",
+    "reading": "はずかしい (hazukashii)"
+   }
+  ]
+ },
+ {
+  "kanji": "配",
+  "onyomi": [
+   "ハイ"
+  ],
+  "kunyomi": [
+   "くば(る)"
+  ],
+  "meaning": "distribute",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "心配",
+    "meaning": "worry",
+    "reading": "しんぱい (shinpai)"
+   },
+   {
+    "word": "配る",
+    "meaning": "to distribute",
+    "reading": "くばる (kubaru)"
+   }
+  ]
+ },
+ {
+  "kanji": "困",
+  "onyomi": [
+   "コン"
+  ],
+  "kunyomi": [
+   "こま(る)"
+  ],
+  "meaning": "troubled",
+  "breakdown": "囗 (enclosure) + 木",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "困る",
+    "meaning": "to be troubled",
+    "reading": "こまる (komaru)"
+   }
+  ]
+ },
+ {
+  "kanji": "辛",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "から(い)"
+  ],
+  "meaning": "spicy, hardship",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "辛い",
+    "meaning": "spicy / hard, painful",
+    "reading": "からい / つらい (karai / tsurai)"
+   }
+  ]
+ },
+ {
+  "kanji": "眠",
+  "onyomi": [
+   "ミン"
+  ],
+  "kunyomi": [
+   "ねむ(る)"
+  ],
+  "meaning": "sleep",
+  "breakdown": "目 (eye) + 民",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "眠る",
+    "meaning": "to sleep",
+    "reading": "ねむる (nemuru)"
+   },
+   {
+    "word": "睡眠",
+    "meaning": "sleep (noun)",
+    "reading": "すいみん (suimin)"
+   }
+  ]
+ },
+ {
+  "kanji": "残",
+  "onyomi": [
+   "ザン"
+  ],
+  "kunyomi": [
+   "のこ(る)"
+  ],
+  "meaning": "remain",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "残る",
+    "meaning": "to remain",
+    "reading": "のこる (nokoru)"
+   },
+   {
+    "word": "残念",
+    "meaning": "regrettable, a pity",
+    "reading": "ざんねん (zannen)"
+   }
+  ]
+ },
+ {
+  "kanji": "念",
+  "onyomi": [
+   "ネン"
+  ],
+  "kunyomi": [],
+  "meaning": "thought, sense",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "残念",
+    "meaning": "regrettable, a pity",
+    "reading": "ざんねん (zannen)"
+   },
+   {
+    "word": "記念",
+    "meaning": "commemoration",
+    "reading": "きねん (kinen)"
+   }
+  ]
+ },
+ {
+  "kanji": "感",
+  "onyomi": [
+   "カン"
+  ],
+  "kunyomi": [],
+  "meaning": "feeling",
+  "breakdown": "咸 + 心 (heart)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "感じる",
+    "meaning": "to feel",
+    "reading": "かんじる (kanjiru)"
+   },
+   {
+    "word": "感動",
+    "meaning": "being moved emotionally",
+    "reading": "かんどう (kandou)"
+   }
+  ]
+ },
+ {
+  "kanji": "情",
+  "onyomi": [
+   "ジョウ"
+  ],
+  "kunyomi": [
+   "なさ(け)"
+  ],
+  "meaning": "emotion",
+  "breakdown": "忄 (heart) + 青",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "感情",
+    "meaning": "emotion",
+    "reading": "かんじょう (kanjou)"
+   },
+   {
+    "word": "情報",
+    "meaning": "information",
+    "reading": "じょうほう (jouhou)"
+   }
+  ]
+ },
+ {
+  "kanji": "覚",
+  "onyomi": [
+   "カク"
+  ],
+  "kunyomi": [
+   "おぼ(える)"
+  ],
+  "meaning": "remember, wake",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "覚える",
+    "meaning": "to memorize",
+    "reading": "おぼえる (oboeru)"
+   },
+   {
+    "word": "目覚める",
+    "meaning": "to wake up",
+    "reading": "めざめる (mezameru)"
+   }
+  ]
+ },
+ {
+  "kanji": "忘",
+  "onyomi": [
+   "ボウ"
+  ],
+  "kunyomi": [
+   "わす(れる)"
+  ],
+  "meaning": "forget",
+  "breakdown": "亡 + 心 (heart)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "忘れる",
+    "meaning": "to forget",
+    "reading": "わすれる (wasureru)"
+   }
+  ]
+ },
+ {
+  "kanji": "決",
+  "onyomi": [
+   "ケツ"
+  ],
+  "kunyomi": [
+   "き(める)"
+  ],
+  "meaning": "decide",
+  "breakdown": "氵 (water) + 夬",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "決める",
+    "meaning": "to decide",
+    "reading": "きめる (kimeru)"
+   },
+   {
+    "word": "決定",
+    "meaning": "decision",
+    "reading": "けってい (kettei)"
+   }
+  ]
+ },
+ {
+  "kanji": "定",
+  "onyomi": [
+   "テイ",
+   "ジョウ"
+  ],
+  "kunyomi": [
+   "さだ(める)"
+  ],
+  "meaning": "fix, decide",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "予定",
+    "meaning": "plan, schedule",
+    "reading": "よてい (yotei)"
+   },
+   {
+    "word": "決定",
+    "meaning": "decision",
+    "reading": "けってい (kettei)"
+   }
+  ]
+ },
+ {
+  "kanji": "比",
+  "onyomi": [
+   "ヒ"
+  ],
+  "kunyomi": [
+   "くら(べる)"
+  ],
+  "meaning": "compare",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "比べる",
+    "meaning": "to compare",
+    "reading": "くらべる (kuraberu)"
+   }
+  ]
+ },
+ {
+  "kanji": "受",
+  "onyomi": [
+   "ジュ"
+  ],
+  "kunyomi": [
+   "う(ける)"
+  ],
+  "meaning": "receive",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "受ける",
+    "meaning": "to receive",
+    "reading": "うける (ukeru)"
+   },
+   {
+    "word": "受付",
+    "meaning": "reception desk",
+    "reading": "うけつけ (uketsuke)"
+   }
+  ]
+ },
+ {
+  "kanji": "授",
+  "onyomi": [
+   "ジュ"
+  ],
+  "kunyomi": [
+   "さず(ける)"
+  ],
+  "meaning": "grant, instruct",
+  "breakdown": "扌 (hand) + 受",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "授業",
+    "meaning": "class lesson",
+    "reading": "じゅぎょう (jugyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "徒",
+  "onyomi": [
+   "ト"
+  ],
+  "kunyomi": [],
+  "meaning": "follower, on foot",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "生徒",
+    "meaning": "student, pupil",
+    "reading": "せいと (seito)"
+   }
+  ]
+ },
+ {
+  "kanji": "練",
+  "onyomi": [
+   "レン"
+  ],
+  "kunyomi": [
+   "ね(る)"
+  ],
+  "meaning": "practice, train",
+  "breakdown": "糸 (thread) + 柬",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "練習",
+    "meaning": "practice",
+    "reading": "れんしゅう (renshuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "復",
+  "onyomi": [
+   "フク"
+  ],
+  "kunyomi": [],
+  "meaning": "return, restore",
+  "breakdown": "彳 (step) + 复",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "復習",
+    "meaning": "review (of study)",
+    "reading": "ふくしゅう (fukushuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "表",
+  "onyomi": [
+   "ヒョウ"
+  ],
+  "kunyomi": [
+   "おもて",
+   "あらわ(す)"
+  ],
+  "meaning": "surface, express",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "表す",
+    "meaning": "to express",
+    "reading": "あらわす (arawasu)"
+   },
+   {
+    "word": "表",
+    "meaning": "table, chart",
+    "reading": "ひょう (hyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "卒",
+  "onyomi": [
+   "ソツ"
+  ],
+  "kunyomi": [],
+  "meaning": "graduate",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "卒業",
+    "meaning": "graduation",
+    "reading": "そつぎょう (sotsugyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "違",
+  "onyomi": [
+   "イ"
+  ],
+  "kunyomi": [
+   "ちが(う)"
+  ],
+  "meaning": "differ",
+  "breakdown": "辶 (movement) + 韋",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "違う",
+    "meaning": "to differ, be wrong",
+    "reading": "ちがう (chigau)"
+   }
+  ]
+ },
+ {
+  "kanji": "役",
+  "onyomi": [
+   "ヤク",
+   "エキ"
+  ],
+  "kunyomi": [],
+  "meaning": "role, service",
+  "breakdown": "彳 (step) + 殳",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "役に立つ",
+    "meaning": "to be useful",
+    "reading": "やくにたつ (yaku ni tatsu)"
+   },
+   {
+    "word": "役者",
+    "meaning": "actor",
+    "reading": "やくしゃ (yakusha)"
+   }
+  ]
+ },
+ {
+  "kanji": "部",
+  "onyomi": [
+   "ブ"
+  ],
+  "kunyomi": [],
+  "meaning": "part, section",
+  "breakdown": "咅 + 阝",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "部屋",
+    "meaning": "room",
+    "reading": "へや (heya)"
+   },
+   {
+    "word": "全部",
+    "meaning": "all, everything",
+    "reading": "ぜんぶ (zenbu)"
+   }
+  ]
+ },
+ {
+  "kanji": "必",
+  "onyomi": [
+   "ヒツ"
+  ],
+  "kunyomi": [
+   "かなら(ず)"
+  ],
+  "meaning": "certain, must",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "必ず",
+    "meaning": "certainly, without fail",
+    "reading": "かならず (kanarazu)"
+   },
+   {
+    "word": "必要",
+    "meaning": "necessary",
+    "reading": "ひつよう (hitsuyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "要",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [
+   "い(る)"
+  ],
+  "meaning": "necessary, need",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "必要",
+    "meaning": "necessary",
+    "reading": "ひつよう (hitsuyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "荷",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "に"
+  ],
+  "meaning": "load, cargo",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "荷物",
+    "meaning": "luggage, baggage",
+    "reading": "にもつ (nimotsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "由",
+  "onyomi": [
+   "ユウ",
+   "ユ"
+  ],
+  "kunyomi": [
+   "よし"
+  ],
+  "meaning": "reason, cause",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "理由",
+    "meaning": "reason",
+    "reading": "りゆう (riyuu)"
+   },
+   {
+    "word": "自由",
+    "meaning": "freedom",
+    "reading": "じゆう (jiyuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "届",
+  "onyomi": [
+   "トドク"
+  ],
+  "kunyomi": [
+   "とど(ける)"
+  ],
+  "meaning": "deliver, reach",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "届ける",
+    "meaning": "to deliver",
+    "reading": "とどける (todokeru)"
+   },
+   {
+    "word": "届く",
+    "meaning": "to arrive, reach",
+    "reading": "とどく (todoku)"
+   }
+  ]
+ },
+ {
+  "kanji": "利",
+  "onyomi": [
+   "リ"
+  ],
+  "kunyomi": [
+   "き(く)"
+  ],
+  "meaning": "advantage, profit",
+  "breakdown": "禾 (grain) + 刂 (knife)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "便利",
+    "meaning": "convenient",
+    "reading": "べんり (benri)"
+   },
+   {
+    "word": "利用",
+    "meaning": "utilization",
+    "reading": "りよう (riyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "払",
+  "onyomi": [
+   "フツ"
+  ],
+  "kunyomi": [
+   "はら(う)"
+  ],
+  "meaning": "pay, sweep away",
+  "breakdown": "扌 (hand) + 払のつくり",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "払う",
+    "meaning": "to pay",
+    "reading": "はらう (harau)"
+   }
+  ]
+ },
+ {
+  "kanji": "濯",
+  "onyomi": [
+   "タク"
+  ],
+  "kunyomi": [],
+  "meaning": "rinse, wash",
+  "breakdown": "氵 (water) + 翟",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "洗濯",
+    "meaning": "laundry",
+    "reading": "せんたく (sentaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "踊",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [
+   "おど(る)"
+  ],
+  "meaning": "dance",
+  "breakdown": "足 (foot) + 甬",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "踊る",
+    "meaning": "to dance",
+    "reading": "おどる (odoru)"
+   }
+  ]
+ },
+ {
+  "kanji": "活",
+  "onyomi": [
+   "カツ"
+  ],
+  "kunyomi": [],
+  "meaning": "life, activity",
+  "breakdown": "氵 (water) + 舌",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "生活",
+    "meaning": "daily life",
+    "reading": "せいかつ (seikatsu)"
+   },
+   {
+    "word": "活動",
+    "meaning": "activity",
+    "reading": "かつどう (katsudou)"
+   }
+  ]
+ },
+ {
+  "kanji": "末",
+  "onyomi": [
+   "マツ",
+   "バツ"
+  ],
+  "kunyomi": [
+   "すえ"
+  ],
+  "meaning": "end, tip",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "週末",
+    "meaning": "weekend",
+    "reading": "しゅうまつ (shuumatsu)"
+   },
+   {
+    "word": "末",
+    "meaning": "the end",
+    "reading": "すえ (sue)"
+   }
+  ]
+ },
+ {
+  "kanji": "宅",
+  "onyomi": [
+   "タク"
+  ],
+  "kunyomi": [],
+  "meaning": "home, residence",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "お宅",
+    "meaning": "your home (polite)",
+    "reading": "おたく (otaku)"
+   },
+   {
+    "word": "自宅",
+    "meaning": "one's own home",
+    "reading": "じたく (jitaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "祭",
+  "onyomi": [
+   "サイ"
+  ],
+  "kunyomi": [
+   "まつ(り)"
+  ],
+  "meaning": "festival",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "祭り",
+    "meaning": "festival",
+    "reading": "まつり (matsuri)"
+   }
+  ]
+ },
+ {
+  "kanji": "平",
+  "onyomi": [
+   "ヘイ",
+   "ビョウ"
+  ],
+  "kunyomi": [
+   "たい(ら)"
+  ],
+  "meaning": "flat, peace",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "平和",
+    "meaning": "peace",
+    "reading": "へいわ (heiwa)"
+   },
+   {
+    "word": "平日",
+    "meaning": "weekday",
+    "reading": "へいじつ (heijitsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "和",
+  "onyomi": [
+   "ワ"
+  ],
+  "kunyomi": [
+   "やわ(らぐ)"
+  ],
+  "meaning": "harmony, Japanese-style",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "平和",
+    "meaning": "peace",
+    "reading": "へいわ (heiwa)"
+   },
+   {
+    "word": "和食",
+    "meaning": "Japanese food",
+    "reading": "わしょく (washoku)"
+   }
+  ]
+ },
+ {
+  "kanji": "戦",
+  "onyomi": [
+   "セン"
+  ],
+  "kunyomi": [
+   "たたか(う)"
+  ],
+  "meaning": "war, battle",
+  "breakdown": "単 + 戈 (spear)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "戦争",
+    "meaning": "war",
+    "reading": "せんそう (sensou)"
+   },
+   {
+    "word": "戦う",
+    "meaning": "to fight",
+    "reading": "たたかう (tatakau)"
+   }
+  ]
+ },
+ {
+  "kanji": "争",
+  "onyomi": [
+   "ソウ"
+  ],
+  "kunyomi": [
+   "あらそ(う)"
+  ],
+  "meaning": "dispute, compete",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "戦争",
+    "meaning": "war",
+    "reading": "せんそう (sensou)"
+   },
+   {
+    "word": "競争",
+    "meaning": "competition",
+    "reading": "きょうそう (kyousou)"
+   }
+  ]
+ },
+ {
+  "kanji": "政",
+  "onyomi": [
+   "セイ",
+   "ショウ"
+  ],
+  "kunyomi": [],
+  "meaning": "politics, government",
+  "breakdown": "正 (correct) + 攵",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "政治",
+    "meaning": "politics",
+    "reading": "せいじ (seiji)"
+   }
+  ]
+ },
+ {
+  "kanji": "治",
+  "onyomi": [
+   "ジ",
+   "チ"
+  ],
+  "kunyomi": [
+   "おさ(める)",
+   "なお(る)"
+  ],
+  "meaning": "govern, cure",
+  "breakdown": "氵 (water) + 台",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "政治",
+    "meaning": "politics",
+    "reading": "せいじ (seiji)"
+   },
+   {
+    "word": "治る",
+    "meaning": "to heal, recover",
+    "reading": "なおる (naoru)"
+   }
+  ]
+ },
+ {
+  "kanji": "経",
+  "onyomi": [
+   "ケイ",
+   "キョウ"
+  ],
+  "kunyomi": [
+   "へ(る)"
+  ],
+  "meaning": "pass through, sutra",
+  "breakdown": "糸 (thread) + 圣",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "経済",
+    "meaning": "economy",
+    "reading": "けいざい (keizai)"
+   },
+   {
+    "word": "経験",
+    "meaning": "experience",
+    "reading": "けいけん (keiken)"
+   }
+  ]
+ },
+ {
+  "kanji": "済",
+  "onyomi": [
+   "サイ"
+  ],
+  "kunyomi": [
+   "す(む)"
+  ],
+  "meaning": "finish, settle",
+  "breakdown": "氵 (water) + 斉",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "経済",
+    "meaning": "economy",
+    "reading": "けいざい (keizai)"
+   },
+   {
+    "word": "済む",
+    "meaning": "to be finished",
+    "reading": "すむ (sumu)"
+   }
+  ]
+ },
+ {
+  "kanji": "法",
+  "onyomi": [
+   "ホウ"
+  ],
+  "kunyomi": [],
+  "meaning": "law, method",
+  "breakdown": "氵 (water) + 去",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "法律",
+    "meaning": "law",
+    "reading": "ほうりつ (houritsu)"
+   },
+   {
+    "word": "方法",
+    "meaning": "method",
+    "reading": "ほうほう (houhou)"
+   }
+  ]
+ },
+ {
+  "kanji": "律",
+  "onyomi": [
+   "リツ",
+   "リチ"
+  ],
+  "kunyomi": [],
+  "meaning": "law, rhythm",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "法律",
+    "meaning": "law",
+    "reading": "ほうりつ (houritsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "際",
+  "onyomi": [
+   "サイ"
+  ],
+  "kunyomi": [
+   "きわ"
+  ],
+  "meaning": "occasion, border",
+  "breakdown": "阝 + 祭",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "国際",
+    "meaning": "international",
+    "reading": "こくさい (kokusai)"
+   },
+   {
+    "word": "実際",
+    "meaning": "actually, in fact",
+    "reading": "じっさい (jissai)"
+   }
+  ]
+ },
+ {
+  "kanji": "関",
+  "onyomi": [
+   "カン"
+  ],
+  "kunyomi": [
+   "せき"
+  ],
+  "meaning": "relation, barrier",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "関係",
+    "meaning": "relationship",
+    "reading": "かんけい (kankei)"
+   }
+  ]
+ },
+ {
+  "kanji": "係",
+  "onyomi": [
+   "ケイ"
+  ],
+  "kunyomi": [
+   "かか(る)"
+  ],
+  "meaning": "concern, in charge",
+  "breakdown": "亻 (person) + 系",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "関係",
+    "meaning": "relationship",
+    "reading": "かんけい (kankei)"
+   },
+   {
+    "word": "係員",
+    "meaning": "clerk, attendant",
+    "reading": "かかりいん (kakariin)"
+   }
+  ]
+ },
+ {
+  "kanji": "義",
+  "onyomi": [
+   "ギ"
+  ],
+  "kunyomi": [],
+  "meaning": "justice, meaning",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "意義",
+    "meaning": "significance",
+    "reading": "いぎ (igi)"
+   },
+   {
+    "word": "主義",
+    "meaning": "-ism, principle",
+    "reading": "しゅぎ (shugi)"
+   }
+  ]
+ },
+ {
+  "kanji": "議",
+  "onyomi": [
+   "ギ"
+  ],
+  "kunyomi": [],
+  "meaning": "deliberate, discuss",
+  "breakdown": "言 (words) + 義",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "会議",
+    "meaning": "meeting",
+    "reading": "かいぎ (kaigi)"
+   },
+   {
+    "word": "議論",
+    "meaning": "discussion, debate",
+    "reading": "ぎろん (giron)"
+   }
+  ]
+ },
+ {
+  "kanji": "党",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [],
+  "meaning": "political party",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "政党",
+    "meaning": "political party",
+    "reading": "せいとう (seitou)"
+   }
+  ]
+ },
+ {
+  "kanji": "遊",
+  "onyomi": [
+   "ユウ",
+   "ユ"
+  ],
+  "kunyomi": [
+   "あそ(ぶ)"
+  ],
+  "meaning": "play",
+  "breakdown": "辶 (movement) + 斿",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "遊ぶ",
+    "meaning": "to play",
+    "reading": "あそぶ (asobu)"
+   }
+  ]
+ },
+ {
+  "kanji": "泳",
+  "onyomi": [
+   "エイ"
+  ],
+  "kunyomi": [
+   "およ(ぐ)"
+  ],
+  "meaning": "swim",
+  "breakdown": "氵 (water) + 永",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "泳ぐ",
+    "meaning": "to swim",
+    "reading": "およぐ (oyogu)"
+   },
+   {
+    "word": "水泳",
+    "meaning": "swimming",
+    "reading": "すいえい (suiei)"
+   }
+  ]
+ },
+ {
+  "kanji": "疲",
+  "onyomi": [
+   "ヒ"
+  ],
+  "kunyomi": [
+   "つか(れる)"
+  ],
+  "meaning": "tired",
+  "breakdown": "疒 (sickness) + 皮",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "疲れる",
+    "meaning": "to get tired",
+    "reading": "つかれる (tsukareru)"
+   }
+  ]
+ },
+ {
+  "kanji": "暖",
+  "onyomi": [
+   "ダン"
+  ],
+  "kunyomi": [
+   "あたた(かい)"
+  ],
+  "meaning": "warm",
+  "breakdown": "日 (sun) + 爰",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "暖かい",
+    "meaning": "warm",
+    "reading": "あたたかい (atatakai)"
+   }
+  ]
+ },
+ {
+  "kanji": "涼",
+  "onyomi": [
+   "リョウ"
+  ],
+  "kunyomi": [
+   "すず(しい)"
+  ],
+  "meaning": "cool",
+  "breakdown": "氵 (water) + 京",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "涼しい",
+    "meaning": "cool (temperature)",
+    "reading": "すずしい (suzushii)"
+   }
+  ]
+ },
+ {
+  "kanji": "静",
+  "onyomi": [
+   "セイ",
+   "ジョウ"
+  ],
+  "kunyomi": [
+   "しず(か)"
+  ],
+  "meaning": "quiet",
+  "breakdown": "青 (blue) + 争",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "静か",
+    "meaning": "quiet",
+    "reading": "しずか (shizuka)"
+   }
+  ]
+ },
+ {
+  "kanji": "公",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "おおやけ"
+  ],
+  "meaning": "public",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "公園",
+    "meaning": "park",
+    "reading": "こうえん (kouen)"
+   }
+  ]
+ },
+ {
+  "kanji": "園",
+  "onyomi": [
+   "エン"
+  ],
+  "kunyomi": [
+   "その"
+  ],
+  "meaning": "garden",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "公園",
+    "meaning": "park",
+    "reading": "こうえん (kouen)"
+   },
+   {
+    "word": "動物園",
+    "meaning": "zoo",
+    "reading": "どうぶつえん (doubutsuen)"
+   }
+  ]
+ },
+ {
+  "kanji": "込",
+  "onyomi": [],
+  "kunyomi": [
+   "こ(む)"
+  ],
+  "meaning": "crowded, include",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "込む",
+    "meaning": "to be crowded",
+    "reading": "こむ (komu)"
+   },
+   {
+    "word": "申し込む",
+    "meaning": "to apply, sign up",
+    "reading": "もうしこむ (moushikomu)"
+   }
+  ]
+ },
+ {
+  "kanji": "連",
+  "onyomi": [
+   "レン"
+  ],
+  "kunyomi": [
+   "つ(れる)"
+  ],
+  "meaning": "connect, take along",
+  "breakdown": "辶 (movement) + 車",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "連れる",
+    "meaning": "to take (someone) along",
+    "reading": "つれる (tsureru)"
+   },
+   {
+    "word": "連絡",
+    "meaning": "contact, communication",
+    "reading": "れんらく (renraku)"
+   }
+  ]
+ },
+ {
+  "kanji": "側",
+  "onyomi": [
+   "ソク"
+  ],
+  "kunyomi": [
+   "がわ"
+  ],
+  "meaning": "side",
+  "breakdown": "亻 (person) + 則",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "両側",
+    "meaning": "both sides",
+    "reading": "りょうがわ (ryougawa)"
+   },
+   {
+    "word": "内側",
+    "meaning": "inside",
+    "reading": "うちがわ (uchigawa)"
+   }
+  ]
+ },
+ {
+  "kanji": "葉",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [
+   "は"
+  ],
+  "meaning": "leaf",
+  "breakdown": "艹 (grass) + 葉のつくり",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "葉",
+    "meaning": "leaf",
+    "reading": "は (ha)"
+   },
+   {
+    "word": "言葉",
+    "meaning": "word, language",
+    "reading": "ことば (kotoba)"
+   }
+  ]
+ },
+ {
+  "kanji": "景",
+  "onyomi": [
+   "ケイ"
+  ],
+  "kunyomi": [],
+  "meaning": "scenery",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "景色",
+    "meaning": "scenery",
+    "reading": "けしき (keshiki)"
+   }
+  ]
+ },
+ {
+  "kanji": "記",
+  "onyomi": [
+   "キ"
+  ],
+  "kunyomi": [
+   "しる(す)"
+  ],
+  "meaning": "record",
+  "breakdown": "言 (words) + 己",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "日記",
+    "meaning": "diary",
+    "reading": "にっき (nikki)"
+   },
+   {
+    "word": "記録",
+    "meaning": "record",
+    "reading": "きろく (kiroku)"
+   }
+  ]
+ },
+ {
+  "kanji": "形",
+  "onyomi": [
+   "ケイ",
+   "ギョウ"
+  ],
+  "kunyomi": [
+   "かたち"
+  ],
+  "meaning": "shape",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "形",
+    "meaning": "shape",
+    "reading": "かたち (katachi)"
+   },
+   {
+    "word": "人形",
+    "meaning": "doll",
+    "reading": "にんぎょう (ningyou)"
+   }
+  ]
+ },
+ {
+  "kanji": "吉",
+  "onyomi": [
+   "キチ",
+   "キツ"
+  ],
+  "kunyomi": [],
+  "meaning": "good luck, auspicious",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "大吉",
+    "meaning": "great luck (fortune slip)",
+    "reading": "だいきち (daikichi)"
+   }
+  ]
+ },
+ {
+  "kanji": "結",
+  "onyomi": [
+   "ケツ"
+  ],
+  "kunyomi": [
+   "むす(ぶ)"
+  ],
+  "meaning": "tie, connect",
+  "breakdown": "糸 (thread) + 吉",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "結婚",
+    "meaning": "marriage",
+    "reading": "けっこん (kekkon)"
+   },
+   {
+    "word": "結ぶ",
+    "meaning": "to tie",
+    "reading": "むすぶ (musubu)"
+   }
+  ]
+ },
+ {
+  "kanji": "婚",
+  "onyomi": [
+   "コン"
+  ],
+  "kunyomi": [],
+  "meaning": "marriage",
+  "breakdown": "女 (woman) + 昏",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "結婚",
+    "meaning": "marriage",
+    "reading": "けっこん (kekkon)"
+   }
+  ]
+ },
+ {
+  "kanji": "共",
+  "onyomi": [
+   "キョウ"
+  ],
+  "kunyomi": [
+   "とも"
+  ],
+  "meaning": "together",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "共に",
+    "meaning": "together",
+    "reading": "ともに (tomoni)"
+   },
+   {
+    "word": "共通",
+    "meaning": "common, shared",
+    "reading": "きょうつう (kyoutsuu)"
+   }
+  ]
+ },
+ {
+  "kanji": "供",
+  "onyomi": [
+   "キョウ",
+   "ク"
+  ],
+  "kunyomi": [
+   "そな(える)"
+  ],
+  "meaning": "offer, accompany",
+  "breakdown": "亻 (person) + 共",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "子供",
+    "meaning": "child",
+    "reading": "こども (kodomo)"
+   },
+   {
+    "word": "供える",
+    "meaning": "to offer (at an altar)",
+    "reading": "そなえる (sonaeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "両",
+  "onyomi": [
+   "リョウ"
+  ],
+  "kunyomi": [],
+  "meaning": "both",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "両方",
+    "meaning": "both",
+    "reading": "りょうほう (ryouhou)"
+   },
+   {
+    "word": "両親",
+    "meaning": "parents",
+    "reading": "りょうしん (ryoushin)"
+   }
+  ]
+ },
+ {
+  "kanji": "若",
+  "onyomi": [
+   "ジャク",
+   "ニャク"
+  ],
+  "kunyomi": [
+   "わか(い)"
+  ],
+  "meaning": "young",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "若い",
+    "meaning": "young",
+    "reading": "わかい (wakai)"
+   }
+  ]
+ },
+ {
+  "kanji": "老",
+  "onyomi": [
+   "ロウ"
+  ],
+  "kunyomi": [
+   "お(いる)"
+  ],
+  "meaning": "old age",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "老人",
+    "meaning": "elderly person",
+    "reading": "ろうじん (roujin)"
+   }
+  ]
+ },
+ {
+  "kanji": "息",
+  "onyomi": [
+   "ソク"
+  ],
+  "kunyomi": [
+   "いき"
+  ],
+  "meaning": "breath, one's child",
+  "breakdown": "自 (self) + 心 (heart)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "息子",
+    "meaning": "son",
+    "reading": "むすこ (musuko)"
+   },
+   {
+    "word": "息",
+    "meaning": "breath",
+    "reading": "いき (iki)"
+   }
+  ]
+ },
+ {
+  "kanji": "奥",
+  "onyomi": [
+   "オウ"
+  ],
+  "kunyomi": [
+   "おく"
+  ],
+  "meaning": "interior, deep",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "奥さん",
+    "meaning": "wife (someone else's)",
+    "reading": "おくさん (okusan)"
+   },
+   {
+    "word": "奥",
+    "meaning": "the interior, back",
+    "reading": "おく (oku)"
+   }
+  ]
+ },
+ {
+  "kanji": "将",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [],
+  "meaning": "general, leader",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "将来",
+    "meaning": "the future",
+    "reading": "しょうらい (shourai)"
+   }
+  ]
+ },
+ {
+  "kanji": "祖",
+  "onyomi": [
+   "ソ"
+  ],
+  "kunyomi": [],
+  "meaning": "ancestor",
+  "breakdown": "示 (altar) + 且",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "祖父",
+    "meaning": "grandfather",
+    "reading": "そふ (sofu)"
+   },
+   {
+    "word": "祖母",
+    "meaning": "grandmother",
+    "reading": "そぼ (sobo)"
+   }
+  ]
+ },
+ {
+  "kanji": "育",
+  "onyomi": [
+   "イク"
+  ],
+  "kunyomi": [
+   "そだ(つ)"
+  ],
+  "meaning": "raise, grow",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "育てる",
+    "meaning": "to raise (a child)",
+    "reading": "そだてる (sodateru)"
+   },
+   {
+    "word": "教育",
+    "meaning": "education",
+    "reading": "きょういく (kyouiku)"
+   }
+  ]
+ },
+ {
+  "kanji": "性",
+  "onyomi": [
+   "セイ",
+   "ショウ"
+  ],
+  "kunyomi": [],
+  "meaning": "nature, gender",
+  "breakdown": "忄 (heart) + 生",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "性格",
+    "meaning": "personality",
+    "reading": "せいかく (seikaku)"
+   },
+   {
+    "word": "男性",
+    "meaning": "male (person)",
+    "reading": "だんせい (dansei)"
+   }
+  ]
+ },
+ {
+  "kanji": "招",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [
+   "まね(く)"
+  ],
+  "meaning": "invite",
+  "breakdown": "扌 (hand) + 召",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "招待",
+    "meaning": "invitation",
+    "reading": "しょうたい (shoutai)"
+   },
+   {
+    "word": "招く",
+    "meaning": "to invite",
+    "reading": "まねく (maneku)"
+   }
+  ]
+ },
+ {
+  "kanji": "取",
+  "onyomi": [
+   "シュ"
+  ],
+  "kunyomi": [
+   "と(る)"
+  ],
+  "meaning": "take",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "取る",
+    "meaning": "to take",
+    "reading": "とる (toru)"
+   }
+  ]
+ },
+ {
+  "kanji": "最",
+  "onyomi": [
+   "サイ"
+  ],
+  "kunyomi": [
+   "もっと(も)"
+  ],
+  "meaning": "most",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "最も",
+    "meaning": "most (of all)",
+    "reading": "もっとも (mottomo)"
+   },
+   {
+    "word": "最近",
+    "meaning": "recently",
+    "reading": "さいきん (saikin)"
+   }
+  ]
+ },
+ {
+  "kanji": "初",
+  "onyomi": [
+   "ショ"
+  ],
+  "kunyomi": [
+   "はじ(めて)"
+  ],
+  "meaning": "first",
+  "breakdown": "衤 (clothes) + 刀 (knife)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "初めて",
+    "meaning": "for the first time",
+    "reading": "はじめて (hajimete)"
+   },
+   {
+    "word": "最初",
+    "meaning": "the very beginning",
+    "reading": "さいしょ (saisho)"
+   }
+  ]
+ },
+ {
+  "kanji": "番",
+  "onyomi": [
+   "バン"
+  ],
+  "kunyomi": [],
+  "meaning": "turn, number",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "番号",
+    "meaning": "number",
+    "reading": "ばんごう (bangou)"
+   },
+   {
+    "word": "一番",
+    "meaning": "the most, number one",
+    "reading": "いちばん (ichiban)"
+   }
+  ]
+ },
+ {
+  "kanji": "歳",
+  "onyomi": [
+   "サイ",
+   "セイ"
+  ],
+  "kunyomi": [],
+  "meaning": "age, years",
+  "breakdown": "止 + 戌ベース",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "〜歳",
+    "meaning": "counter for age",
+    "reading": "さい (sai)"
+   },
+   {
+    "word": "お歳暮",
+    "meaning": "year-end gift",
+    "reading": "おせいぼ (oseibo)"
+   }
+  ]
+ },
+ {
+  "kanji": "枚",
+  "onyomi": [
+   "マイ"
+  ],
+  "kunyomi": [],
+  "meaning": "counter for flat objects",
+  "breakdown": "木 (tree) + 攵",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "一枚",
+    "meaning": "one (flat object)",
+    "reading": "いちまい (ichimai)"
+   }
+  ]
+ },
+ {
+  "kanji": "冊",
+  "onyomi": [
+   "サツ"
+  ],
+  "kunyomi": [],
+  "meaning": "counter for books",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "一冊",
+    "meaning": "one (book, counter)",
+    "reading": "いっさつ (issatsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "億",
+  "onyomi": [
+   "オク"
+  ],
+  "kunyomi": [],
+  "meaning": "hundred million",
+  "breakdown": "亻 (person) + 意",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "一億",
+    "meaning": "one hundred million",
+    "reading": "いちおく (ichioku)"
+   }
+  ]
+ },
+ {
+  "kanji": "点",
+  "onyomi": [
+   "テン"
+  ],
+  "kunyomi": [],
+  "meaning": "point, dot",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "点",
+    "meaning": "point, dot",
+    "reading": "てん (ten)"
+   },
+   {
+    "word": "採点",
+    "meaning": "grading, scoring",
+    "reading": "さいてん (saiten)"
+   }
+  ]
+ },
+ {
+  "kanji": "階",
+  "onyomi": [
+   "カイ"
+  ],
+  "kunyomi": [],
+  "meaning": "floor, story",
+  "breakdown": "阝 (mound) + 皆",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "〜階",
+    "meaning": "counter for building floors",
+    "reading": "かい (kai)"
+   },
+   {
+    "word": "階段",
+    "meaning": "stairs",
+    "reading": "かいだん (kaidan)"
+   }
+  ]
+ },
+ {
+  "kanji": "段",
+  "onyomi": [
+   "ダン"
+  ],
+  "kunyomi": [],
+  "meaning": "step, level",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "階段",
+    "meaning": "stairs",
+    "reading": "かいだん (kaidan)"
+   },
+   {
+    "word": "値段",
+    "meaning": "price",
+    "reading": "ねだん (nedan)"
+   }
+  ]
+ },
+ {
+  "kanji": "号",
+  "onyomi": [
+   "ゴウ"
+  ],
+  "kunyomi": [],
+  "meaning": "number, name",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "番号",
+    "meaning": "number",
+    "reading": "ばんごう (bangou)"
+   },
+   {
+    "word": "信号",
+    "meaning": "traffic signal",
+    "reading": "しんごう (shingou)"
+   }
+  ]
+ },
+ {
+  "kanji": "倍",
+  "onyomi": [
+   "バイ"
+  ],
+  "kunyomi": [],
+  "meaning": "times, double",
+  "breakdown": "亻 (person) + 咅",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "二倍",
+    "meaning": "double, twice",
+    "reading": "にばい (nibai)"
+   }
+  ]
+ },
+ {
+  "kanji": "々",
+  "onyomi": [],
+  "kunyomi": [],
+  "meaning": "kanji repetition mark (e.g. 人々, 時々)",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "人々",
+    "meaning": "people",
+    "reading": "ひとびと (hitobito)"
+   },
+   {
+    "word": "時々",
+    "meaning": "sometimes",
+    "reading": "ときどき (tokidoki)"
+   }
+  ]
+ },
+ {
+  "kanji": "勝",
+  "onyomi": [
+   "ショウ"
+  ],
+  "kunyomi": [
+   "か(つ)"
+  ],
+  "meaning": "win",
+  "breakdown": "月 (flesh) + 朕のつくり",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "勝つ",
+    "meaning": "to win",
+    "reading": "かつ (katsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "負",
+  "onyomi": [
+   "フ"
+  ],
+  "kunyomi": [
+   "ま(ける)",
+   "お(う)"
+  ],
+  "meaning": "lose, bear (a burden)",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "負ける",
+    "meaning": "to lose",
+    "reading": "まける (makeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "賛",
+  "onyomi": [
+   "サン"
+  ],
+  "kunyomi": [],
+  "meaning": "approve, praise",
+  "breakdown": "先 + 先 + 貝 (shell/money)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "賛成",
+    "meaning": "agreement, approval",
+    "reading": "さんせい (sansei)"
+   }
+  ]
+ },
+ {
+  "kanji": "成",
+  "onyomi": [
+   "セイ",
+   "ジョウ"
+  ],
+  "kunyomi": [
+   "な(る)"
+  ],
+  "meaning": "become, accomplish",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "賛成",
+    "meaning": "agreement, approval",
+    "reading": "さんせい (sansei)"
+   },
+   {
+    "word": "成功",
+    "meaning": "success",
+    "reading": "せいこう (seikou)"
+   }
+  ]
+ },
+ {
+  "kanji": "絶",
+  "onyomi": [
+   "ゼツ"
+  ],
+  "kunyomi": [
+   "た(える)"
+  ],
+  "meaning": "sever, cut off",
+  "breakdown": "糸 (thread) + 色",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "絶対",
+    "meaning": "absolutely",
+    "reading": "ぜったい (zettai)"
+   }
+  ]
+ },
+ {
+  "kanji": "対",
+  "onyomi": [
+   "タイ",
+   "ツイ"
+  ],
+  "kunyomi": [],
+  "meaning": "opposite, versus",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "絶対",
+    "meaning": "absolutely",
+    "reading": "ぜったい (zettai)"
+   },
+   {
+    "word": "反対",
+    "meaning": "opposition",
+    "reading": "はんたい (hantai)"
+   }
+  ]
+ },
+ {
+  "kanji": "続",
+  "onyomi": [
+   "ゾク"
+  ],
+  "kunyomi": [
+   "つづ(く)"
+  ],
+  "meaning": "continue",
+  "breakdown": "糸 (thread) + 売",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "続ける",
+    "meaning": "to continue",
+    "reading": "つづける (tsuzukeru)"
+   },
+   {
+    "word": "続く",
+    "meaning": "to continue (intransitive)",
+    "reading": "つづく (tsuzuku)"
+   }
+  ]
+ },
+ {
+  "kanji": "辞",
+  "onyomi": [
+   "ジ"
+  ],
+  "kunyomi": [
+   "や(める)"
+  ],
+  "meaning": "word, resign",
+  "breakdown": "舌 + 辛",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "辞書",
+    "meaning": "dictionary",
+    "reading": "じしょ (jisho)"
+   },
+   {
+    "word": "辞める",
+    "meaning": "to resign, quit",
+    "reading": "やめる (yameru)"
+   }
+  ]
+ },
+ {
+  "kanji": "投",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [
+   "な(げる)"
+  ],
+  "meaning": "throw",
+  "breakdown": "扌 (hand) + 殳",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "投げる",
+    "meaning": "to throw",
+    "reading": "なげる (nageru)"
+   }
+  ]
+ },
+ {
+  "kanji": "選",
+  "onyomi": [
+   "セン"
+  ],
+  "kunyomi": [
+   "えら(ぶ)"
+  ],
+  "meaning": "choose",
+  "breakdown": "選のつくり + 辶 (movement)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "選ぶ",
+    "meaning": "to choose",
+    "reading": "えらぶ (erabu)"
+   },
+   {
+    "word": "選挙",
+    "meaning": "election",
+    "reading": "せんきょ (senkyo)"
+   }
+  ]
+ },
+ {
+  "kanji": "約",
+  "onyomi": [
+   "ヤク"
+  ],
+  "kunyomi": [],
+  "meaning": "promise, approximately",
+  "breakdown": "糸 (thread) + 勺",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "約束",
+    "meaning": "promise",
+    "reading": "やくそく (yakusoku)"
+   },
+   {
+    "word": "予約",
+    "meaning": "reservation",
+    "reading": "よやく (yoyaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "束",
+  "onyomi": [
+   "ソク"
+  ],
+  "kunyomi": [
+   "たば"
+  ],
+  "meaning": "bundle",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "約束",
+    "meaning": "promise",
+    "reading": "やくそく (yakusoku)"
+   },
+   {
+    "word": "花束",
+    "meaning": "bouquet",
+    "reading": "はなたば (hanataba)"
+   }
+  ]
+ },
+ {
+  "kanji": "守",
+  "onyomi": [
+   "シュ",
+   "ス"
+  ],
+  "kunyomi": [
+   "まも(る)"
+  ],
+  "meaning": "protect",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "守る",
+    "meaning": "to protect",
+    "reading": "まもる (mamoru)"
+   }
+  ]
+ },
+ {
+  "kanji": "過",
+  "onyomi": [
+   "カ"
+  ],
+  "kunyomi": [
+   "す(ぎる)"
+  ],
+  "meaning": "pass, exceed",
+  "breakdown": "辶 (movement) + 咼",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "過去",
+    "meaning": "the past",
+    "reading": "かこ (kako)"
+   },
+   {
+    "word": "過ぎる",
+    "meaning": "to pass, exceed",
+    "reading": "すぎる (sugiru)"
+   }
+  ]
+ },
+ {
+  "kanji": "的",
+  "onyomi": [
+   "テキ"
+  ],
+  "kunyomi": [
+   "まと"
+  ],
+  "meaning": "target, -like (suffix)",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "目的",
+    "meaning": "purpose, goal",
+    "reading": "もくてき (mokuteki)"
+   },
+   {
+    "word": "的",
+    "meaning": "target",
+    "reading": "まと (mato)"
+   }
+  ]
+ },
+ {
+  "kanji": "飛",
+  "onyomi": [
+   "ヒ"
+  ],
+  "kunyomi": [
+   "と(ぶ)"
+  ],
+  "meaning": "fly",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "飛ぶ",
+    "meaning": "to fly",
+    "reading": "とぶ (tobu)"
+   },
+   {
+    "word": "飛行機",
+    "meaning": "airplane",
+    "reading": "ひこうき (hikouki)"
+   }
+  ]
+ },
+ {
+  "kanji": "機",
+  "onyomi": [
+   "キ"
+  ],
+  "kunyomi": [
+   "はた"
+  ],
+  "meaning": "machine, opportunity",
+  "breakdown": "木 (tree) + 幾",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "飛行機",
+    "meaning": "airplane",
+    "reading": "ひこうき (hikouki)"
+   },
+   {
+    "word": "機会",
+    "meaning": "opportunity",
+    "reading": "きかい (kikai)"
+   }
+  ]
+ },
+ {
+  "kanji": "失",
+  "onyomi": [
+   "シツ"
+  ],
+  "kunyomi": [
+   "うしな(う)"
+  ],
+  "meaning": "lose",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "失う",
+    "meaning": "to lose",
+    "reading": "うしなう (ushinau)"
+   },
+   {
+    "word": "失敗",
+    "meaning": "failure",
+    "reading": "しっぱい (shippai)"
+   }
+  ]
+ },
+ {
+  "kanji": "鉄",
+  "onyomi": [
+   "テツ"
+  ],
+  "kunyomi": [],
+  "meaning": "iron",
+  "breakdown": "金 (metal) + 失",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "地下鉄",
+    "meaning": "subway",
+    "reading": "ちかてつ (chikatetsu)"
+   },
+   {
+    "word": "鉄道",
+    "meaning": "railway",
+    "reading": "てつどう (tetsudou)"
+   }
+  ]
+ },
+ {
+  "kanji": "速",
+  "onyomi": [
+   "ソク"
+  ],
+  "kunyomi": [
+   "はや(い)"
+  ],
+  "meaning": "fast",
+  "breakdown": "辶 (movement) + 束",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "速い",
+    "meaning": "fast (speed)",
+    "reading": "はやい (hayai)"
+   }
+  ]
+ },
+ {
+  "kanji": "遅",
+  "onyomi": [
+   "チ"
+  ],
+  "kunyomi": [
+   "おそ(い)"
+  ],
+  "meaning": "late, slow",
+  "breakdown": "辶 (movement) + 犀",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "遅い",
+    "meaning": "slow, late",
+    "reading": "おそい (osoi)"
+   },
+   {
+    "word": "遅れる",
+    "meaning": "to be late",
+    "reading": "おくれる (okureru)"
+   }
+  ]
+ },
+ {
+  "kanji": "駐",
+  "onyomi": [
+   "チュウ"
+  ],
+  "kunyomi": [],
+  "meaning": "stay, park (vehicle)",
+  "breakdown": "馬 (horse) + 主",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "駐車場",
+    "meaning": "parking lot",
+    "reading": "ちゅうしゃじょう (chuushajou)"
+   }
+  ]
+ },
+ {
+  "kanji": "泊",
+  "onyomi": [
+   "ハク"
+  ],
+  "kunyomi": [
+   "と(まる)"
+  ],
+  "meaning": "stay overnight",
+  "breakdown": "氵 (water) + 白",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "泊まる",
+    "meaning": "to stay overnight",
+    "reading": "とまる (tomaru)"
+   },
+   {
+    "word": "一泊",
+    "meaning": "one night's stay",
+    "reading": "いっぱく (ippaku)"
+   }
+  ]
+ },
+ {
+  "kanji": "船",
+  "onyomi": [
+   "セン"
+  ],
+  "kunyomi": [
+   "ふね"
+  ],
+  "meaning": "ship",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "船",
+    "meaning": "ship",
+    "reading": "ふね (fune)"
+   }
+  ]
+ },
+ {
+  "kanji": "座",
+  "onyomi": [
+   "ザ"
+  ],
+  "kunyomi": [
+   "すわ(る)"
+  ],
+  "meaning": "seat, sit",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "座る",
+    "meaning": "to sit",
+    "reading": "すわる (suwaru)"
+   },
+   {
+    "word": "座席",
+    "meaning": "a seat",
+    "reading": "ざせき (zaseki)"
+   }
+  ]
+ },
+ {
+  "kanji": "席",
+  "onyomi": [
+   "セキ"
+  ],
+  "kunyomi": [],
+  "meaning": "seat",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "座席",
+    "meaning": "a seat",
+    "reading": "ざせき (zaseki)"
+   },
+   {
+    "word": "出席",
+    "meaning": "attendance",
+    "reading": "しゅっせき (shusseki)"
+   }
+  ]
+ },
+ {
+  "kanji": "島",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [
+   "しま"
+  ],
+  "meaning": "island",
+  "breakdown": "山 (mountain) + 鳥 (bird)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "島",
+    "meaning": "island",
+    "reading": "しま (shima)"
+   }
+  ]
+ },
+ {
+  "kanji": "陸",
+  "onyomi": [
+   "リク"
+  ],
+  "kunyomi": [],
+  "meaning": "land",
+  "breakdown": "阝 (mound) + 坴",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "陸",
+    "meaning": "land",
+    "reading": "りく (riku)"
+   },
+   {
+    "word": "着陸",
+    "meaning": "landing (aircraft)",
+    "reading": "ちゃくりく (chakuriku)"
+   }
+  ]
+ },
+ {
+  "kanji": "港",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "みなと"
+  ],
+  "meaning": "harbor",
+  "breakdown": "氵 (water) + 巷",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "港",
+    "meaning": "harbor, port",
+    "reading": "みなと (minato)"
+   },
+   {
+    "word": "空港",
+    "meaning": "airport",
+    "reading": "くうこう (kuukou)"
+   }
+  ]
+ },
+ {
+  "kanji": "橋",
+  "onyomi": [
+   "キョウ"
+  ],
+  "kunyomi": [
+   "はし"
+  ],
+  "meaning": "bridge",
+  "breakdown": "木 (tree) + 喬",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "橋",
+    "meaning": "bridge",
+    "reading": "はし (hashi)"
+   }
+  ]
+ },
+ {
+  "kanji": "交",
+  "onyomi": [
+   "コウ"
+  ],
+  "kunyomi": [
+   "ま(じる)"
+  ],
+  "meaning": "mix, exchange",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "交通",
+    "meaning": "traffic",
+    "reading": "こうつう (koutsuu)"
+   },
+   {
+    "word": "交換",
+    "meaning": "exchange",
+    "reading": "こうかん (koukan)"
+   }
+  ]
+ },
+ {
+  "kanji": "申",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [
+   "もう(す)"
+  ],
+  "meaning": "state, say (humble)",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "申す",
+    "meaning": "to say (humble)",
+    "reading": "もうす (mousu)"
+   },
+   {
+    "word": "申し込む",
+    "meaning": "to apply, sign up",
+    "reading": "もうしこむ (moushikomu)"
+   }
+  ]
+ },
+ {
+  "kanji": "神",
+  "onyomi": [
+   "シン",
+   "ジン"
+  ],
+  "kunyomi": [
+   "かみ"
+  ],
+  "meaning": "god",
+  "breakdown": "示 (altar) + 申",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "神様",
+    "meaning": "god",
+    "reading": "かみさま (kamisama)"
+   },
+   {
+    "word": "神社",
+    "meaning": "Shinto shrine",
+    "reading": "じんじゃ (jinja)"
+   }
+  ]
+ },
+ {
+  "kanji": "様",
+  "onyomi": [
+   "ヨウ"
+  ],
+  "kunyomi": [
+   "さま"
+  ],
+  "meaning": "manner, Mr./Ms.",
+  "breakdown": "木 (tree) + 羕",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "〜様",
+    "meaning": "Mr./Ms. (polite)",
+    "reading": "さま (sama)"
+   },
+   {
+    "word": "様子",
+    "meaning": "appearance, state",
+    "reading": "ようす (yousu)"
+   }
+  ]
+ },
+ {
+  "kanji": "信",
+  "onyomi": [
+   "シン"
+  ],
+  "kunyomi": [],
+  "meaning": "trust, believe",
+  "breakdown": "亻 (person) + 言 (words)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "信じる",
+    "meaning": "to believe",
+    "reading": "しんじる (shinjiru)"
+   },
+   {
+    "word": "自信",
+    "meaning": "self-confidence",
+    "reading": "じしん (jishin)"
+   }
+  ]
+ },
+ {
+  "kanji": "調",
+  "onyomi": [
+   "チョウ"
+  ],
+  "kunyomi": [
+   "しら(べる)"
+  ],
+  "meaning": "investigate, tune",
+  "breakdown": "言 (words) + 周",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "調べる",
+    "meaning": "to look up, investigate",
+    "reading": "しらべる (shiraberu)"
+   }
+  ]
+ },
+ {
+  "kanji": "査",
+  "onyomi": [
+   "サ"
+  ],
+  "kunyomi": [],
+  "meaning": "examine",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "調査",
+    "meaning": "investigation, survey",
+    "reading": "ちょうさ (chousa)"
+   },
+   {
+    "word": "検査",
+    "meaning": "inspection",
+    "reading": "けんさ (kensa)"
+   }
+  ]
+ },
+ {
+  "kanji": "相",
+  "onyomi": [
+   "ソウ",
+   "ショウ"
+  ],
+  "kunyomi": [
+   "あい"
+  ],
+  "meaning": "mutual, phase",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "相談",
+    "meaning": "consultation",
+    "reading": "そうだん (soudan)"
+   }
+  ]
+ },
+ {
+  "kanji": "談",
+  "onyomi": [
+   "ダン"
+  ],
+  "kunyomi": [],
+  "meaning": "talk, discuss",
+  "breakdown": "言 (words) + 炎",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "相談",
+    "meaning": "consultation",
+    "reading": "そうだん (soudan)"
+   }
+  ]
+ },
+ {
+  "kanji": "案",
+  "onyomi": [
+   "アン"
+  ],
+  "kunyomi": [],
+  "meaning": "proposal, idea",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "案内",
+    "meaning": "guidance, information",
+    "reading": "あんない (annai)"
+   }
+  ]
+ },
+ {
+  "kanji": "内",
+  "onyomi": [
+   "ナイ",
+   "ダイ"
+  ],
+  "kunyomi": [
+   "うち"
+  ],
+  "meaning": "inside",
+  "breakdown": null,
+  "is_radical": true,
+  "common_words": [
+   {
+    "word": "案内",
+    "meaning": "guidance, information",
+    "reading": "あんない (annai)"
+   },
+   {
+    "word": "内側",
+    "meaning": "the inside",
+    "reading": "うちがわ (uchigawa)"
+   }
+  ]
+ },
+ {
+  "kanji": "君",
+  "onyomi": [
+   "クン"
+  ],
+  "kunyomi": [
+   "きみ"
+  ],
+  "meaning": "you (familiar), lord",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "君",
+    "meaning": "you (familiar)",
+    "reading": "きみ (kimi)"
+   }
+  ]
+ },
+ {
+  "kanji": "達",
+  "onyomi": [
+   "タツ"
+  ],
+  "kunyomi": [],
+  "meaning": "reach, plural suffix",
+  "breakdown": "壸 + 辶 (movement)",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "友達",
+    "meaning": "friend",
+    "reading": "ともだち (tomodachi)"
+   },
+   {
+    "word": "私達",
+    "meaning": "we",
+    "reading": "わたしたち (watashitachi)"
+   }
+  ]
+ },
+ {
+  "kanji": "直",
+  "onyomi": [
+   "チョク",
+   "ジキ"
+  ],
+  "kunyomi": [
+   "なお(す)"
+  ],
+  "meaning": "straight, fix, soon",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "直す",
+    "meaning": "to fix",
+    "reading": "なおす (naosu)"
+   },
+   {
+    "word": "直接",
+    "meaning": "direct(ly)",
+    "reading": "ちょくせつ (chokusetsu)"
+   }
+  ]
+ },
+ {
+  "kanji": "危",
+  "onyomi": [
+   "キ"
+  ],
+  "kunyomi": [
+   "あぶ(ない)"
+  ],
+  "meaning": "dangerous",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "危ない",
+    "meaning": "dangerous",
+    "reading": "あぶない (abunai)"
+   },
+   {
+    "word": "危険",
+    "meaning": "danger",
+    "reading": "きけん (kiken)"
+   }
+  ]
+ },
+ {
+  "kanji": "険",
+  "onyomi": [
+   "ケン"
+  ],
+  "kunyomi": [
+   "けわ(しい)"
+  ],
+  "meaning": "steep, risky",
+  "breakdown": "阝 (mound) + 僉",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "危険",
+    "meaning": "danger",
+    "reading": "きけん (kiken)"
+   },
+   {
+    "word": "保険",
+    "meaning": "insurance",
+    "reading": "ほけん (hoken)"
+   }
+  ]
+ },
+ {
+  "kanji": "拾",
+  "onyomi": [
+   "シュウ"
+  ],
+  "kunyomi": [
+   "ひろ(う)"
+  ],
+  "meaning": "pick up",
+  "breakdown": "扌 (hand) + 合",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "拾う",
+    "meaning": "to pick up",
+    "reading": "ひろう (hirou)"
+   }
+  ]
+ },
+ {
+  "kanji": "捨",
+  "onyomi": [
+   "シャ"
+  ],
+  "kunyomi": [
+   "す(てる)"
+  ],
+  "meaning": "throw away",
+  "breakdown": "扌 (hand) + 舎",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "捨てる",
+    "meaning": "to throw away",
+    "reading": "すてる (suteru)"
+   }
+  ]
+ },
+ {
+  "kanji": "戻",
+  "onyomi": [
+   "レイ"
+  ],
+  "kunyomi": [
+   "もど(る)"
+  ],
+  "meaning": "return",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "戻る",
+    "meaning": "to go back, return",
+    "reading": "もどる (modoru)"
+   }
+  ]
+ },
+ {
+  "kanji": "吸",
+  "onyomi": [
+   "キュウ"
+  ],
+  "kunyomi": [
+   "す(う)"
+  ],
+  "meaning": "inhale",
+  "breakdown": "口 (mouth) + 及",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "吸う",
+    "meaning": "to inhale, smoke",
+    "reading": "すう (suu)"
+   }
+  ]
+ },
+ {
+  "kanji": "放",
+  "onyomi": [
+   "ホウ"
+  ],
+  "kunyomi": [
+   "はな(す)"
+  ],
+  "meaning": "release",
+  "breakdown": "方 (direction) + 攵",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "放す",
+    "meaning": "to release, let go",
+    "reading": "はなす (hanasu)"
+   },
+   {
+    "word": "放送",
+    "meaning": "broadcast",
+    "reading": "ほうそう (housou)"
+   }
+  ]
+ },
+ {
+  "kanji": "変",
+  "onyomi": [
+   "ヘン"
+  ],
+  "kunyomi": [
+   "か(わる)"
+  ],
+  "meaning": "change, strange",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "変える",
+    "meaning": "to change (something)",
+    "reading": "かえる (kaeru)"
+   },
+   {
+    "word": "大変",
+    "meaning": "tough, awful, very",
+    "reading": "たいへん (taihen)"
+   }
+  ]
+ },
+ {
+  "kanji": "髪",
+  "onyomi": [
+   "ハツ"
+  ],
+  "kunyomi": [
+   "かみ"
+  ],
+  "meaning": "hair",
+  "breakdown": "髟 (hair) + 友",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "髪",
+    "meaning": "hair",
+    "reading": "かみ (kami)"
+   }
+  ]
+ },
+ {
+  "kanji": "絵",
+  "onyomi": [
+   "カイ",
+   "エ"
+  ],
+  "kunyomi": [],
+  "meaning": "picture, drawing",
+  "breakdown": "糸 (thread) + 会",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "絵",
+    "meaning": "picture, drawing",
+    "reading": "え (e)"
+   }
+  ]
+ },
+ {
+  "kanji": "横",
+  "onyomi": [
+   "オウ"
+  ],
+  "kunyomi": [
+   "よこ"
+  ],
+  "meaning": "side, horizontal",
+  "breakdown": "木 (tree) + 黄",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "横",
+    "meaning": "side, next to",
+    "reading": "よこ (yoko)"
+   }
+  ]
+ },
+ {
+  "kanji": "当",
+  "onyomi": [
+   "トウ"
+  ],
+  "kunyomi": [
+   "あ(たる)"
+  ],
+  "meaning": "hit, appropriate",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "本当",
+    "meaning": "true, really",
+    "reading": "ほんとう (hontou)"
+   },
+   {
+    "word": "当たる",
+    "meaning": "to hit, be correct",
+    "reading": "あたる (ataru)"
+   }
+  ]
+ },
+ {
+  "kanji": "伝",
+  "onyomi": [
+   "デン"
+  ],
+  "kunyomi": [
+   "つた(える)"
+  ],
+  "meaning": "transmit",
+  "breakdown": "亻 (person) + 云",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "伝える",
+    "meaning": "to convey, tell",
+    "reading": "つたえる (tsutaeru)"
+   }
+  ]
+ },
+ {
+  "kanji": "細",
+  "onyomi": [
+   "サイ"
+  ],
+  "kunyomi": [
+   "ほそ(い)"
+  ],
+  "meaning": "thin, detailed",
+  "breakdown": "糸 (thread) + 田",
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "細い",
+    "meaning": "thin, slender",
+    "reading": "ほそい (hosoi)"
+   }
+  ]
+ },
+ {
+  "kanji": "無",
+  "onyomi": [
+   "ム",
+   "ブ"
+  ],
+  "kunyomi": [
+   "な(い)"
+  ],
+  "meaning": "nothing, without",
+  "breakdown": null,
+  "is_radical": false,
+  "common_words": [
+   {
+    "word": "無い",
+    "meaning": "nonexistent, without",
+    "reading": "ない (nai)"
+   },
+   {
+    "word": "無理",
+    "meaning": "unreasonable, impossible",
+    "reading": "むり (muri)"
+   }
+  ]
+ }
+]

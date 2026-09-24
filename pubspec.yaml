@@ -1,0 +1,58 @@
+name: nihongo_trainer
+description: "NihongoTrainer — Japanese vocabulary, kanji, and sentence practice."
+publish_to: "none"
+version: 1.5.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  shared_preferences: ^2.2.2
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  provider: ^6.1.2
+  audioplayers: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/sentences.json
+    - assets/data/kanji_questions.json
+    - assets/data/vocab.json
+    - assets/data/kanji.json
+    - assets/data/radicals.json
+    - assets/data/radical_questions.json
+    - assets/data/kana.json
+    - assets/data/kana_questions.json
+    - assets/audio/mainmenu.m4a
+    - assets/audio/setting_sound.mp3
+    - assets/audio/correct_click.mp3
+    - assets/audio/error.mp3
+
+  fonts:
+    - family: NotoJP
+      fonts:
+        - asset: assets/fonts/NotoSansJP-Subset.otf
+
+# --- Launcher icon config -------------------------------------------------
+# Run `flutter pub run flutter_launcher_icons` after `flutter pub get` to
+# generate every density of Android launcher icon from these two source
+# images. Swap in your own square image any time (see SETUP_INSTRUCTIONS.md)
+# and just re-run that command.
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "#0f172a"
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"
+  min_sdk_android: 21
